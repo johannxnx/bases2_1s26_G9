@@ -1,0 +1,133 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1986,1986_gA_1,Bulgaria,Nasko Sirakov,85,NO,NO
+1986,1986_gA_1,Italia,Alessandro Altobelli,43,NO,NO
+1986,1986_gA_2,Argentina,Jorge Valdano,6,NO,NO
+1986,1986_gA_2,Argentina,Oscar Ruggeri,18,NO,NO
+1986,1986_gA_2,Argentina,Jorge Valdano,46,NO,NO
+1986,1986_gA_2,Corea del Sur,Chang Sun Park,73,NO,NO
+1986,1986_gA_3,Corea del Sur,Jong Boo Kim,70,NO,NO
+1986,1986_gA_3,Bulgaria,Plamen Getov,11,NO,NO
+1986,1986_gA_4,Italia,Alessandro Altobelli,6,SI,NO
+1986,1986_gA_4,Argentina,Diego Maradona,34,NO,NO
+1986,1986_gA_5,Argentina,Jorge Valdano,3,NO,NO
+1986,1986_gA_5,Argentina,Jorge Burruchaga,76,NO,NO
+1986,1986_gA_6,Corea del Sur,Soon Ho Choi,62,NO,NO
+1986,1986_gA_6,Corea del Sur,Jung Moo Huh,83,NO,NO
+1986,1986_gA_6,Italia,Alessandro Altobelli,17,NO,NO
+1986,1986_gA_6,Italia,Alessandro Altobelli,73,NO,NO
+1986,1986_gA_6,Italia,Kwang Rae Cho,82,NO,SI
+1986,1986_gB_1,Bélgica,Erwin Vandenbergh,45,NO,NO
+1986,1986_gB_1,México,Fernando Quirarte,23,NO,NO
+1986,1986_gB_1,México,Hugo Sánchez,39,NO,NO
+1986,1986_gB_2,Paraguay,Julio Cesar Romero,35,NO,NO
+1986,1986_gB_3,México,Luis Flores,3,NO,NO
+1986,1986_gB_3,Paraguay,Julio Cesar Romero,85,NO,NO
+1986,1986_gB_4,Iraq,Ahmed Radhi,59,NO,NO
+1986,1986_gB_4,Bélgica,Enzo Scifo,16,NO,NO
+1986,1986_gB_4,Bélgica,Nico Claesen,21,SI,NO
+1986,1986_gB_5,México,Fernando Quirarte,54,NO,NO
+1986,1986_gB_6,Paraguay,Roberto Cabañas,50,NO,NO
+1986,1986_gB_6,Paraguay,Roberto Cabañas,76,NO,NO
+1986,1986_gB_6,Bélgica,Frank Vercauteren,30,NO,NO
+1986,1986_gB_6,Bélgica,Daniel Veyt,59,NO,NO
+1986,1986_gC_1,Francia,Jean-Pierre Papin,79,NO,NO
+1986,1986_gC_2,URSS,Pavel Yakovenko,2,NO,NO
+1986,1986_gC_2,URSS,Sergei Aleinikov,4,NO,NO
+1986,1986_gC_2,URSS,Igor Belanov,24,SI,NO
+1986,1986_gC_2,URSS,Ivan Yaremchuk,66,NO,NO
+1986,1986_gC_2,URSS,Laszlo Dajka,73,NO,SI
+1986,1986_gC_2,URSS,Sergei Rodionov,80,NO,NO
+1986,1986_gC_3,Francia,Luis Fernandez,62,NO,NO
+1986,1986_gC_3,URSS,Vasili Rats,53,NO,NO
+1986,1986_gC_4,Hungría,Marton Esterhazy,2,NO,NO
+1986,1986_gC_4,Hungría,Lajos Detari,75,NO,NO
+1986,1986_gC_5,Francia,Yannick Stopyra,29,NO,NO
+1986,1986_gC_5,Francia,Jean Tigana,62,NO,NO
+1986,1986_gC_5,Francia,Dominique Rocheteau,84,NO,NO
+1986,1986_gC_6,URSS,Oleg Blokhin,58,NO,NO
+1986,1986_gC_6,URSS,Aleksandr Zavarov,74,NO,NO
+1986,1986_gD_1,Brasil,Socrates,62,NO,NO
+1986,1986_gD_2,Argelia,Djamel Zidane,59,NO,NO
+1986,1986_gD_2,Irlanda del Norte,Norman Whiteside,6,NO,NO
+1986,1986_gD_3,Brasil,Careca,66,NO,NO
+1986,1986_gD_4,Irlanda del Norte,Colin Clarke,47,NO,NO
+1986,1986_gD_4,España,Emilio Butragueño,2,NO,NO
+1986,1986_gD_4,España,Julio Salinas,18,NO,NO
+1986,1986_gD_5,España,Ramon Maria Caldere,15,NO,NO
+1986,1986_gD_5,España,Ramon Maria Caldere,68,NO,NO
+1986,1986_gD_5,España,Eloy,70,NO,NO
+1986,1986_gD_6,Brasil,Careca,15,NO,NO
+1986,1986_gD_6,Brasil,Josimar,42,NO,NO
+1986,1986_gD_6,Brasil,Careca,87,NO,NO
+1986,1986_gE_1,Dinamarca,Preben Elkjaer Larsen,57,NO,NO
+1986,1986_gE_2,Uruguay,Antonio Alzamendi,4,NO,NO
+1986,1986_gE_2,Alemania Occidental,Klaus Allofs,84,NO,NO
+1986,1986_gE_3,Alemania Occidental,Rudi Voeller,22,NO,NO
+1986,1986_gE_3,Alemania Occidental,Klaus Allofs,50,NO,NO
+1986,1986_gE_3,Escocia,Gordon Strachan,18,NO,NO
+1986,1986_gE_4,Dinamarca,Preben Elkjaer Larsen,11,NO,NO
+1986,1986_gE_4,Dinamarca,Soren Lerby,41,NO,NO
+1986,1986_gE_4,Dinamarca,Michael Laudrup,52,NO,NO
+1986,1986_gE_4,Dinamarca,Preben Elkjaer Larsen,67,NO,NO
+1986,1986_gE_4,Dinamarca,Preben Elkjaer Larsen,80,NO,NO
+1986,1986_gE_4,Dinamarca,Jesper Olsen,88,NO,NO
+1986,1986_gE_4,Uruguay,Enzo Francescoli,45,SI,NO
+1986,1986_gE_5,Dinamarca,Jesper Olsen,43,SI,NO
+1986,1986_gE_5,Dinamarca,John Eriksen,62,NO,NO
+1986,1986_gF_2,Portugal,Carlos Manuel,75,NO,NO
+1986,1986_gF_4,Polonia,Wlodimierz Smolarek,68,NO,NO
+1986,1986_gF_5,Inglaterra,Gary Lineker,9,NO,NO
+1986,1986_gF_5,Inglaterra,Gary Lineker,14,NO,NO
+1986,1986_gF_5,Inglaterra,Gary Lineker,34,NO,NO
+1986,1986_gF_6,Portugal,Diamantino,79,NO,NO
+1986,1986_gF_6,Marruecos,Abdelrazzak Khairi,19,NO,NO
+1986,1986_gF_6,Marruecos,Abdelrazzak Khairi,27,NO,NO
+1986,1986_gF_6,Marruecos,Abdelkarim Krimau,62,NO,NO
+1986,1986_r_,URSS,Igor Belanov,27,NO,NO
+1986,1986_r_,URSS,Igor Belanov,70,NO,NO
+1986,1986_r_,URSS,Igor Belanov,111,SI,NO
+1986,1986_r_,Bélgica,Enzo Scifo,56,NO,NO
+1986,1986_r_,Bélgica,Jan Ceulemans,77,NO,NO
+1986,1986_r_,Bélgica,Stephane Demol,102,NO,NO
+1986,1986_r_,Bélgica,Nico Claesen,110,NO,NO
+1986,1986_r_,México,Manuel Negrete,34,NO,NO
+1986,1986_r_,México,Raul Servin,61,NO,NO
+1986,1986_r_,Brasil,Socrates,30,SI,NO
+1986,1986_r_,Brasil,Josimar,55,NO,NO
+1986,1986_r_,Brasil,Edinho,79,NO,NO
+1986,1986_r_,Brasil,Careca,83,SI,NO
+1986,1986_r_,Argentina,Pedro Pasculli,42,NO,NO
+1986,1986_r_,Alemania Occidental,Lothar Matthaeus,87,NO,NO
+1986,1986_r_,Francia,Michel Platini,15,NO,NO
+1986,1986_r_,Francia,Yannick Stopyra,57,NO,NO
+1986,1986_r_,Inglaterra,Gary Lineker,31,NO,NO
+1986,1986_r_,Inglaterra,Peter Beardsley,56,NO,NO
+1986,1986_r_,Inglaterra,Gary Lineker,73,NO,NO
+1986,1986_r_,Dinamarca,Jesper Olsen,33,SI,NO
+1986,1986_r_,España,Emilio Butragueño,43,NO,NO
+1986,1986_r_,España,Emilio Butragueño,56,NO,NO
+1986,1986_r_,España,Goikoetxea,68,SI,NO
+1986,1986_r_,España,Emilio Butragueño,80,NO,NO
+1986,1986_r_,España,Emilio Butragueño,89,SI,NO
+1986,1986_r_,Brasil,Careca,17,NO,NO
+1986,1986_r_,Francia,Michel Platini,40,NO,NO
+1986,1986_r_,Argentina,Diego Maradona,51,NO,NO
+1986,1986_r_,Argentina,Diego Maradona,54,NO,NO
+1986,1986_r_,Inglaterra,Gary Lineker,80,NO,NO
+1986,1986_r_,Bélgica,Jan Ceulemans,35,NO,NO
+1986,1986_r_,España,Juan Antonio Senor,85,NO,NO
+1986,1986_r_,Argentina,Diego Maradona,51,NO,NO
+1986,1986_r_,Argentina,Diego Maradona,63,NO,NO
+1986,1986_r_,Alemania Occidental,Andreas Brehme,9,NO,NO
+1986,1986_r_,Alemania Occidental,Rudi Voeller,89,NO,NO
+1986,1986_r_,Bélgica,Jan Ceulemans,11,NO,NO
+1986,1986_r_,Bélgica,Nico Claesen,73,NO,NO
+1986,1986_r_,Francia,Jean-Marc Ferreri,27,NO,NO
+1986,1986_r_,Francia,Jean-Pierre Papin,43,NO,NO
+1986,1986_r_,Francia,Bernard Genghini,104,NO,NO
+1986,1986_r_,Francia,Manuel Amoros,111,SI,NO
+1986,1986_r_,Argentina,Jose Brown,23,NO,NO
+1986,1986_r_,Argentina,Jorge Valdano,55,NO,NO
+1986,1986_r_,Argentina,Jorge Burruchaga,83,NO,NO
+1986,1986_r_,Alemania Occidental,Karl-Heinz Rummenigge,74,NO,NO
+1986,1986_r_,Alemania Occidental,Rudi Voeller,80,NO,NO

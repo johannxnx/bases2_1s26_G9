@@ -1,0 +1,12 @@
+RUN {
+  # Seteamos el tiempo después del segundo incremental
+  SET UNTIL TIME "to_date('2026-04-14 00:46:00', 'YYYY-MM-DD HH24:MI:SS')";
+
+  SQL "ALTER PLUGGABLE DATABASE XEPDB1 CLOSE IMMEDIATE";
+
+  # Aquí RMAN debería buscar el Nivel 0 y aplicar los Nivel 1 del día 2
+  RESTORE PLUGGABLE DATABASE XEPDB1;
+  RECOVER PLUGGABLE DATABASE XEPDB1;
+
+  ALTER PLUGGABLE DATABASE XEPDB1 OPEN RESETLOGS;
+}

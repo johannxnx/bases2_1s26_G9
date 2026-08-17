@@ -1,0 +1,172 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1998,1998_gA_1,Brasil,Cesar Sampaio,5,NO,NO
+1998,1998_gA_1,Brasil,Tom Boyd,74,NO,SI
+1998,1998_gA_1,Escocia,John Collins,38,SI,NO
+1998,1998_gA_2,Marruecos,Mustafa El Hadji,37,NO,NO
+1998,1998_gA_2,Marruecos,Abdeljalil Hadda,60,NO,NO
+1998,1998_gA_2,Noruega,Youssef Chippo,45,NO,SI
+1998,1998_gA_2,Noruega,Dan Eggen,61,NO,NO
+1998,1998_gA_3,Escocia,Craig Burley,66,NO,NO
+1998,1998_gA_3,Noruega,Havard Flo,46,NO,NO
+1998,1998_gA_4,Brasil,Ronaldo,9,NO,NO
+1998,1998_gA_4,Brasil,Rivaldo,45,NO,NO
+1998,1998_gA_4,Brasil,Bebeto,50,NO,NO
+1998,1998_gA_5,Marruecos,Salaheddine Bassir,23,NO,NO
+1998,1998_gA_5,Marruecos,Abdeljalil Hadda,46,NO,NO
+1998,1998_gA_5,Marruecos,Salaheddine Bassir,85,NO,NO
+1998,1998_gA_6,Brasil,Bebeto,78,NO,NO
+1998,1998_gA_6,Noruega,Tore Andre Flo,83,NO,NO
+1998,1998_gA_6,Noruega,Kjetil Rekdal,89,SI,NO
+1998,1998_gB_1,Camerún,Pierre Njanka,77,NO,NO
+1998,1998_gB_1,Austria,Toni Polster,90,NO,NO
+1998,1998_gB_2,Italia,Christian Vieri,11,NO,NO
+1998,1998_gB_2,Italia,Roberto Baggio,84,SI,NO
+1998,1998_gB_2,Chile,Marcelo Salas,45,NO,NO
+1998,1998_gB_2,Chile,Marcelo Salas,48,NO,NO
+1998,1998_gB_3,Chile,Marcelo Salas,70,NO,NO
+1998,1998_gB_3,Austria,Ivica Vastic,90,NO,NO
+1998,1998_gB_4,Italia,Luigi Di Biagio,7,NO,NO
+1998,1998_gB_4,Italia,Christian Vieri,75,NO,NO
+1998,1998_gB_4,Italia,Christian Vieri,89,NO,NO
+1998,1998_gB_5,Italia,Christian Vieri,48,NO,NO
+1998,1998_gB_5,Italia,Roberto Baggio,90,NO,NO
+1998,1998_gB_5,Austria,Andreas Herzog,90,SI,NO
+1998,1998_gB_6,Chile,Jose Sierra,20,NO,NO
+1998,1998_gB_6,Camerún,Patrick Mboma,56,NO,NO
+1998,1998_gC_1,Dinamarca,Marc Rieper,69,NO,NO
+1998,1998_gC_2,Francia,Christophe Dugarry,36,NO,NO
+1998,1998_gC_2,Francia,Pierre Issa,77,NO,SI
+1998,1998_gC_2,Francia,Thierry Henry,90,NO,NO
+1998,1998_gC_3,Francia,Thierry Henry,37,NO,NO
+1998,1998_gC_3,Francia,David Trezeguet,68,NO,NO
+1998,1998_gC_3,Francia,Thierry Henry,78,NO,NO
+1998,1998_gC_3,Francia,Bixente Lizarazu,85,NO,NO
+1998,1998_gC_4,Sudáfrica,Benni Mccarthy,51,NO,NO
+1998,1998_gC_4,Dinamarca,Allan Nielsen,12,NO,NO
+1998,1998_gC_5,Francia,Youri Djorkaeff,12,SI,NO
+1998,1998_gC_5,Francia,Emmanuel Petit,56,NO,NO
+1998,1998_gC_5,Dinamarca,Michael Laudrup,42,SI,NO
+1998,1998_gC_6,Sudáfrica,Shaun Bartlett,18,NO,NO
+1998,1998_gC_6,Sudáfrica,Shaun Bartlett,90,SI,NO
+1998,1998_gC_6,Arabia Saudita,Sami Al Jaber,45,SI,NO
+1998,1998_gC_6,Arabia Saudita,Youssef Al Tunayan,74,SI,NO
+1998,1998_gD_2,España,Fernando Hierro,21,NO,NO
+1998,1998_gD_2,España,Raul,47,NO,NO
+1998,1998_gD_2,Nigeria,Mutiu Adepoju,24,NO,NO
+1998,1998_gD_2,Nigeria,Andoni Zubizarreta,73,NO,SI
+1998,1998_gD_2,Nigeria,Sunday Oliseh,78,NO,NO
+1998,1998_gD_3,Nigeria,Victor Ikpeba,28,NO,NO
+1998,1998_gD_5,España,Fernando Hierro,6,SI,NO
+1998,1998_gD_5,España,Luis Enrique,18,NO,NO
+1998,1998_gD_5,España,Fernando Morientes,55,NO,NO
+1998,1998_gD_5,España,Fernando Morientes,81,NO,NO
+1998,1998_gD_5,España,Georgi Bachev,88,NO,SI
+1998,1998_gD_5,España,Kiko,90,NO,NO
+1998,1998_gD_5,Bulgaria,Emil Kostadinov,58,NO,NO
+1998,1998_gD_6,Nigeria,Wilson Oruma,11,NO,NO
+1998,1998_gD_6,Paraguay,Celso Ayala,1,NO,NO
+1998,1998_gD_6,Paraguay,Miguel Benitez,58,NO,NO
+1998,1998_gD_6,Paraguay,Jose Cardozo,86,NO,NO
+1998,1998_gE_2,Corea del Sur,Seok Ju Ha,27,NO,NO
+1998,1998_gE_2,México,Ricardo Pelaez Linares,50,NO,NO
+1998,1998_gE_2,México,Luis Hernandez,75,NO,NO
+1998,1998_gE_2,México,Luis Hernandez,84,NO,NO
+1998,1998_gE_3,Paises Bajos,Phillip Cocu,37,NO,NO
+1998,1998_gE_3,Paises Bajos,Marc Overmars,41,NO,NO
+1998,1998_gE_3,Paises Bajos,Dennis Bergkamp,71,NO,NO
+1998,1998_gE_3,Paises Bajos,Pierre Van Hooijdonk,78,NO,NO
+1998,1998_gE_3,Paises Bajos,Ronald De Boer,83,NO,NO
+1998,1998_gE_4,Bélgica,Marc Wilmots,42,NO,NO
+1998,1998_gE_4,Bélgica,Marc Wilmots,47,NO,NO
+1998,1998_gE_4,México,Alberto Garcia Aspe,55,SI,NO
+1998,1998_gE_4,México,Cuauhtemoc Blanco,62,NO,NO
+1998,1998_gE_5,Bélgica,Luc Nilis,7,NO,NO
+1998,1998_gE_5,Corea del Sur,Sang Chul Yoo,72,NO,NO
+1998,1998_gE_6,Paises Bajos,Phillip Cocu,4,NO,NO
+1998,1998_gE_6,Paises Bajos,Ronald De Boer,18,NO,NO
+1998,1998_gE_6,México,Ricardo Pelaez Linares,75,NO,NO
+1998,1998_gE_6,México,Luis Hernandez,90,NO,NO
+1998,1998_gF_1,RF de Yugoslavia,Sinisa Mihajlovic,73,NO,NO
+1998,1998_gF_2,Alemania,Andreas Moeller,10,NO,NO
+1998,1998_gF_2,Alemania,Juergen Klinsmann,67,NO,NO
+1998,1998_gF_3,Alemania,Sinisa Mihajlovic,72,NO,SI
+1998,1998_gF_3,Alemania,Oliver Bierhoff,78,NO,NO
+1998,1998_gF_3,RF de Yugoslavia,Predrag Mijatovic,13,NO,NO
+1998,1998_gF_3,RF de Yugoslavia,Dragan Stojkovic,52,NO,NO
+1998,1998_gF_4,Estados Unidos,Brian Mcbride,87,NO,NO
+1998,1998_gF_4,Irán,Hamid Estili,41,NO,NO
+1998,1998_gF_4,Irán,Mehdi Mahdavikia,83,NO,NO
+1998,1998_gF_5,Alemania,Oliver Bierhoff,50,NO,NO
+1998,1998_gF_5,Alemania,Juergen Klinsmann,57,NO,NO
+1998,1998_gF_6,RF de Yugoslavia,Slobodan Komljenovic,3,NO,NO
+1998,1998_gG_1,Rumania,Adrian Ilie,45,NO,NO
+1998,1998_gG_2,Inglaterra,Alan Shearer,42,NO,NO
+1998,1998_gG_2,Inglaterra,Paul Scholes,89,NO,NO
+1998,1998_gG_3,Colombia,Leider Preciado,82,NO,NO
+1998,1998_gG_4,Rumania,Viorel Moldovan,46,NO,NO
+1998,1998_gG_4,Rumania,Dan Petrescu,90,NO,NO
+1998,1998_gG_4,Inglaterra,Michael Owen,81,NO,NO
+1998,1998_gG_5,Rumania,Viorel Moldovan,71,NO,NO
+1998,1998_gG_5,Túnez,Skander Souayah,12,SI,NO
+1998,1998_gG_6,Inglaterra,Darren Anderton,20,NO,NO
+1998,1998_gG_6,Inglaterra,David Beckham,29,NO,NO
+1998,1998_gH_1,Jamaica,Robert Earle,45,NO,NO
+1998,1998_gH_1,Croacia,Mario Stanic,27,NO,NO
+1998,1998_gH_1,Croacia,Robert Prosinecki,53,NO,NO
+1998,1998_gH_1,Croacia,Davor Suker,69,NO,NO
+1998,1998_gH_2,Argentina,Gabriel Batistuta,28,NO,NO
+1998,1998_gH_3,Croacia,Davor Suker,77,NO,NO
+1998,1998_gH_4,Argentina,Ariel Ortega,31,NO,NO
+1998,1998_gH_4,Argentina,Ariel Ortega,55,NO,NO
+1998,1998_gH_4,Argentina,Gabriel Batistuta,73,NO,NO
+1998,1998_gH_4,Argentina,Gabriel Batistuta,78,NO,NO
+1998,1998_gH_4,Argentina,Gabriel Batistuta,83,SI,NO
+1998,1998_gH_5,Japón,Masashi Nakayama,74,NO,NO
+1998,1998_gH_5,Jamaica,Theodore Whitmore,39,NO,NO
+1998,1998_gH_5,Jamaica,Theodore Whitmore,54,NO,NO
+1998,1998_gH_6,Argentina,Mauricio Pineda,36,NO,NO
+1998,1998_r_49,Brasil,Cesar Sampaio,11,NO,NO
+1998,1998_r_49,Brasil,Cesar Sampaio,27,NO,NO
+1998,1998_r_49,Brasil,Ronaldo,45,SI,NO
+1998,1998_r_49,Brasil,Ronaldo,70,NO,NO
+1998,1998_r_49,Chile,Marcelo Salas,68,NO,NO
+1998,1998_r_50,Italia,Christian Vieri,18,NO,NO
+1998,1998_r_51,Nigeria,Tijani Babangida,78,NO,NO
+1998,1998_r_51,Dinamarca,Peter Moller,3,NO,NO
+1998,1998_r_51,Dinamarca,Brian Laudrup,12,NO,NO
+1998,1998_r_51,Dinamarca,Ebbe Sand,60,NO,NO
+1998,1998_r_51,Dinamarca,Thomas Helveg,76,NO,NO
+1998,1998_r_52,Francia,Laurent Blanc,113,NO,NO
+1998,1998_r_53,Alemania,Juergen Klinsmann,75,NO,NO
+1998,1998_r_53,Alemania,Oliver Bierhoff,86,NO,NO
+1998,1998_r_53,México,Luis Hernandez,47,NO,NO
+1998,1998_r_54,Paises Bajos,Dennis Bergkamp,38,NO,NO
+1998,1998_r_54,Paises Bajos,Edgar Davids,90,NO,NO
+1998,1998_r_54,RF de Yugoslavia,Slobodan Komljenovic,48,NO,NO
+1998,1998_r_55,Argentina,Gabriel Batistuta,6,SI,NO
+1998,1998_r_55,Argentina,Javier Zanetti,45,NO,NO
+1998,1998_r_55,Inglaterra,Alan Shearer,10,SI,NO
+1998,1998_r_55,Inglaterra,Michael Owen,16,NO,NO
+1998,1998_r_56,Croacia,Davor Suker,45,SI,NO
+1998,1998_r_58,Brasil,Bebeto,11,NO,NO
+1998,1998_r_58,Brasil,Rivaldo,27,NO,NO
+1998,1998_r_58,Brasil,Rivaldo,60,NO,NO
+1998,1998_r_58,Dinamarca,Martin Jorgensen,2,NO,NO
+1998,1998_r_58,Dinamarca,Brian Laudrup,50,NO,NO
+1998,1998_r_59,Croacia,Robert Jarni,45,NO,NO
+1998,1998_r_59,Croacia,Goran Vlaovic,80,NO,NO
+1998,1998_r_59,Croacia,Davor Suker,85,NO,NO
+1998,1998_r_60,Paises Bajos,Patrick Kluivert,12,NO,NO
+1998,1998_r_60,Paises Bajos,Dennis Bergkamp,89,NO,NO
+1998,1998_r_60,Argentina,Claudio Lopez,17,NO,NO
+1998,1998_r_61,Brasil,Ronaldo,46,NO,NO
+1998,1998_r_61,Paises Bajos,Patrick Kluivert,87,NO,NO
+1998,1998_r_62,Francia,Lilian Thuram,47,NO,NO
+1998,1998_r_62,Francia,Lilian Thuram,69,NO,NO
+1998,1998_r_62,Croacia,Davor Suker,46,NO,NO
+1998,1998_r_63,Paises Bajos,Boudewijn Zenden,21,NO,NO
+1998,1998_r_63,Croacia,Robert Prosinecki,13,NO,NO
+1998,1998_r_63,Croacia,Davor Suker,35,NO,NO
+1998,1998_r_64,Francia,Zinedine Zidane,27,NO,NO
+1998,1998_r_64,Francia,Zinedine Zidane,45,NO,NO
+1998,1998_r_64,Francia,Emmanuel Petit,90,NO,NO

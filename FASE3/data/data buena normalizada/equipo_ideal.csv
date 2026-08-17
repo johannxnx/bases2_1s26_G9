@@ -1,0 +1,255 @@
+id_equipo_ideal,anio,posicion,id_jugador,jugador,id_seleccion,seleccion
+1,1930,Arquero,5813,Enrique Ballestrero,80,Uruguay
+2,1930,Defensores,3596,Milutin Ivkovic,85,Yugoslavia
+3,1930,Defensores,5940,Jose Nasazzi,80,Uruguay
+4,1930,Mediocampistas,5809,Jose Andrade,80,Uruguay
+5,1930,Mediocampistas,5880,Alvaro Gestido,80,Uruguay
+6,1930,Mediocampistas,5694,Luis Monti,6,Argentina
+7,1930,Delanteros,5838,Hector Castro,80,Uruguay
+8,1930,Delanteros,5842,Pedro Cea,80,Uruguay
+9,1930,Delanteros,2861,Bert Patenaude,35,Estados Unidos
+10,1930,Delanteros,5995,Hector Scarone,80,Uruguay
+11,1930,Delanteros,5415,Guillermo Stabile,6,Argentina
+12,1934,Arquero,5098,Ricardo Zamora,34,España
+13,1934,Defensores,5696,Eraldo Monzeglio,51,Italia
+14,1934,Defensores,5029,Quincoces I,34,España
+15,1934,Mediocampistas,4898,Cilaurren,34,España
+16,1934,Mediocampistas,5629,Attilio Ferraris,51,Italia
+17,1934,Mediocampistas,5694,Luis Monti,51,Italia
+18,1934,Delanteros,5653,Enrique Guaita,51,Italia
+19,1934,Delanteros,5689,Giuseppe Meazza,51,Italia
+20,1934,Delanteros,537,Oldrich Nejedly,86,Checoslovaquia
+21,1934,Delanteros,5713,Raimundo Orsi,51,Italia
+22,1934,Delanteros,4647,Matthias Sindelar,8,Austria
+23,1938,Arquero,551,Frantisek Planicka,86,Checoslovaquia
+24,1938,Defensores,1601,Domingos Da Guia,11,Brasil
+25,1938,Defensores,5634,Alfredo Foni,51,Italia
+26,1938,Defensores,5743,Pietro Rava,51,Italia
+27,1938,Mediocampistas,5525,Michele Andreolo,51,Italia
+28,1938,Mediocampistas,5665,Ugo Locatelli,51,Italia
+29,1938,Delanteros,5591,Gino Colaussi,51,Italia
+30,1938,Delanteros,1690,Leonidas,11,Brasil
+31,1938,Delanteros,5732,Silvio Piola,51,Italia
+32,1938,Delanteros,7596,Gyorgy Sarosi,42,Hungría
+33,1938,Delanteros,7634,Gyula Zsengeller,42,Hungría
+34,1950,Arquero,5920,Roque Maspoli,80,Uruguay
+35,1950,Defensores,3468,Erik Nilsson,73,Suecia
+36,1950,Defensores,5016,Jose Parra,34,España
+37,1950,Defensores,5982,Victor Rodriguez Andrade,80,Uruguay
+38,1950,Mediocampistas,1550,Bauer,11,Brasil
+39,1950,Mediocampistas,5881,Alcides Ghiggia,80,Uruguay
+40,1950,Mediocampistas,1660,Jair,11,Brasil
+41,1950,Mediocampistas,6025,Obdulio Varela,80,Uruguay
+42,1950,Delanteros,1519,Ademir,11,Brasil
+43,1950,Delanteros,5996,Juan Schiaffino,80,Uruguay
+44,1950,Delanteros,1846,Zizinho,11,Brasil
+45,1954,Arquero,7531,Gyula Grosics,42,Hungría
+46,1954,Defensores,1599,Djalma Santos,11,Brasil
+47,1954,Defensores,4615,Ernst Ocwirk,8,Austria
+48,1954,Defensores,5990,Jose Santamaria,80,Uruguay
+49,1954,Mediocampistas,7503,Jozsef Bozsik,42,Hungría
+50,1954,Mediocampistas,7513,Zoltan Czibor,42,Hungría
+51,1954,Mediocampistas,7538,Nandor Hidegkuti,42,Hungría
+52,1954,Mediocampistas,6311,Fritz Walter,87,Alemania Occidental
+53,1954,Delanteros,7552,Sandor Kocsis,42,Hungría
+54,1954,Delanteros,7587,Ferenc Puskas,42,Hungría
+55,1954,Delanteros,6251,Helmut Rahn,87,Alemania Occidental
+56,1958,Arquero,2245,Harry Gregg,47,Irlanda del Norte
+57,1958,Defensores,1553,Bellini,11,Brasil
+58,1958,Defensores,1599,Djalma Santos,11,Brasil
+59,1958,Defensores,1739,Nilton Santos,11,Brasil
+60,1958,Mediocampistas,2227,Danny Blanchflower,47,Irlanda del Norte
+61,1958,Mediocampistas,1596,Didi,11,Brasil
+62,1958,Mediocampistas,3394,Gunnar Gren,73,Suecia
+63,1958,Mediocampistas,3954,Raymond Kopa,36,Francia
+64,1958,Delanteros,3915,Just Fontaine,36,Francia
+65,1958,Delanteros,1637,Garrincha,11,Brasil
+66,1958,Delanteros,1759,Pelé,11,Brasil
+67,1962,Arquero,570,Viliam Schrojf,86,Checoslovaquia
+68,1962,Defensores,1599,Djalma Santos,11,Brasil
+69,1962,Defensores,5673,Cesare Maldini,51,Italia
+70,1962,Defensores,6274,Karl-Heinz Schnellinger,87,Alemania Occidental
+71,1962,Defensores,417,Valeri Voronin,88,URSS
+72,1962,Mediocampistas,528,Josef Masopust,86,Checoslovaquia
+73,1962,Mediocampistas,1833,Zagallo,11,Brasil
+74,1962,Mediocampistas,1845,Zito,11,Brasil
+75,1962,Delanteros,1637,Garrincha,11,Brasil
+76,1962,Delanteros,758,Leonel Sanchez,17,Chile
+77,1962,Delanteros,1820,Vava,11,Brasil
+78,1966,Arquero,1207,Gordon Banks,44,Inglaterra
+79,1966,Defensores,1248,George Cohen,44,Inglaterra
+80,1966,Defensores,5312,Silvio Marzolini,6,Argentina
+81,1966,Defensores,1347,Bobby Moore,44,Inglaterra
+82,1966,Defensores,3325,Vicente,65,Portugal
+83,1966,Mediocampistas,6051,Franz Beckenbauer,87,Alemania Occidental
+84,1966,Mediocampistas,1239,Bobby Charlton,44,Inglaterra
+85,1966,Mediocampistas,3211,Coluna,65,Portugal
+86,1966,Delanteros,7490,Florian Albert,42,Hungría
+87,1966,Delanteros,3228,Eusebio,65,Portugal
+88,1966,Delanteros,6281,Uwe Seeler,87,Alemania Occidental
+89,1970,Arquero,5922,Ladislao Mazurkiewicz,80,Uruguay
+90,1970,Defensores,5808,Atilio Ancheta,80,Uruguay
+91,1970,Defensores,6051,Franz Beckenbauer,87,Alemania Occidental
+92,1970,Defensores,1571,Carlos Alberto,11,Brasil
+93,1970,Defensores,5623,Giacinto Facchetti,51,Italia
+94,1970,Mediocampistas,1239,Bobby Charlton,44,Inglaterra
+95,1970,Mediocampistas,1640,Gerson,11,Brasil
+96,1970,Mediocampistas,1782,Rivelino,11,Brasil
+97,1970,Delanteros,1663,Jairzinho,11,Brasil
+98,1970,Delanteros,6223,Gerd Mueller,87,Alemania Occidental
+99,1970,Delanteros,1759,Pelé,11,Brasil
+100,1974,Arquero,6208,Sepp Maier,87,Alemania Occidental
+101,1974,Defensores,6051,Franz Beckenbauer,87,Alemania Occidental
+102,1974,Defensores,6067,Paul Breitner,87,Alemania Occidental
+103,1974,Defensores,6434,Ruud Krol,60,Paises Bajos
+104,1974,Defensores,6307,Berti Vogts,87,Alemania Occidental
+105,1974,Mediocampistas,3048,Kazimierz Deyna,64,Polonia
+106,1974,Mediocampistas,6452,Johan Neeskens,60,Paises Bajos
+107,1974,Mediocampistas,6239,Wolfgang Overath,87,Alemania Occidental
+108,1974,Delanteros,6378,Johan Cruyff,60,Paises Bajos
+109,1974,Delanteros,3110,Grzegorz Lato,64,Polonia
+110,1974,Delanteros,6467,Rob Rensenbrink,60,Paises Bajos
+111,1978,Arquero,5255,Ubaldo Fillol,6,Argentina
+112,1978,Defensores,6434,Ruud Krol,60,Paises Bajos
+113,1978,Defensores,5350,Daniel Passarella,6,Argentina
+114,1978,Defensores,5420,Alberto Tarantini,6,Argentina
+115,1978,Defensores,6307,Berti Vogts,87,Alemania Occidental
+116,1978,Mediocampistas,1598,Dirceu,11,Brasil
+117,1978,Mediocampistas,6467,Rob Rensenbrink,60,Paises Bajos
+118,1978,Delanteros,5549,Roberto Bettega,51,Italia
+119,1978,Delanteros,2147,Teofilo Cubillas,63,Perú
+120,1978,Delanteros,5290,Mario Kempes,6,Argentina
+121,1978,Delanteros,5752,Paolo Rossi,51,Italia
+122,1982,Arquero,5797,Dino Zoff,51,Italia
+123,1982,Defensores,5592,Fulvio Collovati,51,Italia
+124,1982,Defensores,5643,Claudio Gentile,51,Italia
+125,1982,Defensores,1680,Junior,11,Brasil
+126,1982,Defensores,1701,Luizinho,11,Brasil
+127,1982,Mediocampistas,3035,Zbigniew Boniek,64,Polonia
+128,1982,Mediocampistas,1623,Falcao,11,Brasil
+129,1982,Mediocampistas,4012,Michel Platini,36,Francia
+130,1982,Mediocampistas,1843,Zico,11,Brasil
+131,1982,Delanteros,5752,Paolo Rossi,51,Italia
+132,1982,Delanteros,6265,Karl-Heinz Rummenigge,87,Alemania Occidental
+133,1986,Arquero,6679,Jean-Marie Pfaff,13,Bélgica
+134,1986,Defensores,3822,Manuel Amoros,36,Francia
+135,1986,Defensores,1671,Josimar,11,Brasil
+136,1986,Defensores,1676,Julio Cesar,11,Brasil
+137,1986,Mediocampistas,6571,Jan Ceulemans,13,Bélgica
+138,1986,Mediocampistas,5307,Diego Maradona,6,Argentina
+139,1986,Mediocampistas,4012,Michel Platini,36,Francia
+140,1986,Mediocampistas,4053,Jean Tigana,36,Francia
+141,1986,Delanteros,4880,Emilio Butragueño,34,España
+142,1986,Delanteros,4208,Preben Elkjaer Larsen,26,Dinamarca
+143,1986,Delanteros,1325,Gary Lineker,44,Inglaterra
+144,1990,Arquero,1986,Gabelo Conejo,22,Costa Rica
+145,1990,Arquero,5275,Sergio Goycochea,6,Argentina
+146,1990,Defensores,5536,Franco Baresi,51,Italia
+147,1990,Defensores,6066,Andreas Brehme,87,Alemania Occidental
+148,1990,Defensores,5674,Paolo Maldini,51,Italia
+149,1990,Mediocampistas,1281,Paul Gascoigne,44,Inglaterra
+150,1990,Mediocampistas,5307,Diego Maradona,6,Argentina
+151,1990,Mediocampistas,6212,Lothar Matthaeus,87,Alemania Occidental
+152,1990,Mediocampistas,3739,Dragan Stojkovic,85,Yugoslavia
+153,1990,Delanteros,6174,Juergen Klinsmann,87,Alemania Occidental
+154,1990,Delanteros,936,Roger Milla,14,Camerún
+155,1990,Delanteros,5758,Salvatore Schillaci,51,Italia
+156,1994,Arquero,6684,Michel Preudhomme,13,Bélgica
+157,1994,Defensores,1670,Jorginho,11,Brasil
+158,1994,Defensores,5674,Paolo Maldini,51,Italia
+159,1994,Defensores,1708,Marcio Santos,11,Brasil
+160,1994,Mediocampistas,2917,Krassimir Balakov,12,Bulgaria
+161,1994,Mediocampistas,3366,Tomas Brolin,73,Suecia
+162,1994,Mediocampistas,1605,Dunga,11,Brasil
+163,1994,Mediocampistas,1891,Gheorghe Hagi,68,Rumania
+164,1994,Delanteros,5533,Roberto Baggio,51,Italia
+165,1994,Delanteros,1791,Romario,11,Brasil
+166,1994,Delanteros,3001,Hristo Stoichkov,12,Bulgaria
+167,1998,Arquero,3832,Fabien Barthez,36,Francia
+168,1998,Arquero,4348,Jose Luis Chilavert,62,Paraguay
+169,1998,Defensores,6380,Frank De Boer,60,Paises Bajos
+170,1998,Defensores,3894,Marcel Desailly,36,Francia
+171,1998,Defensores,4366,Carlos Gamarra,62,Paraguay
+172,1998,Defensores,1784,Roberto Carlos,11,Brasil
+173,1998,Defensores,4051,Lilian Thuram,36,Francia
+174,1998,Mediocampistas,6379,Edgar Davids,60,Paises Bajos
+175,1998,Mediocampistas,1605,Dunga,11,Brasil
+176,1998,Mediocampistas,4243,Michael Laudrup,26,Dinamarca
+177,1998,Mediocampistas,1781,Rivaldo,11,Brasil
+178,1998,Mediocampistas,4075,Zinedine Zidane,36,Francia
+179,1998,Delanteros,6362,Dennis Bergkamp,60,Paises Bajos
+180,1998,Delanteros,4242,Brian Laudrup,26,Dinamarca
+181,1998,Delanteros,1795,Ronaldo,11,Brasil
+182,1998,Delanteros,3743,Davor Suker,24,Croacia
+183,2002,Arquero,6161,Oliver Kahn,1,Alemania
+184,2002,Arquero,5482,Rustu Recber,77,Turquía
+185,2002,Defensores,1235,Sol Campbell,44,Inglaterra
+186,2002,Defensores,4945,Fernando Hierro,34,España
+187,2002,Defensores,6972,Myung Bo Hong,21,Corea del Sur
+188,2002,Defensores,5478,Alpay Ozalan,77,Turquía
+189,2002,Defensores,1784,Roberto Carlos,11,Brasil
+190,2002,Mediocampistas,6047,Michael Ballack,1,Alemania
+191,2002,Mediocampistas,2871,Claudio Reyna,35,Estados Unidos
+192,2002,Mediocampistas,1781,Rivaldo,11,Brasil
+193,2002,Mediocampistas,1794,Ronaldinho,11,Brasil
+194,2002,Mediocampistas,7095,Sang Chul Yoo,21,Corea del Sur
+195,2002,Delanteros,1033,El Hadji Diouf,70,Senegal
+196,2002,Delanteros,6176,Miroslav Klose,1,Alemania
+197,2002,Delanteros,1795,Ronaldo,11,Brasil
+198,2002,Delanteros,5485,Hasan Sas,77,Turquía
+199,2006,Arquero,5559,Gianluigi Buffon,51,Italia
+200,2006,Arquero,6197,Jens Lehmann,1,Alemania
+201,2006,Arquero,5044,Ricardo,65,Portugal
+202,2006,Defensores,5169,Roberto Ayala,6,Argentina
+203,2006,Defensores,5568,Fabio Cannavaro,51,Italia
+204,2006,Defensores,6196,Philipp Lahm,1,Alemania
+205,2006,Defensores,3305,Ricardo Carvalho,65,Portugal
+206,2006,Defensores,1411,John Terry,44,Inglaterra
+207,2006,Defensores,4051,Lilian Thuram,36,Francia
+208,2006,Defensores,5794,Gianluca Zambrotta,51,Italia
+209,2006,Mediocampistas,6047,Michael Ballack,1,Alemania
+210,2006,Mediocampistas,5641,Gennaro Gattuso,51,Italia
+211,2006,Mediocampistas,3262,Maniche,65,Portugal
+212,2006,Mediocampistas,5733,Andrea Pirlo,51,Italia
+213,2006,Mediocampistas,5779,Francesco Totti,51,Italia
+214,2006,Mediocampistas,4068,Patrick Vieira,36,Francia
+215,2006,Mediocampistas,1838,Ze Roberto,11,Brasil
+216,2006,Mediocampistas,4075,Zinedine Zidane,36,Francia
+217,2006,Delanteros,5225,Hernan Crespo,6,Argentina
+218,2006,Delanteros,3235,Luis Figo,65,Portugal
+219,2006,Delanteros,3937,Thierry Henry,36,Francia
+220,2006,Delanteros,6176,Miroslav Klose,1,Alemania
+221,2006,Delanteros,5777,Luca Toni,51,Italia
+222,2010,Arquero,4892,Iker Casillas,34,España
+223,2010,Defensores,6196,Philipp Lahm,1,Alemania
+224,2010,Defensores,1703,Maicon,11,Brasil
+225,2010,Defensores,5028,Carles Puyol,34,España
+226,2010,Defensores,5035,Sergio Ramos,34,España
+227,2010,Mediocampistas,4948,Andrés Iniesta,34,España
+228,2010,Mediocampistas,6280,Bastian Schweinsteiger,1,Alemania
+229,2010,Mediocampistas,6481,Wesley Sneijder,60,Paises Bajos
+230,2010,Mediocampistas,5095,Xavi,34,España
+231,2010,Delanteros,5872,Diego Forlan,80,Uruguay
+232,2010,Delanteros,5091,David Villa,34,España
+233,2014,Arquero,6230,Manuel Neuer,1,Alemania
+234,2014,Defensores,1591,David Luiz,11,Brasil
+235,2014,Defensores,6150,Mats Hummels,1,Alemania
+236,2014,Defensores,1707,Marcelo,11,Brasil
+237,2014,Defensores,1804,Thiago Silva,11,Brasil
+238,2014,Mediocampistas,5238,Angel Di Maria,6,Argentina
+239,2014,Mediocampistas,6189,Toni Kroos,1,Alemania
+240,2014,Mediocampistas,2715,James Rodríguez,19,Colombia
+241,2014,Delanteros,5318,Lionel Messi,6,Argentina
+242,2014,Delanteros,6226,Thomas Müller,1,Alemania
+243,2014,Delanteros,1735,Neymar Jr.,11,Brasil
+244,2018,Arquero,6581,Thibaut Courtois,13,Bélgica
+245,2018,Defensores,5883,Diego Godin,80,Uruguay
+246,2018,Defensores,1707,Marcelo,11,Brasil
+247,2018,Defensores,1804,Thiago Silva,11,Brasil
+248,2018,Defensores,4063,Raphael Varane,36,Francia
+249,2018,Mediocampistas,6588,Kevin De Bruyne,13,Bélgica
+250,2018,Mediocampistas,1124,Luka Modric,24,Croacia
+251,2018,Mediocampistas,1762,Philippe Coutinho,11,Brasil
+252,2018,Delanteros,1312,Harry Kane,44,Inglaterra
+253,2018,Delanteros,3992,Kylian Mbappé,36,Francia
+254,2018,Delanteros,3307,Cristiano Ronaldo,65,Portugal

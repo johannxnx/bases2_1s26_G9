@@ -1,0 +1,90 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1966,1966_g1_2,Francia,Gerard Hausser,62,NO,NO
+1966,1966_g1_2,México,Enrique Borja,48,NO,NO
+1966,1966_g1_3,Uruguay,Pedro Rocha,26,NO,NO
+1966,1966_g1_3,Uruguay,Julio Cortes,31,NO,NO
+1966,1966_g1_3,Francia,Hector De Bourgoing,15,SI,NO
+1966,1966_g1_4,Inglaterra,Bobby Charlton,37,NO,NO
+1966,1966_g1_4,Inglaterra,Roger Hunt,75,NO,NO
+1966,1966_g1_6,Inglaterra,Roger Hunt,38,NO,NO
+1966,1966_g1_6,Inglaterra,Roger Hunt,75,NO,NO
+1966,1966_g2_1,Alemania Occidental,Sigi Held,15,NO,NO
+1966,1966_g2_1,Alemania Occidental,Helmut Haller,20,NO,NO
+1966,1966_g2_1,Alemania Occidental,Franz Beckenbauer,39,NO,NO
+1966,1966_g2_1,Alemania Occidental,Franz Beckenbauer,52,NO,NO
+1966,1966_g2_1,Alemania Occidental,Helmut Haller,77,SI,NO
+1966,1966_g2_2,Argentina,Luis Artime,65,NO,NO
+1966,1966_g2_2,Argentina,Luis Artime,79,NO,NO
+1966,1966_g2_2,España,Pirri,71,NO,NO
+1966,1966_g2_3,España,Manuel Sanchis,57,NO,NO
+1966,1966_g2_3,España,Amancio,75,NO,NO
+1966,1966_g2_3,Suiza,Rene Quentin,28,NO,NO
+1966,1966_g2_5,Argentina,Luis Artime,53,NO,NO
+1966,1966_g2_5,Argentina,Ermindo Onega,81,NO,NO
+1966,1966_g2_6,Alemania Occidental,Lothar Emmerich,38,NO,NO
+1966,1966_g2_6,Alemania Occidental,Uwe Seeler,84,NO,NO
+1966,1966_g2_6,España,Jose Maria Fuste,22,NO,NO
+1966,1966_g3_1,Brasil,Pelé,15,NO,NO
+1966,1966_g3_1,Brasil,Garrincha,63,NO,NO
+1966,1966_g3_2,Portugal,Jose Augusto,2,NO,NO
+1966,1966_g3_2,Portugal,Jose Augusto,67,NO,NO
+1966,1966_g3_2,Portugal,Jose Torres,90,NO,NO
+1966,1966_g3_2,Hungría,Ferenc Bene,60,NO,NO
+1966,1966_g3_3,Hungría,Ferenc Bene,2,NO,NO
+1966,1966_g3_3,Hungría,Janos Farkas,64,NO,NO
+1966,1966_g3_3,Hungría,Kalman Meszoly,73,SI,NO
+1966,1966_g3_3,Brasil,Tostao,14,NO,NO
+1966,1966_g3_4,Portugal,Ivan Vutsov,17,NO,SI
+1966,1966_g3_4,Portugal,Eusebio,38,NO,NO
+1966,1966_g3_4,Portugal,Jose Torres,81,NO,NO
+1966,1966_g3_5,Portugal,Simoes,15,NO,NO
+1966,1966_g3_5,Portugal,Eusebio,27,NO,NO
+1966,1966_g3_5,Portugal,Eusebio,85,NO,NO
+1966,1966_g3_5,Brasil,Rildo,73,NO,NO
+1966,1966_g3_6,Hungría,Ivan Davidov,43,NO,SI
+1966,1966_g3_6,Hungría,Kalman Meszoly,45,NO,NO
+1966,1966_g3_6,Hungría,Ferenc Bene,54,NO,NO
+1966,1966_g3_6,Bulgaria,Georgi Asparukhov,15,NO,NO
+1966,1966_g4_1,URSS,Eduard Malofeyev,31,NO,NO
+1966,1966_g4_1,URSS,Anatoli Banishevski,33,NO,NO
+1966,1966_g4_1,URSS,Eduard Malofeyev,88,NO,NO
+1966,1966_g4_2,Italia,Sandro Mazzola,8,NO,NO
+1966,1966_g4_2,Italia,Paolo Barison,88,NO,NO
+1966,1966_g4_3,Corea del Norte,Seung Zin Pak,88,NO,NO
+1966,1966_g4_3,Chile,Ruben Marcos,26,SI,NO
+1966,1966_g4_4,URSS,Igor Chislenko,57,NO,NO
+1966,1966_g4_5,Corea del Norte,Doo Ik Pak,42,NO,NO
+1966,1966_g4_6,URSS,Valeriy Porkuyan,28,NO,NO
+1966,1966_g4_6,URSS,Valeriy Porkuyan,85,NO,NO
+1966,1966_g4_6,Chile,Ruben Marcos,32,NO,NO
+1966,1966_r_,Alemania Occidental,Helmut Haller,11,NO,NO
+1966,1966_r_,Alemania Occidental,Franz Beckenbauer,70,NO,NO
+1966,1966_r_,Alemania Occidental,Uwe Seeler,75,NO,NO
+1966,1966_r_,Alemania Occidental,Helmut Haller,83,NO,NO
+1966,1966_r_,Inglaterra,Geoff Hurst,78,NO,NO
+1966,1966_r_,Portugal,Eusebio,27,NO,NO
+1966,1966_r_,Portugal,Eusebio,43,SI,NO
+1966,1966_r_,Portugal,Eusebio,56,NO,NO
+1966,1966_r_,Portugal,Eusebio,59,SI,NO
+1966,1966_r_,Portugal,Jose Augusto,80,NO,NO
+1966,1966_r_,Corea del Norte,Seung Zin Pak,1,NO,NO
+1966,1966_r_,Corea del Norte,Dong Woon Li,22,NO,NO
+1966,1966_r_,Corea del Norte,Seung Kook Yang,25,NO,NO
+1966,1966_r_,URSS,Igor Chislenko,5,NO,NO
+1966,1966_r_,URSS,Valeriy Porkuyan,46,NO,NO
+1966,1966_r_,Hungría,Ferenc Bene,57,NO,NO
+1966,1966_r_,Alemania Occidental,Helmut Haller,43,NO,NO
+1966,1966_r_,Alemania Occidental,Franz Beckenbauer,67,NO,NO
+1966,1966_r_,URSS,Valeriy Porkuyan,88,NO,NO
+1966,1966_r_,Inglaterra,Bobby Charlton,30,NO,NO
+1966,1966_r_,Inglaterra,Bobby Charlton,80,NO,NO
+1966,1966_r_,Portugal,Eusebio,82,SI,NO
+1966,1966_r_,Portugal,Eusebio,12,SI,NO
+1966,1966_r_,Portugal,Jose Torres,89,NO,NO
+1966,1966_r_,URSS,Eduard Malofeyev,43,NO,NO
+1966,1966_r_,Inglaterra,Geoff Hurst,18,NO,NO
+1966,1966_r_,Inglaterra,Martin Peters,78,NO,NO
+1966,1966_r_,Inglaterra,Geoff Hurst,101,NO,NO
+1966,1966_r_,Inglaterra,Geoff Hurst,120,NO,NO
+1966,1966_r_,Alemania Occidental,Helmut Haller,12,NO,NO
+1966,1966_r_,Alemania Occidental,Wolfgang Weber,89,NO,NO

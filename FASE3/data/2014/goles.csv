@@ -1,0 +1,172 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+2014,2014_gA_1,Brasil,Neymar Jr.,29,NO,NO
+2014,2014_gA_1,Brasil,Neymar Jr.,71,SI,NO
+2014,2014_gA_1,Brasil,Oscar,90,NO,NO
+2014,2014_gA_1,Croacia,Marcelo,11,NO,SI
+2014,2014_gA_2,México,Oribe Peralta,61,NO,NO
+2014,2014_gA_4,Croacia,Ivica Olic,11,NO,NO
+2014,2014_gA_4,Croacia,Ivan Perisic,48,NO,NO
+2014,2014_gA_4,Croacia,Mario Mandzukic,61,NO,NO
+2014,2014_gA_4,Croacia,Mario Mandzukic,73,NO,NO
+2014,2014_gA_5,Camerún,Joel Matip,26,NO,NO
+2014,2014_gA_5,Brasil,Neymar Jr.,17,NO,NO
+2014,2014_gA_5,Brasil,Neymar Jr.,34,NO,NO
+2014,2014_gA_5,Brasil,Fred,49,NO,NO
+2014,2014_gA_5,Brasil,Fernandinho,84,NO,NO
+2014,2014_gA_6,Croacia,Ivan Perisic,87,NO,NO
+2014,2014_gA_6,México,Rafael Marquez,72,NO,NO
+2014,2014_gA_6,México,Andres Guardado,75,NO,NO
+2014,2014_gA_6,México,Javier Hernandez,82,NO,NO
+2014,2014_gB_1,España,Xabi Alonso,27,SI,NO
+2014,2014_gB_1,Paises Bajos,Robin Van Persie,44,NO,NO
+2014,2014_gB_1,Paises Bajos,Arjen Robben,53,NO,NO
+2014,2014_gB_1,Paises Bajos,Stefan de Vrij,65,NO,NO
+2014,2014_gB_1,Paises Bajos,Robin Van Persie,72,NO,NO
+2014,2014_gB_1,Paises Bajos,Arjen Robben,80,NO,NO
+2014,2014_gB_2,Chile,Alexis Sanchez,12,NO,NO
+2014,2014_gB_2,Chile,Jorge Valdivia,14,NO,NO
+2014,2014_gB_2,Chile,Jean Beausejour,90,NO,NO
+2014,2014_gB_2,Australia,Tim Cahill,35,NO,NO
+2014,2014_gB_3,Chile,Eduardo Vargas,20,NO,NO
+2014,2014_gB_3,Chile,Charles Aránguiz,43,NO,NO
+2014,2014_gB_4,Australia,Tim Cahill,21,NO,NO
+2014,2014_gB_4,Australia,Mile Jedinak,54,SI,NO
+2014,2014_gB_4,Paises Bajos,Arjen Robben,20,NO,NO
+2014,2014_gB_4,Paises Bajos,Robin Van Persie,58,NO,NO
+2014,2014_gB_4,Paises Bajos,Memphis Depay,68,NO,NO
+2014,2014_gB_5,España,David Villa,36,NO,NO
+2014,2014_gB_5,España,Fernando Torres,69,NO,NO
+2014,2014_gB_5,España,Juan Mata,82,NO,NO
+2014,2014_gB_6,Paises Bajos,Leroy Fer,77,NO,NO
+2014,2014_gB_6,Paises Bajos,Memphis Depay,90,NO,NO
+2014,2014_gC_1,Colombia,Pablo Armero,5,NO,NO
+2014,2014_gC_1,Colombia,Teófilo Gutiérrez,58,NO,NO
+2014,2014_gC_1,Colombia,James Rodríguez,90,NO,NO
+2014,2014_gC_2,Costa de Marfil,Wilfried Bony,64,NO,NO
+2014,2014_gC_2,Costa de Marfil,Gervinho,66,NO,NO
+2014,2014_gC_2,Japón,Keisuke Honda,16,NO,NO
+2014,2014_gC_3,Colombia,James Rodríguez,64,NO,NO
+2014,2014_gC_3,Colombia,Juan Quintero,70,NO,NO
+2014,2014_gC_3,Costa de Marfil,Gervinho,73,NO,NO
+2014,2014_gC_5,Japón,Shinji Okazaki,45,NO,NO
+2014,2014_gC_5,Colombia,Juan Guillermo Cuadrado,17,SI,NO
+2014,2014_gC_5,Colombia,Jackson Martinez,55,NO,NO
+2014,2014_gC_5,Colombia,Jackson Martinez,82,NO,NO
+2014,2014_gC_5,Colombia,James Rodríguez,90,NO,NO
+2014,2014_gC_6,Grecia,Andreas Samaris,42,NO,NO
+2014,2014_gC_6,Grecia,Georgios Samaras,90,SI,NO
+2014,2014_gC_6,Costa de Marfil,Wilfried Bony,74,NO,NO
+2014,2014_gD_1,Uruguay,Edinson Cavani,24,SI,NO
+2014,2014_gD_1,Costa Rica,Joel Campbell,54,NO,NO
+2014,2014_gD_1,Costa Rica,Óscar Duarte,57,NO,NO
+2014,2014_gD_1,Costa Rica,Marco Ureña,84,NO,NO
+2014,2014_gD_2,Inglaterra,Daniel Sturridge,37,NO,NO
+2014,2014_gD_2,Italia,Claudio Marchisio,35,NO,NO
+2014,2014_gD_2,Italia,Mario Balotelli,50,NO,NO
+2014,2014_gD_3,Uruguay,Luis Suarez,39,NO,NO
+2014,2014_gD_3,Uruguay,Luis Suarez,85,NO,NO
+2014,2014_gD_3,Inglaterra,Wayne Rooney,75,NO,NO
+2014,2014_gD_4,Costa Rica,Bryan Ruiz,44,NO,NO
+2014,2014_gD_5,Uruguay,Diego Godin,81,NO,NO
+2014,2014_gE_1,Suiza,Admir Mehmedi,48,NO,NO
+2014,2014_gE_1,Suiza,Haris Seferovic,90,NO,NO
+2014,2014_gE_1,Ecuador,Enner Valencia,22,NO,NO
+2014,2014_gE_2,Francia,Karim Benzema,45,SI,NO
+2014,2014_gE_2,Francia,Noel Valladares,48,NO,SI
+2014,2014_gE_2,Francia,Karim Benzema,72,NO,NO
+2014,2014_gE_3,Suiza,Blerim Dzemaili,81,NO,NO
+2014,2014_gE_3,Suiza,Granit Xhaka,87,NO,NO
+2014,2014_gE_3,Francia,Olivier Giroud,17,NO,NO
+2014,2014_gE_3,Francia,Blaise Matuidi,18,NO,NO
+2014,2014_gE_3,Francia,Mathieu Valbuena,40,NO,NO
+2014,2014_gE_3,Francia,Karim Benzema,67,NO,NO
+2014,2014_gE_3,Francia,Moussa Sissoko,73,NO,NO
+2014,2014_gE_4,Honduras,Carlo Costly,31,NO,NO
+2014,2014_gE_4,Ecuador,Enner Valencia,34,NO,NO
+2014,2014_gE_4,Ecuador,Enner Valencia,65,NO,NO
+2014,2014_gE_5,Suiza,Xherdan Shaqiri,6,NO,NO
+2014,2014_gE_5,Suiza,Xherdan Shaqiri,31,NO,NO
+2014,2014_gE_5,Suiza,Xherdan Shaqiri,71,NO,NO
+2014,2014_gF_1,Argentina,Sead Kolasinac,3,NO,SI
+2014,2014_gF_1,Argentina,Lionel Messi,65,NO,NO
+2014,2014_gF_1,Bosnia-Herzegovina,Vedad Ibisevic,84,NO,NO
+2014,2014_gF_3,Argentina,Lionel Messi,90,NO,NO
+2014,2014_gF_4,Nigeria,Peter Odemwingie,29,NO,NO
+2014,2014_gF_5,Nigeria,Ahmed Musa,4,NO,NO
+2014,2014_gF_5,Nigeria,Ahmed Musa,47,NO,NO
+2014,2014_gF_5,Argentina,Lionel Messi,3,NO,NO
+2014,2014_gF_5,Argentina,Lionel Messi,45,NO,NO
+2014,2014_gF_5,Argentina,Marcos Rojo,50,NO,NO
+2014,2014_gF_6,Bosnia-Herzegovina,Edin Dzeko,23,NO,NO
+2014,2014_gF_6,Bosnia-Herzegovina,Miralem Pjanic,59,NO,NO
+2014,2014_gF_6,Bosnia-Herzegovina,Avdija Vrsajevic,83,NO,NO
+2014,2014_gF_6,Irán,Reza Ghoochannejhad,82,NO,NO
+2014,2014_gG_1,Alemania,Thomas Müller,12,SI,NO
+2014,2014_gG_1,Alemania,Mats Hummels,32,NO,NO
+2014,2014_gG_1,Alemania,Thomas Müller,45,NO,NO
+2014,2014_gG_1,Alemania,Thomas Müller,78,NO,NO
+2014,2014_gG_2,Ghana,Andre Ayew,82,NO,NO
+2014,2014_gG_2,Estados Unidos,Clint Dempsey,1,NO,NO
+2014,2014_gG_2,Estados Unidos,John Anthony Brooks,86,NO,NO
+2014,2014_gG_3,Alemania,Mario Götze,51,NO,NO
+2014,2014_gG_3,Alemania,Miroslav Klose,71,NO,NO
+2014,2014_gG_3,Ghana,Andre Ayew,54,NO,NO
+2014,2014_gG_3,Ghana,Asamoah Gyan,63,NO,NO
+2014,2014_gG_4,Estados Unidos,Jermaine Jones,64,NO,NO
+2014,2014_gG_4,Estados Unidos,Clint Dempsey,81,NO,NO
+2014,2014_gG_4,Portugal,Nani,5,NO,NO
+2014,2014_gG_4,Portugal,Silvestre Varela,90,NO,NO
+2014,2014_gG_5,Alemania,Thomas Müller,55,NO,NO
+2014,2014_gG_6,Portugal,John Boye,31,NO,SI
+2014,2014_gG_6,Portugal,Cristiano Ronaldo,80,NO,NO
+2014,2014_gG_6,Ghana,Asamoah Gyan,57,NO,NO
+2014,2014_gH_1,Bélgica,Marouane Fellaini,70,NO,NO
+2014,2014_gH_1,Bélgica,Dries Mertens,80,NO,NO
+2014,2014_gH_1,Argelia,Sofiane Feghouli,25,SI,NO
+2014,2014_gH_2,Rusia,Alexander Kerzhakov,74,NO,NO
+2014,2014_gH_2,Corea del Sur,Keun-Ho Lee,68,NO,NO
+2014,2014_gH_3,Bélgica,Divock Origi,88,NO,NO
+2014,2014_gH_4,Corea del Sur,Heung-Min Son,50,NO,NO
+2014,2014_gH_4,Corea del Sur,Ja-Cheol Koo,72,NO,NO
+2014,2014_gH_4,Argelia,Islam Slimani,26,NO,NO
+2014,2014_gH_4,Argelia,Rafik Halliche,28,NO,NO
+2014,2014_gH_4,Argelia,Abdelmoumene Djabou,38,NO,NO
+2014,2014_gH_4,Argelia,Yacine Brahimi,62,NO,NO
+2014,2014_gH_5,Bélgica,Jan Vertonghen,78,NO,NO
+2014,2014_gH_6,Argelia,Islam Slimani,60,NO,NO
+2014,2014_gH_6,Rusia,Alexander Kokorin,6,NO,NO
+2014,2014_r_49,Brasil,David Luiz,18,NO,NO
+2014,2014_r_49,Chile,Alexis Sanchez,32,NO,NO
+2014,2014_r_50,Colombia,James Rodríguez,28,NO,NO
+2014,2014_r_50,Colombia,James Rodríguez,50,NO,NO
+2014,2014_r_51,Paises Bajos,Wesley Sneijder,88,NO,NO
+2014,2014_r_51,Paises Bajos,Klaas Jan Huntelaar,90,SI,NO
+2014,2014_r_51,México,Giovani dos Santos,48,NO,NO
+2014,2014_r_52,Costa Rica,Bryan Ruiz,52,NO,NO
+2014,2014_r_52,Grecia,Sokratis Papastathopoulos,90,NO,NO
+2014,2014_r_53,Francia,Paul Pogba,79,NO,NO
+2014,2014_r_53,Francia,Joseph Yobo,90,NO,SI
+2014,2014_r_54,Alemania,André Schürrle,92,NO,NO
+2014,2014_r_54,Alemania,Mesut Ozil,120,NO,NO
+2014,2014_r_54,Argelia,Abdelmoumene Djabou,120,NO,NO
+2014,2014_r_55,Argentina,Angel Di Maria,118,NO,NO
+2014,2014_r_56,Bélgica,Kevin De Bruyne,93,NO,NO
+2014,2014_r_56,Bélgica,Romelu Lukaku,105,NO,NO
+2014,2014_r_56,Estados Unidos,Julian Green,107,NO,NO
+2014,2014_r_57,Brasil,Thiago Silva,7,NO,NO
+2014,2014_r_57,Brasil,David Luiz,69,NO,NO
+2014,2014_r_57,Colombia,James Rodríguez,80,SI,NO
+2014,2014_r_58,Alemania,Mats Hummels,13,NO,NO
+2014,2014_r_60,Argentina,Gonzalo Higuain,8,NO,NO
+2014,2014_r_61,Brasil,Oscar,90,NO,NO
+2014,2014_r_61,Alemania,Thomas Müller,11,NO,NO
+2014,2014_r_61,Alemania,Miroslav Klose,23,NO,NO
+2014,2014_r_61,Alemania,Toni Kroos,24,NO,NO
+2014,2014_r_61,Alemania,Toni Kroos,26,NO,NO
+2014,2014_r_61,Alemania,Sami Khedira,29,NO,NO
+2014,2014_r_61,Alemania,André Schürrle,69,NO,NO
+2014,2014_r_61,Alemania,André Schürrle,79,NO,NO
+2014,2014_r_63,Paises Bajos,Robin Van Persie,3,SI,NO
+2014,2014_r_63,Paises Bajos,Daley Blind,17,NO,NO
+2014,2014_r_63,Paises Bajos,Georginio Wijnaldum,90,NO,NO
+2014,2014_r_64,Alemania,Mario Götze,113,NO,NO

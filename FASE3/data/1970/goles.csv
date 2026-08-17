@@ -1,0 +1,96 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1970,1970_g1_2,Bélgica,Wilfried Van Moer,12,NO,NO
+1970,1970_g1_2,Bélgica,Wilfried Van Moer,54,NO,NO
+1970,1970_g1_2,Bélgica,Raoul Lambert,79,SI,NO
+1970,1970_g1_3,URSS,Anatoly Bishovets,14,NO,NO
+1970,1970_g1_3,URSS,Kakhi Asatiani,57,NO,NO
+1970,1970_g1_3,URSS,Anatoly Bishovets,63,NO,NO
+1970,1970_g1_3,URSS,Vitali Khmelnitski,76,NO,NO
+1970,1970_g1_3,Bélgica,Raoul Lambert,86,NO,NO
+1970,1970_g1_4,México,Javier Valdivia,45,NO,NO
+1970,1970_g1_4,México,Javier Valdivia,46,NO,NO
+1970,1970_g1_4,México,Javier Fragoso,58,NO,NO
+1970,1970_g1_4,México,Juan Ignacio Basaguren,83,NO,NO
+1970,1970_g1_5,URSS,Anatoly Bishovets,51,NO,NO
+1970,1970_g1_5,URSS,Anatoly Bishovets,74,NO,NO
+1970,1970_g1_6,México,Gustavo Pena,14,SI,NO
+1970,1970_g2_1,Uruguay,Ildo Maneiro,23,NO,NO
+1970,1970_g2_1,Uruguay,Juan Mujica,50,NO,NO
+1970,1970_g2_2,Italia,Angelo Domenghini,10,NO,NO
+1970,1970_g2_4,Suecia,Tom Turesson,53,NO,NO
+1970,1970_g2_4,Israel,Mordechai Spiegler,56,NO,NO
+1970,1970_g2_5,Suecia,Ove Grahn,90,NO,NO
+1970,1970_g3_1,Inglaterra,Geoff Hurst,65,NO,NO
+1970,1970_g3_2,Brasil,Rivelino,24,NO,NO
+1970,1970_g3_2,Brasil,Pelé,59,NO,NO
+1970,1970_g3_2,Brasil,Jairzinho,61,NO,NO
+1970,1970_g3_2,Brasil,Jairzinho,83,NO,NO
+1970,1970_g3_2,Checoslovaquia,Ladislav Petras,11,NO,NO
+1970,1970_g3_3,Rumania,Alexandru Neagu,52,NO,NO
+1970,1970_g3_3,Rumania,Florea Dumitrache,75,SI,NO
+1970,1970_g3_3,Checoslovaquia,Ladislav Petras,5,NO,NO
+1970,1970_g3_4,Brasil,Jairzinho,59,NO,NO
+1970,1970_g3_5,Brasil,Pelé,19,NO,NO
+1970,1970_g3_5,Brasil,Jairzinho,22,NO,NO
+1970,1970_g3_5,Brasil,Pelé,67,NO,NO
+1970,1970_g3_5,Rumania,Florea Dumitrache,34,NO,NO
+1970,1970_g3_5,Rumania,Emerich Dembrovschi,84,NO,NO
+1970,1970_g3_6,Inglaterra,Allan Clarke,50,SI,NO
+1970,1970_g4_1,Perú,Alberto Gallardo,50,NO,NO
+1970,1970_g4_1,Perú,Hector Chumpitaz,55,NO,NO
+1970,1970_g4_1,Perú,Teofilo Cubillas,73,NO,NO
+1970,1970_g4_1,Bulgaria,Dinko Dermendzhiev,13,NO,NO
+1970,1970_g4_1,Bulgaria,Hristo Bonev,49,NO,NO
+1970,1970_g4_2,Alemania Occidental,Uwe Seeler,56,NO,NO
+1970,1970_g4_2,Alemania Occidental,Gerd Mueller,80,NO,NO
+1970,1970_g4_2,Marruecos,Houmane Jarir,21,NO,NO
+1970,1970_g4_3,Perú,Teofilo Cubillas,65,NO,NO
+1970,1970_g4_3,Perú,Roberto Challe,67,NO,NO
+1970,1970_g4_3,Perú,Teofilo Cubillas,75,NO,NO
+1970,1970_g4_4,Alemania Occidental,Stan Libuda,20,NO,NO
+1970,1970_g4_4,Alemania Occidental,Gerd Mueller,27,NO,NO
+1970,1970_g4_4,Alemania Occidental,Gerd Mueller,52,SI,NO
+1970,1970_g4_4,Alemania Occidental,Uwe Seeler,70,NO,NO
+1970,1970_g4_4,Alemania Occidental,Gerd Mueller,88,NO,NO
+1970,1970_g4_4,Bulgaria,Asparukh Nikodimov,12,NO,NO
+1970,1970_g4_4,Bulgaria,Todor Kolev,89,NO,NO
+1970,1970_g4_5,Alemania Occidental,Gerd Mueller,19,NO,NO
+1970,1970_g4_5,Alemania Occidental,Gerd Mueller,26,NO,NO
+1970,1970_g4_5,Alemania Occidental,Gerd Mueller,39,NO,NO
+1970,1970_g4_5,Perú,Teofilo Cubillas,44,NO,NO
+1970,1970_g4_6,Bulgaria,Dobromir Zhechev,40,NO,NO
+1970,1970_g4_6,Marruecos,Mahjoub Ghazouani,61,NO,NO
+1970,1970_r_,Alemania Occidental,Franz Beckenbauer,68,NO,NO
+1970,1970_r_,Alemania Occidental,Uwe Seeler,76,NO,NO
+1970,1970_r_,Alemania Occidental,Gerd Mueller,108,NO,NO
+1970,1970_r_,Inglaterra,Alan Mullery,31,NO,NO
+1970,1970_r_,Inglaterra,Martin Peters,49,NO,NO
+1970,1970_r_,Brasil,Rivelino,11,NO,NO
+1970,1970_r_,Brasil,Tostao,15,NO,NO
+1970,1970_r_,Brasil,Tostao,52,NO,NO
+1970,1970_r_,Brasil,Jairzinho,75,NO,NO
+1970,1970_r_,Perú,Alberto Gallardo,28,NO,NO
+1970,1970_r_,Perú,Teofilo Cubillas,70,NO,NO
+1970,1970_r_,Italia,Gustavo Pena,25,NO,SI
+1970,1970_r_,Italia,Gigi Riva,63,NO,NO
+1970,1970_r_,Italia,Gianni Rivera,70,NO,NO
+1970,1970_r_,Italia,Gigi Riva,76,NO,NO
+1970,1970_r_,México,Jose Gonzalez,13,NO,NO
+1970,1970_r_,Uruguay,Victor Esparrago,116,NO,NO
+1970,1970_r_,Italia,Roberto Boninsegna,8,NO,NO
+1970,1970_r_,Italia,Tarcisio Burgnich,98,NO,NO
+1970,1970_r_,Italia,Gigi Riva,104,NO,NO
+1970,1970_r_,Italia,Gianni Rivera,111,NO,NO
+1970,1970_r_,Alemania Occidental,Karl-Heinz Schnellinger,90,NO,NO
+1970,1970_r_,Alemania Occidental,Gerd Mueller,94,NO,NO
+1970,1970_r_,Alemania Occidental,Gerd Mueller,110,NO,NO
+1970,1970_r_,Uruguay,Luis Cubilla,19,NO,NO
+1970,1970_r_,Brasil,Clodoaldo,44,NO,NO
+1970,1970_r_,Brasil,Jairzinho,76,NO,NO
+1970,1970_r_,Brasil,Rivelino,89,NO,NO
+1970,1970_r_,Alemania Occidental,Wolfgang Overath,26,NO,NO
+1970,1970_r_,Brasil,Pelé,18,NO,NO
+1970,1970_r_,Brasil,Gerson,66,NO,NO
+1970,1970_r_,Brasil,Jairzinho,71,NO,NO
+1970,1970_r_,Brasil,Carlos Alberto,86,NO,NO
+1970,1970_r_,Italia,Roberto Boninsegna,37,NO,NO

@@ -1,0 +1,25 @@
+anio,id_grupo,seleccion,pts,pj,pg,pe,pp,gf,gc,diferencia,clasificado
+1990,A,Italia,6,3,3,0,0,4,0,4,Si
+1990,A,Checoslovaquia,4,3,2,0,1,6,3,3,Si
+1990,A,Austria,2,3,1,0,2,2,3,-1,No
+1990,A,Estados Unidos,0,3,0,0,3,2,8,-6,No
+1990,B,Camerún,4,3,2,0,1,3,5,-2,Si
+1990,B,Rumania,3,3,1,1,1,4,3,1,Si
+1990,B,Argentina,3,3,1,1,1,3,2,1,Si
+1990,B,URSS,2,3,1,0,2,4,4,0,No
+1990,C,Brasil,6,3,3,0,0,4,1,3,Si
+1990,C,Costa Rica,4,3,2,0,1,3,2,1,Si
+1990,C,Escocia,2,3,1,0,2,2,3,-1,No
+1990,C,Suecia,0,3,0,0,3,3,6,-3,No
+1990,D,Alemania Occidental,5,3,2,1,0,10,3,7,Si
+1990,D,Yugoslavia,4,3,2,0,1,6,5,1,Si
+1990,D,Colombia,3,3,1,1,1,3,2,1,Si
+1990,D,Emiratos Arabes,0,3,0,0,3,2,11,-9,No
+1990,E,España,5,3,2,1,0,5,2,3,Si
+1990,E,Bélgica,4,3,2,0,1,6,3,3,Si
+1990,E,Uruguay,3,3,1,1,1,2,3,-1,Si
+1990,E,Corea del Sur,0,3,0,0,3,1,6,-5,No
+1990,F,Inglaterra,4,3,1,2,0,2,1,1,Si
+1990,F,Irlanda,3,3,0,3,0,2,2,0,Si
+1990,F,Paises Bajos,3,3,0,3,0,2,2,0,Si
+1990,F,Egipto,2,3,0,2,1,1,2,-1,No

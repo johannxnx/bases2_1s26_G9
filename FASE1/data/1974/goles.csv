@@ -1,0 +1,98 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1974,1974_g1_1,Alemania Occidental,Paul Breitner,18,NO,NO
+1974,1974_g1_2,Alemania Oriental,Colin Curran,58,NO,SI
+1974,1974_g1_2,Alemania Oriental,Joachim Streich,72,NO,NO
+1974,1974_g1_3,Alemania Occidental,Wolfgang Overath,12,NO,NO
+1974,1974_g1_3,Alemania Occidental,Bernd Cullmann,34,NO,NO
+1974,1974_g1_3,Alemania Occidental,Gerd Mueller,53,NO,NO
+1974,1974_g1_4,Chile,Sergio Ahumada,69,NO,NO
+1974,1974_g1_4,Alemania Oriental,Martin Hoffmann,55,NO,NO
+1974,1974_g1_5,Alemania Oriental,Juergen Sparwasser,77,NO,NO
+1974,1974_g2_2,Escocia,Peter Lorimer,26,NO,NO
+1974,1974_g2_2,Escocia,Joe Jordan,34,NO,NO
+1974,1974_g2_4,Yugoslavia,Dusan Bajevic,8,NO,NO
+1974,1974_g2_4,Yugoslavia,Dragan Dzajic,14,NO,NO
+1974,1974_g2_4,Yugoslavia,Ivica Surjak,18,NO,NO
+1974,1974_g2_4,Yugoslavia,Josip Katalinski,22,NO,NO
+1974,1974_g2_4,Yugoslavia,Dusan Bajevic,30,NO,NO
+1974,1974_g2_4,Yugoslavia,Vladislav Bogicevic,35,NO,NO
+1974,1974_g2_4,Yugoslavia,Branko Oblak,61,NO,NO
+1974,1974_g2_4,Yugoslavia,Ilija Petkovic,65,NO,NO
+1974,1974_g2_4,Yugoslavia,Dusan Bajevic,81,NO,NO
+1974,1974_g2_5,Brasil,Jairzinho,12,NO,NO
+1974,1974_g2_5,Brasil,Rivelino,66,NO,NO
+1974,1974_g2_5,Brasil,Valdomiro,79,NO,NO
+1974,1974_g2_6,Escocia,Joe Jordan,88,NO,NO
+1974,1974_g2_6,Yugoslavia,Stanislav Karasi,81,NO,NO
+1974,1974_g3_2,Paises Bajos,Johnny Rep,7,NO,NO
+1974,1974_g3_2,Paises Bajos,Johnny Rep,86,NO,NO
+1974,1974_g3_3,Bulgaria,Hristo Bonev,75,NO,NO
+1974,1974_g3_3,Uruguay,Ricardo Pavoni,87,NO,NO
+1974,1974_g3_5,Bulgaria,Ruud Krol,78,NO,SI
+1974,1974_g3_5,Paises Bajos,Johan Neeskens,5,SI,NO
+1974,1974_g3_5,Paises Bajos,Johan Neeskens,45,SI,NO
+1974,1974_g3_5,Paises Bajos,Johnny Rep,71,NO,NO
+1974,1974_g3_5,Paises Bajos,Theo De Jong,88,NO,NO
+1974,1974_g3_6,Suecia,Ralf Edstrom,46,NO,NO
+1974,1974_g3_6,Suecia,Roland Sandberg,74,NO,NO
+1974,1974_g3_6,Suecia,Ralf Edstrom,77,NO,NO
+1974,1974_g4_1,Italia,Gianni Rivera,52,NO,NO
+1974,1974_g4_1,Italia,Romeo Benetti,66,NO,NO
+1974,1974_g4_1,Italia,Pietro Anastasi,79,NO,NO
+1974,1974_g4_1,Haití,Emmanuel Sanon,46,NO,NO
+1974,1974_g4_2,Polonia,Grzegorz Lato,7,NO,NO
+1974,1974_g4_2,Polonia,Andrzej Szarmach,8,NO,NO
+1974,1974_g4_2,Polonia,Grzegorz Lato,62,NO,NO
+1974,1974_g4_2,Argentina,Ramon Heredia,60,NO,NO
+1974,1974_g4_2,Argentina,Carlos Babington,66,NO,NO
+1974,1974_g4_3,Argentina,Rene Houseman,19,NO,NO
+1974,1974_g4_3,Italia,Roberto Perfumo,35,NO,SI
+1974,1974_g4_4,Polonia,Grzegorz Lato,17,NO,NO
+1974,1974_g4_4,Polonia,Kazimierz Deyna,18,NO,NO
+1974,1974_g4_4,Polonia,Andrzej Szarmach,30,NO,NO
+1974,1974_g4_4,Polonia,Jerzy Gorgon,31,NO,NO
+1974,1974_g4_4,Polonia,Andrzej Szarmach,34,NO,NO
+1974,1974_g4_4,Polonia,Andrzej Szarmach,50,NO,NO
+1974,1974_g4_4,Polonia,Grzegorz Lato,87,NO,NO
+1974,1974_g4_5,Argentina,Hector Yazalde,15,NO,NO
+1974,1974_g4_5,Argentina,Rene Houseman,18,NO,NO
+1974,1974_g4_5,Argentina,Ruben Ayala,55,NO,NO
+1974,1974_g4_5,Argentina,Hector Yazalde,68,NO,NO
+1974,1974_g4_5,Haití,Emmanuel Sanon,63,NO,NO
+1974,1974_g4_6,Polonia,Andrzej Szarmach,38,NO,NO
+1974,1974_g4_6,Polonia,Kazimierz Deyna,44,NO,NO
+1974,1974_g4_6,Italia,Fabio Capello,85,NO,NO
+1974,1974_gA_1,Brasil,Rivelino,60,NO,NO
+1974,1974_gA_2,Paises Bajos,Johan Cruyff,10,NO,NO
+1974,1974_gA_2,Paises Bajos,Ruud Krol,25,NO,NO
+1974,1974_gA_2,Paises Bajos,Johnny Rep,73,NO,NO
+1974,1974_gA_2,Paises Bajos,Johan Cruyff,90,NO,NO
+1974,1974_gA_3,Paises Bajos,Johan Neeskens,7,NO,NO
+1974,1974_gA_3,Paises Bajos,Rob Rensenbrink,59,NO,NO
+1974,1974_gA_4,Argentina,Miguel Brindisi,35,NO,NO
+1974,1974_gA_4,Brasil,Rivelino,32,NO,NO
+1974,1974_gA_4,Brasil,Jairzinho,49,NO,NO
+1974,1974_gA_5,Argentina,Rene Houseman,20,NO,NO
+1974,1974_gA_5,Alemania Oriental,Joachim Streich,14,NO,NO
+1974,1974_gA_6,Paises Bajos,Johan Neeskens,50,NO,NO
+1974,1974_gA_6,Paises Bajos,Johan Cruyff,65,NO,NO
+1974,1974_gB_1,Alemania Occidental,Paul Breitner,39,NO,NO
+1974,1974_gB_1,Alemania Occidental,Gerd Mueller,82,NO,NO
+1974,1974_gB_2,Polonia,Grzegorz Lato,43,NO,NO
+1974,1974_gB_3,Alemania Occidental,Wolfgang Overath,51,NO,NO
+1974,1974_gB_3,Alemania Occidental,Rainer Bonhof,52,NO,NO
+1974,1974_gB_3,Alemania Occidental,Juergen Grabowski,76,NO,NO
+1974,1974_gB_3,Alemania Occidental,Uli Hoeness,89,SI,NO
+1974,1974_gB_3,Suecia,Ralf Edstrom,24,NO,NO
+1974,1974_gB_3,Suecia,Roland Sandberg,53,NO,NO
+1974,1974_gB_4,Polonia,Kazimierz Deyna,24,SI,NO
+1974,1974_gB_4,Polonia,Grzegorz Lato,62,NO,NO
+1974,1974_gB_4,Yugoslavia,Stanislav Karasi,43,NO,NO
+1974,1974_gB_5,Alemania Occidental,Gerd Mueller,76,NO,NO
+1974,1974_gB_6,Suecia,Ralf Edstrom,29,NO,NO
+1974,1974_gB_6,Suecia,Conny Torstensson,85,NO,NO
+1974,1974_gB_6,Yugoslavia,Ivica Surjak,27,NO,NO
+1974,1974_r_,Polonia,Grzegorz Lato,76,NO,NO
+1974,1974_r_,Paises Bajos,Johan Neeskens,2,SI,NO
+1974,1974_r_,Alemania Occidental,Paul Breitner,25,SI,NO
+1974,1974_r_,Alemania Occidental,Gerd Mueller,43,NO,NO

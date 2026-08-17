@@ -1,0 +1,90 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1962,1962_g1_1,Uruguay,Luis Cubilla,56,NO,NO
+1962,1962_g1_1,Uruguay,Jose Sasia,75,NO,NO
+1962,1962_g1_1,Colombia,Francisco Zuluaga,19,SI,NO
+1962,1962_g1_2,URSS,Valentin Ivanov,51,NO,NO
+1962,1962_g1_2,URSS,Viktor Ponedelnik,83,NO,NO
+1962,1962_g1_3,Yugoslavia,Josip Skoblar,25,SI,NO
+1962,1962_g1_3,Yugoslavia,Milan Galic,29,NO,NO
+1962,1962_g1_3,Yugoslavia,Drazen Jerkovic,49,NO,NO
+1962,1962_g1_3,Uruguay,Angel Cabrera,19,NO,NO
+1962,1962_g1_4,URSS,Valentin Ivanov,8,NO,NO
+1962,1962_g1_4,URSS,Igor Chislenko,10,NO,NO
+1962,1962_g1_4,URSS,Valentin Ivanov,11,NO,NO
+1962,1962_g1_4,URSS,Viktor Ponedelnik,56,NO,NO
+1962,1962_g1_4,Colombia,German Aceros,21,NO,NO
+1962,1962_g1_4,Colombia,Marcos Coll,68,NO,NO
+1962,1962_g1_4,Colombia,Antonio Rada,72,NO,NO
+1962,1962_g1_4,Colombia,Marino Klinger,76,NO,NO
+1962,1962_g1_5,URSS,Aleksei Mamykin,38,NO,NO
+1962,1962_g1_5,URSS,Valentin Ivanov,89,NO,NO
+1962,1962_g1_5,Uruguay,Jose Sasia,54,NO,NO
+1962,1962_g1_6,Yugoslavia,Milan Galic,20,NO,NO
+1962,1962_g1_6,Yugoslavia,Drazen Jerkovic,25,NO,NO
+1962,1962_g1_6,Yugoslavia,Milan Galic,61,NO,NO
+1962,1962_g1_6,Yugoslavia,Vojislav Melic,82,NO,NO
+1962,1962_g1_6,Yugoslavia,Drazen Jerkovic,87,NO,NO
+1962,1962_g2_1,Chile,Leonel Sanchez,44,NO,NO
+1962,1962_g2_1,Chile,Jaime Ramirez,51,NO,NO
+1962,1962_g2_1,Chile,Leonel Sanchez,55,NO,NO
+1962,1962_g2_1,Suiza,Rolf Wuethrich,6,NO,NO
+1962,1962_g2_3,Chile,Jaime Ramirez,73,NO,NO
+1962,1962_g2_3,Chile,Jorge Toro,87,NO,NO
+1962,1962_g2_4,Alemania Occidental,Albert Bruells,45,NO,NO
+1962,1962_g2_4,Alemania Occidental,Uwe Seeler,59,NO,NO
+1962,1962_g2_4,Suiza,Heinz Schneiter,73,NO,NO
+1962,1962_g2_5,Alemania Occidental,Horst Szymaniak,21,SI,NO
+1962,1962_g2_5,Alemania Occidental,Uwe Seeler,82,NO,NO
+1962,1962_g2_6,Italia,Bruno Mora,2,NO,NO
+1962,1962_g2_6,Italia,Giacomo Bulgarelli,65,NO,NO
+1962,1962_g2_6,Italia,Giacomo Bulgarelli,67,NO,NO
+1962,1962_g3_1,Brasil,Zagallo,56,NO,NO
+1962,1962_g3_1,Brasil,Pelé,73,NO,NO
+1962,1962_g3_2,Checoslovaquia,Josef Stibranyi,80,NO,NO
+1962,1962_g3_4,España,Joaquin Peiro,90,NO,NO
+1962,1962_g3_5,Brasil,Amarildo,72,NO,NO
+1962,1962_g3_5,Brasil,Amarildo,86,NO,NO
+1962,1962_g3_5,España,Adelardo,35,NO,NO
+1962,1962_g3_6,México,Isidoro Diaz,12,NO,NO
+1962,1962_g3_6,México,Alfredo Del Aguila,29,NO,NO
+1962,1962_g3_6,México,Hector Hernandez,90,SI,NO
+1962,1962_g3_6,Checoslovaquia,Vaclav Masek,1,NO,NO
+1962,1962_g4_1,Argentina,Hector Facundo,4,NO,NO
+1962,1962_g4_2,Hungría,Lajos Tichy,17,NO,NO
+1962,1962_g4_2,Hungría,Florian Albert,71,NO,NO
+1962,1962_g4_2,Inglaterra,Ron Flowers,60,SI,NO
+1962,1962_g4_3,Inglaterra,Ron Flowers,17,SI,NO
+1962,1962_g4_3,Inglaterra,Bobby Charlton,42,NO,NO
+1962,1962_g4_3,Inglaterra,Jimmy Greaves,67,NO,NO
+1962,1962_g4_3,Argentina,Jose Sanfilippo,81,NO,NO
+1962,1962_g4_4,Hungría,Florian Albert,1,NO,NO
+1962,1962_g4_4,Hungría,Florian Albert,6,NO,NO
+1962,1962_g4_4,Hungría,Lajos Tichy,8,NO,NO
+1962,1962_g4_4,Hungría,Erno Solymosi,12,NO,NO
+1962,1962_g4_4,Hungría,Florian Albert,53,NO,NO
+1962,1962_g4_4,Hungría,Lajos Tichy,70,NO,NO
+1962,1962_g4_4,Bulgaria,Georgi Sokolov,64,NO,NO
+1962,1962_r_,Brasil,Garrincha,31,NO,NO
+1962,1962_r_,Brasil,Vava,53,NO,NO
+1962,1962_r_,Brasil,Garrincha,59,NO,NO
+1962,1962_r_,Inglaterra,Gerry Hitchens,38,NO,NO
+1962,1962_r_,Checoslovaquia,Adolf Scherer,13,NO,NO
+1962,1962_r_,Chile,Leonel Sanchez,11,NO,NO
+1962,1962_r_,Chile,Eladio Rojas,29,NO,NO
+1962,1962_r_,URSS,Igor Chislenko,26,NO,NO
+1962,1962_r_,Yugoslavia,Petar Radakovic,85,NO,NO
+1962,1962_r_,Chile,Jorge Toro,42,NO,NO
+1962,1962_r_,Chile,Leonel Sanchez,61,SI,NO
+1962,1962_r_,Brasil,Garrincha,9,NO,NO
+1962,1962_r_,Brasil,Garrincha,32,NO,NO
+1962,1962_r_,Brasil,Vava,47,NO,NO
+1962,1962_r_,Brasil,Vava,78,NO,NO
+1962,1962_r_,Yugoslavia,Drazen Jerkovic,69,NO,NO
+1962,1962_r_,Checoslovaquia,Josef Kadraba,48,NO,NO
+1962,1962_r_,Checoslovaquia,Adolf Scherer,80,NO,NO
+1962,1962_r_,Checoslovaquia,Adolf Scherer,84,SI,NO
+1962,1962_r_,Chile,Eladio Rojas,90,NO,NO
+1962,1962_r_,Brasil,Amarildo,17,NO,NO
+1962,1962_r_,Brasil,Zito,69,NO,NO
+1962,1962_r_,Brasil,Vava,78,NO,NO
+1962,1962_r_,Checoslovaquia,Josef Masopust,15,NO,NO

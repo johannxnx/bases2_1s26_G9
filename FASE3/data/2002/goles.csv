@@ -1,0 +1,162 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+2002,2002_gA_1,Senegal,Bouba Diop,30,NO,NO
+2002,2002_gA_2,Uruguay,Dario Rodriguez,47,NO,NO
+2002,2002_gA_2,Dinamarca,Jon Dahl Tomasson,45,NO,NO
+2002,2002_gA_2,Dinamarca,Jon Dahl Tomasson,83,NO,NO
+2002,2002_gA_4,Dinamarca,Jon Dahl Tomasson,16,SI,NO
+2002,2002_gA_4,Senegal,Salif Diao,52,NO,NO
+2002,2002_gA_5,Dinamarca,Dennis Rommedahl,22,NO,NO
+2002,2002_gA_5,Dinamarca,Jon Dahl Tomasson,67,NO,NO
+2002,2002_gA_6,Senegal,Khalilou Fadiga,20,SI,NO
+2002,2002_gA_6,Senegal,Bouba Diop,26,NO,NO
+2002,2002_gA_6,Senegal,Bouba Diop,38,NO,NO
+2002,2002_gA_6,Uruguay,Richard Morales,46,NO,NO
+2002,2002_gA_6,Uruguay,Diego Forlan,69,NO,NO
+2002,2002_gA_6,Uruguay,Alvaro Recoba,88,SI,NO
+2002,2002_gB_1,Paraguay,Roque Santa Cruz,39,NO,NO
+2002,2002_gB_1,Paraguay,Francisco Arce,55,NO,NO
+2002,2002_gB_1,Sudáfrica,Teboho Mokoena,63,NO,NO
+2002,2002_gB_1,Sudáfrica,Quinton Fortune,90,SI,NO
+2002,2002_gB_2,España,Raul,44,NO,NO
+2002,2002_gB_2,España,Juan Carlos Valeron,74,NO,NO
+2002,2002_gB_2,España,Fernando Hierro,87,SI,NO
+2002,2002_gB_2,Eslovenia,Sebastijan Cimirotic,82,NO,NO
+2002,2002_gB_3,España,Fernando Morientes,53,NO,NO
+2002,2002_gB_3,España,Fernando Morientes,69,NO,NO
+2002,2002_gB_3,España,Fernando Hierro,83,SI,NO
+2002,2002_gB_3,Paraguay,Carles Puyol,10,NO,SI
+2002,2002_gB_4,Sudáfrica,Siyabonga Nomvethe,4,NO,NO
+2002,2002_gB_5,Sudáfrica,Benni Mccarthy,31,NO,NO
+2002,2002_gB_5,Sudáfrica,Lucas Radebe,53,NO,NO
+2002,2002_gB_5,España,Raul,4,NO,NO
+2002,2002_gB_5,España,Gaizka Mendieta,45,NO,NO
+2002,2002_gB_5,España,Raul,56,NO,NO
+2002,2002_gB_6,Eslovenia,Milenko Acimovic,45,NO,NO
+2002,2002_gB_6,Paraguay,Nelson Cuevas,65,NO,NO
+2002,2002_gB_6,Paraguay,Jorge Campos,73,NO,NO
+2002,2002_gB_6,Paraguay,Nelson Cuevas,84,NO,NO
+2002,2002_gC_1,Brasil,Ronaldo,50,NO,NO
+2002,2002_gC_1,Brasil,Rivaldo,87,SI,NO
+2002,2002_gC_1,Turquía,Hasan Sas,45,NO,NO
+2002,2002_gC_2,Costa Rica,Ronald Gomez,61,NO,NO
+2002,2002_gC_2,Costa Rica,Mauricio Wright,65,NO,NO
+2002,2002_gC_3,Brasil,Roberto Carlos,15,NO,NO
+2002,2002_gC_3,Brasil,Rivaldo,32,NO,NO
+2002,2002_gC_3,Brasil,Ronaldinho,45,SI,NO
+2002,2002_gC_3,Brasil,Ronaldo,55,NO,NO
+2002,2002_gC_4,Costa Rica,Winston Parks,86,NO,NO
+2002,2002_gC_4,Turquía,Emre Belozoglu,56,NO,NO
+2002,2002_gC_5,Costa Rica,Paulo Wanchope,39,NO,NO
+2002,2002_gC_5,Costa Rica,Ronald Gomez,56,NO,NO
+2002,2002_gC_5,Brasil,Ronaldo,10,NO,NO
+2002,2002_gC_5,Brasil,Ronaldo,13,NO,NO
+2002,2002_gC_5,Brasil,Edmilson,38,NO,NO
+2002,2002_gC_5,Brasil,Rivaldo,62,NO,NO
+2002,2002_gC_5,Brasil,Junior,64,NO,NO
+2002,2002_gC_6,Turquía,Hasan Sas,6,NO,NO
+2002,2002_gC_6,Turquía,Bulent Korkmaz,9,NO,NO
+2002,2002_gC_6,Turquía,Umit Davala,85,NO,NO
+2002,2002_gD_1,Corea del Sur,Sun Hong Hwang,26,NO,NO
+2002,2002_gD_1,Corea del Sur,Sang Chul Yoo,53,NO,NO
+2002,2002_gD_2,Estados Unidos,John O'Brien,4,NO,NO
+2002,2002_gD_2,Estados Unidos,Jorge Costa,29,NO,SI
+2002,2002_gD_2,Estados Unidos,Brian Mcbride,36,NO,NO
+2002,2002_gD_2,Portugal,Beto,39,NO,NO
+2002,2002_gD_2,Portugal,Jeff Agoos,71,NO,SI
+2002,2002_gD_3,Corea del Sur,Jung Hwan Ahn,78,NO,NO
+2002,2002_gD_3,Estados Unidos,Clint Mathis,24,NO,NO
+2002,2002_gD_4,Portugal,Pauleta,14,NO,NO
+2002,2002_gD_4,Portugal,Pauleta,65,NO,NO
+2002,2002_gD_4,Portugal,Pauleta,77,NO,NO
+2002,2002_gD_4,Portugal,Rui Costa,88,NO,NO
+2002,2002_gD_5,Corea del Sur,Ji Sung Park,70,NO,NO
+2002,2002_gD_6,Polonia,Emmanuel Olisadebe,3,NO,NO
+2002,2002_gD_6,Polonia,Pawel Kryszalowicz,5,NO,NO
+2002,2002_gD_6,Polonia,Marcin Zewlakow,66,NO,NO
+2002,2002_gD_6,Estados Unidos,Landon Donovan,83,NO,NO
+2002,2002_gE_1,Irlanda,Matt Holland,52,NO,NO
+2002,2002_gE_1,Camerún,Patrick Mboma,39,NO,NO
+2002,2002_gE_2,Alemania,Miroslav Klose,20,NO,NO
+2002,2002_gE_2,Alemania,Miroslav Klose,25,NO,NO
+2002,2002_gE_2,Alemania,Michael Ballack,40,NO,NO
+2002,2002_gE_2,Alemania,Carsten Jancker,45,NO,NO
+2002,2002_gE_2,Alemania,Miroslav Klose,70,NO,NO
+2002,2002_gE_2,Alemania,Thomas Linke,73,NO,NO
+2002,2002_gE_2,Alemania,Oliver Bierhoff,84,NO,NO
+2002,2002_gE_2,Alemania,Bernd Schneider,90,NO,NO
+2002,2002_gE_3,Alemania,Miroslav Klose,19,NO,NO
+2002,2002_gE_3,Irlanda,Robbie Keane,90,NO,NO
+2002,2002_gE_4,Camerún,Samuel Eto'o,66,NO,NO
+2002,2002_gE_5,Alemania,Marco Bode,50,NO,NO
+2002,2002_gE_5,Alemania,Miroslav Klose,79,NO,NO
+2002,2002_gE_6,Irlanda,Robbie Keane,7,NO,NO
+2002,2002_gE_6,Irlanda,Gary Breen,61,NO,NO
+2002,2002_gE_6,Irlanda,Damien Duff,87,NO,NO
+2002,2002_gF_1,Inglaterra,Sol Campbell,24,NO,NO
+2002,2002_gF_1,Suecia,Niclas Alexandersson,59,NO,NO
+2002,2002_gF_2,Argentina,Gabriel Batistuta,63,NO,NO
+2002,2002_gF_3,Suecia,Henrik Larsson,35,NO,NO
+2002,2002_gF_3,Suecia,Henrik Larsson,63,SI,NO
+2002,2002_gF_3,Nigeria,Julius Aghahowa,27,NO,NO
+2002,2002_gF_4,Inglaterra,David Beckham,44,SI,NO
+2002,2002_gF_5,Suecia,Anders Svensson,59,NO,NO
+2002,2002_gF_5,Argentina,Hernan Crespo,88,NO,NO
+2002,2002_gG_1,México,Cuauhtemoc Blanco,60,SI,NO
+2002,2002_gG_2,Italia,Christian Vieri,7,NO,NO
+2002,2002_gG_2,Italia,Christian Vieri,27,NO,NO
+2002,2002_gG_3,Italia,Christian Vieri,55,NO,NO
+2002,2002_gG_3,Croacia,Ivica Olic,73,NO,NO
+2002,2002_gG_3,Croacia,Milan Rapaic,76,NO,NO
+2002,2002_gG_4,México,Jared Borgetti,28,NO,NO
+2002,2002_gG_4,México,Gerardo Torrado,57,NO,NO
+2002,2002_gG_4,Ecuador,Agustin Delgado,5,NO,NO
+2002,2002_gG_5,México,Jared Borgetti,34,NO,NO
+2002,2002_gG_5,Italia,Alessandro Del Piero,85,NO,NO
+2002,2002_gG_6,Ecuador,Edison Mendez,48,NO,NO
+2002,2002_gH_1,Japón,Takayuki Suzuki,59,NO,NO
+2002,2002_gH_1,Japón,Junichi Inamoto,67,NO,NO
+2002,2002_gH_1,Bélgica,Marc Wilmots,57,NO,NO
+2002,2002_gH_1,Bélgica,Peter Van Der Heyden,75,NO,NO
+2002,2002_gH_2,Rusia,Egor Titov,59,NO,NO
+2002,2002_gH_2,Rusia,Valeri Karpin,64,SI,NO
+2002,2002_gH_3,Japón,Junichi Inamoto,51,NO,NO
+2002,2002_gH_4,Túnez,Raouf Bouzaiene,17,NO,NO
+2002,2002_gH_4,Bélgica,Marc Wilmots,13,NO,NO
+2002,2002_gH_5,Japón,Hiroaki Morishima,48,NO,NO
+2002,2002_gH_5,Japón,Hidetoshi Nakata,75,NO,NO
+2002,2002_gH_6,Bélgica,Johan Walem,7,NO,NO
+2002,2002_gH_6,Bélgica,Wesley Sonck,78,NO,NO
+2002,2002_gH_6,Bélgica,Marc Wilmots,82,NO,NO
+2002,2002_gH_6,Rusia,Vladimir Beschastnykh,52,NO,NO
+2002,2002_gH_6,Rusia,Dmitri Sychev,88,NO,NO
+2002,2002_r_49,Alemania,Oliver Neuville,88,NO,NO
+2002,2002_r_50,Inglaterra,Rio Ferdinand,5,NO,NO
+2002,2002_r_50,Inglaterra,Michael Owen,22,NO,NO
+2002,2002_r_50,Inglaterra,Emile Heskey,44,NO,NO
+2002,2002_r_51,Suecia,Henrik Larsson,11,NO,NO
+2002,2002_r_51,Senegal,Henri Camara,37,NO,NO
+2002,2002_r_51,Senegal,Henri Camara,14,NO,NO
+2002,2002_r_52,España,Fernando Morientes,8,NO,NO
+2002,2002_r_52,Irlanda,Robbie Keane,90,SI,NO
+2002,2002_r_53,Estados Unidos,Brian Mcbride,8,NO,NO
+2002,2002_r_53,Estados Unidos,Landon Donovan,65,NO,NO
+2002,2002_r_54,Brasil,Rivaldo,67,NO,NO
+2002,2002_r_54,Brasil,Ronaldo,87,NO,NO
+2002,2002_r_55,Turquía,Umit Davala,12,NO,NO
+2002,2002_r_56,Corea del Sur,Ki Hyeon Seol,88,NO,NO
+2002,2002_r_56,Corea del Sur,Jung Hwan Ahn,117,NO,NO
+2002,2002_r_56,Italia,Christian Vieri,18,NO,NO
+2002,2002_r_57,Inglaterra,Michael Owen,23,NO,NO
+2002,2002_r_57,Brasil,Rivaldo,45,NO,NO
+2002,2002_r_57,Brasil,Ronaldinho,50,NO,NO
+2002,2002_r_58,Alemania,Michael Ballack,39,NO,NO
+2002,2002_r_60,Turquía,Ilhan Mansiz,4,NO,NO
+2002,2002_r_61,Alemania,Michael Ballack,75,NO,NO
+2002,2002_r_62,Brasil,Ronaldo,49,NO,NO
+2002,2002_r_63,Corea del Sur,Eul Yong Lee,9,NO,NO
+2002,2002_r_63,Corea del Sur,Chong Gug Song,90,NO,NO
+2002,2002_r_63,Turquía,Hakan Sukur,1,NO,NO
+2002,2002_r_63,Turquía,Ilhan Mansiz,13,NO,NO
+2002,2002_r_63,Turquía,Ilhan Mansiz,32,NO,NO
+2002,2002_r_64,Brasil,Ronaldo,67,NO,NO
+2002,2002_r_64,Brasil,Ronaldo,79,NO,NO

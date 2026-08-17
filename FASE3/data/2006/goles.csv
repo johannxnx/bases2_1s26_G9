@@ -1,0 +1,148 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+2006,2006_gA_1,Alemania,Philipp Lahm,6,NO,NO
+2006,2006_gA_1,Alemania,Miroslav Klose,17,NO,NO
+2006,2006_gA_1,Alemania,Miroslav Klose,61,NO,NO
+2006,2006_gA_1,Alemania,Torsten Frings,87,NO,NO
+2006,2006_gA_1,Costa Rica,Paulo Wanchope,12,NO,NO
+2006,2006_gA_1,Costa Rica,Paulo Wanchope,73,NO,NO
+2006,2006_gA_2,Ecuador,Carlos Tenorio,24,NO,NO
+2006,2006_gA_2,Ecuador,Agustin Delgado,80,NO,NO
+2006,2006_gA_3,Alemania,Oliver Neuville,90,NO,NO
+2006,2006_gA_4,Ecuador,Carlos Tenorio,8,NO,NO
+2006,2006_gA_4,Ecuador,Agustin Delgado,54,NO,NO
+2006,2006_gA_4,Ecuador,Ivan Kaviedes,90,NO,NO
+2006,2006_gA_5,Alemania,Miroslav Klose,4,NO,NO
+2006,2006_gA_5,Alemania,Miroslav Klose,44,NO,NO
+2006,2006_gA_5,Alemania,Lukas Podolski,57,NO,NO
+2006,2006_gA_6,Costa Rica,Ronald Gomez,25,NO,NO
+2006,2006_gA_6,Polonia,Bartosz Bosacki,33,NO,NO
+2006,2006_gA_6,Polonia,Bartosz Bosacki,66,NO,NO
+2006,2006_gB_1,Inglaterra,Carlos Gamarra,3,NO,SI
+2006,2006_gB_3,Inglaterra,Peter Crouch,83,NO,NO
+2006,2006_gB_3,Inglaterra,Steven Gerrard,90,NO,NO
+2006,2006_gB_4,Suecia,Fredrik Ljungberg,89,NO,NO
+2006,2006_gB_5,Suecia,Marcus Allback,51,NO,NO
+2006,2006_gB_5,Suecia,Henrik Larsson,90,NO,NO
+2006,2006_gB_5,Inglaterra,Joe Cole,34,NO,NO
+2006,2006_gB_5,Inglaterra,Steven Gerrard,85,NO,NO
+2006,2006_gB_6,Paraguay,Brent Sancho,25,NO,SI
+2006,2006_gB_6,Paraguay,Nelson Cuevas,86,NO,NO
+2006,2006_gC_1,Argentina,Hernan Crespo,24,NO,NO
+2006,2006_gC_1,Argentina,Javier Saviola,38,NO,NO
+2006,2006_gC_1,Costa de Marfil,Didier Drogba,82,NO,NO
+2006,2006_gC_2,Paises Bajos,Arjen Robben,18,NO,NO
+2006,2006_gC_3,Argentina,Maxi Rodriguez,6,NO,NO
+2006,2006_gC_3,Argentina,Esteban Cambiasso,31,NO,NO
+2006,2006_gC_3,Argentina,Maxi Rodriguez,41,NO,NO
+2006,2006_gC_3,Argentina,Hernan Crespo,78,NO,NO
+2006,2006_gC_3,Argentina,Carlos Tevez,84,NO,NO
+2006,2006_gC_3,Argentina,Lionel Messi,88,NO,NO
+2006,2006_gC_4,Paises Bajos,Robin Van Persie,23,NO,NO
+2006,2006_gC_4,Paises Bajos,Ruud Van Nistelrooij,27,NO,NO
+2006,2006_gC_4,Costa de Marfil,Bakary Kone,38,NO,NO
+2006,2006_gC_6,Costa de Marfil,Aruna Dindane,37,SI,NO
+2006,2006_gC_6,Costa de Marfil,Aruna Dindane,67,NO,NO
+2006,2006_gC_6,Costa de Marfil,Bonaventure Kalou,86,SI,NO
+2006,2006_gC_6,Serbia y Montenegro,Nikola Zigic,10,NO,NO
+2006,2006_gC_6,Serbia y Montenegro,Sasa Ilic,20,NO,NO
+2006,2006_gD_1,México,Omar Bravo,28,NO,NO
+2006,2006_gD_1,México,Omar Bravo,76,NO,NO
+2006,2006_gD_1,México,Zinha,79,NO,NO
+2006,2006_gD_1,Irán,Yahya Golmohammadi,36,NO,NO
+2006,2006_gD_2,Portugal,Pauleta,4,NO,NO
+2006,2006_gD_4,Portugal,Deco,63,NO,NO
+2006,2006_gD_4,Portugal,Cristiano Ronaldo,80,SI,NO
+2006,2006_gD_5,Portugal,Maniche,6,NO,NO
+2006,2006_gD_5,Portugal,Simao,24,SI,NO
+2006,2006_gD_5,México,Jose Fonseca,29,NO,NO
+2006,2006_gD_6,Irán,Sohrab Bakhtiarizadeh,75,NO,NO
+2006,2006_gD_6,Angola,Flavio,60,NO,NO
+2006,2006_gE_1,Italia,Andrea Pirlo,40,NO,NO
+2006,2006_gE_1,Italia,Vincenzo Iaquinta,83,NO,NO
+2006,2006_gE_2,República Checa,Jan Koller,5,NO,NO
+2006,2006_gE_2,República Checa,Tomas Rosicky,36,NO,NO
+2006,2006_gE_2,República Checa,Tomas Rosicky,76,NO,NO
+2006,2006_gE_3,Italia,Alberto Gilardino,22,NO,NO
+2006,2006_gE_3,Estados Unidos,Cristian Zaccardo,27,NO,SI
+2006,2006_gE_4,Ghana,Asamoah Gyan,2,NO,NO
+2006,2006_gE_4,Ghana,Sulley Muntari,82,NO,NO
+2006,2006_gE_5,Italia,Marco Materazzi,26,NO,NO
+2006,2006_gE_5,Italia,Filippo Inzaghi,87,NO,NO
+2006,2006_gE_6,Ghana,Haminu Draman,22,NO,NO
+2006,2006_gE_6,Ghana,Stephen Appiah,45,SI,NO
+2006,2006_gE_6,Estados Unidos,Clint Dempsey,43,NO,NO
+2006,2006_gF_1,Australia,Tim Cahill,84,NO,NO
+2006,2006_gF_1,Australia,Tim Cahill,89,NO,NO
+2006,2006_gF_1,Australia,John Aloisi,90,NO,NO
+2006,2006_gF_1,Japón,Shunsuke Nakamura,26,NO,NO
+2006,2006_gF_2,Brasil,Kaká,44,NO,NO
+2006,2006_gF_3,Brasil,Adriano,49,NO,NO
+2006,2006_gF_3,Brasil,Fred,90,NO,NO
+2006,2006_gF_5,Japón,Keiji Tamada,34,NO,NO
+2006,2006_gF_5,Brasil,Ronaldo,45,NO,NO
+2006,2006_gF_5,Brasil,Juninho Pernambucano,53,NO,NO
+2006,2006_gF_5,Brasil,Gilberto Melo,59,NO,NO
+2006,2006_gF_5,Brasil,Ronaldo,81,NO,NO
+2006,2006_gF_6,Croacia,Darijo Srna,2,NO,NO
+2006,2006_gF_6,Croacia,Niko Kovac,56,NO,NO
+2006,2006_gF_6,Australia,Craig Moore,38,SI,NO
+2006,2006_gF_6,Australia,Harry Kewell,79,NO,NO
+2006,2006_gG_2,Corea del Sur,Chun Soo Lee,54,NO,NO
+2006,2006_gG_2,Corea del Sur,Jung Hwan Ahn,72,NO,NO
+2006,2006_gG_2,Togo,Mohamed Kader,31,NO,NO
+2006,2006_gG_3,Francia,Thierry Henry,9,NO,NO
+2006,2006_gG_3,Corea del Sur,Ji Sung Park,81,NO,NO
+2006,2006_gG_4,Suiza,Alexander Frei,16,NO,NO
+2006,2006_gG_4,Suiza,Tranquillo Barnetta,88,NO,NO
+2006,2006_gG_5,Francia,Patrick Vieira,55,NO,NO
+2006,2006_gG_5,Francia,Thierry Henry,61,NO,NO
+2006,2006_gG_6,Suiza,Philippe Senderos,23,NO,NO
+2006,2006_gG_6,Suiza,Alexander Frei,77,NO,NO
+2006,2006_gH_1,España,Xabi Alonso,13,NO,NO
+2006,2006_gH_1,España,David Villa,17,NO,NO
+2006,2006_gH_1,España,David Villa,48,SI,NO
+2006,2006_gH_1,España,Fernando Torres,81,NO,NO
+2006,2006_gH_2,Túnez,Zied Jaziri,23,NO,NO
+2006,2006_gH_2,Túnez,Radhi Jaidi,90,NO,NO
+2006,2006_gH_2,Arabia Saudita,Yasser Al Kahtani,57,NO,NO
+2006,2006_gH_2,Arabia Saudita,Sami Al Jaber,84,NO,NO
+2006,2006_gH_3,España,Raul,71,NO,NO
+2006,2006_gH_3,España,Fernando Torres,76,NO,NO
+2006,2006_gH_3,España,Fernando Torres,90,SI,NO
+2006,2006_gH_3,Túnez,Jaouhar Mnari,8,NO,NO
+2006,2006_gH_4,Ucrania,Andriy Rusol,4,NO,NO
+2006,2006_gH_4,Ucrania,Serhiy Rebrov,36,NO,NO
+2006,2006_gH_4,Ucrania,Andriy Shevchenko,46,NO,NO
+2006,2006_gH_4,Ucrania,Maksym Kalinichenko,84,NO,NO
+2006,2006_gH_5,España,Juanito,36,NO,NO
+2006,2006_gH_6,Ucrania,Andriy Shevchenko,70,SI,NO
+2006,2006_r_49,Alemania,Lukas Podolski,4,NO,NO
+2006,2006_r_49,Alemania,Lukas Podolski,12,NO,NO
+2006,2006_r_50,Argentina,Hernan Crespo,10,NO,NO
+2006,2006_r_50,Argentina,Maxi Rodriguez,98,NO,NO
+2006,2006_r_50,México,Rafael Marquez,6,NO,NO
+2006,2006_r_51,Inglaterra,David Beckham,60,NO,NO
+2006,2006_r_52,Portugal,Maniche,23,NO,NO
+2006,2006_r_53,Italia,Francesco Totti,90,SI,NO
+2006,2006_r_55,Brasil,Ronaldo,5,NO,NO
+2006,2006_r_55,Brasil,Adriano,45,NO,NO
+2006,2006_r_55,Brasil,Ze Roberto,84,NO,NO
+2006,2006_r_56,España,David Villa,28,SI,NO
+2006,2006_r_56,Francia,Franck Ribery,41,NO,NO
+2006,2006_r_56,Francia,Patrick Vieira,83,NO,NO
+2006,2006_r_56,Francia,Zinedine Zidane,90,NO,NO
+2006,2006_r_57,Alemania,Miroslav Klose,80,NO,NO
+2006,2006_r_57,Argentina,Roberto Ayala,49,NO,NO
+2006,2006_r_58,Italia,Gianluca Zambrotta,6,NO,NO
+2006,2006_r_58,Italia,Luca Toni,59,NO,NO
+2006,2006_r_58,Italia,Luca Toni,69,NO,NO
+2006,2006_r_60,Francia,Thierry Henry,57,NO,NO
+2006,2006_r_61,Italia,Fabio Grosso,119,NO,NO
+2006,2006_r_61,Italia,Alessandro Del Piero,121,NO,NO
+2006,2006_r_62,Francia,Zinedine Zidane,33,SI,NO
+2006,2006_r_63,Alemania,Bastian Schweinsteiger,56,NO,NO
+2006,2006_r_63,Alemania,Petit,60,NO,SI
+2006,2006_r_63,Alemania,Bastian Schweinsteiger,78,NO,NO
+2006,2006_r_63,Portugal,Nuno Gomes,88,NO,NO
+2006,2006_r_64,Italia,Marco Materazzi,19,NO,NO
+2006,2006_r_64,Francia,Zinedine Zidane,7,SI,NO

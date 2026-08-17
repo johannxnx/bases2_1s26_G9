@@ -1,0 +1,173 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+2022,2022_gA_1,Ecuador,Enner Valencia,16,SI,NO
+2022,2022_gA_1,Ecuador,Enner Valencia,31,NO,NO
+2022,2022_gA_2,Paises Bajos,Cody Gakpo,84,NO,NO
+2022,2022_gA_2,Paises Bajos,Davy Klaassen,90,NO,NO
+2022,2022_gA_3,Catar,Mohammed Muntari,78,NO,NO
+2022,2022_gA_3,Senegal,Boulaye Dia,41,NO,NO
+2022,2022_gA_3,Senegal,Famara Diéhiou,48,NO,NO
+2022,2022_gA_3,Senegal,Bamba Dieng,84,NO,NO
+2022,2022_gA_4,Paises Bajos,Cody Gakpo,6,NO,NO
+2022,2022_gA_4,Ecuador,Enner Valencia,49,NO,NO
+2022,2022_gA_5,Paises Bajos,Cody Gakpo,26,NO,NO
+2022,2022_gA_5,Paises Bajos,Frenkie de Jong,49,NO,NO
+2022,2022_gA_6,Ecuador,Moisés Caicedo,67,NO,NO
+2022,2022_gA_6,Senegal,Ismaïla Sarr,44,NO,NO
+2022,2022_gA_6,Senegal,Kalidou Koulibaly,70,NO,NO
+2022,2022_gB_1,Inglaterra,Jude Bellingham,35,NO,NO
+2022,2022_gB_1,Inglaterra,Bukayo Saka,43,NO,NO
+2022,2022_gB_1,Inglaterra,Raheem Sterling,45,NO,NO
+2022,2022_gB_1,Inglaterra,Bukayo Saka,62,NO,NO
+2022,2022_gB_1,Inglaterra,Marcus Rashford,71,NO,NO
+2022,2022_gB_1,Inglaterra,Jack Grealish,90,NO,NO
+2022,2022_gB_1,Irán,Mehdi Taremi,65,NO,NO
+2022,2022_gB_1,Irán,Mehdi Taremi,90,SI,NO
+2022,2022_gB_2,Estados Unidos,Tim Weah,36,NO,NO
+2022,2022_gB_2,Gales,Gareth Bale,82,SI,NO
+2022,2022_gB_3,Irán,Rouzbeh Cheshmi,90,NO,NO
+2022,2022_gB_3,Irán,Ramin Rezaeian,90,NO,NO
+2022,2022_gB_5,Inglaterra,Marcus Rashford,50,NO,NO
+2022,2022_gB_5,Inglaterra,Phil Foden,51,NO,NO
+2022,2022_gB_5,Inglaterra,Marcus Rashford,68,NO,NO
+2022,2022_gB_6,Estados Unidos,Christian Pulisic,38,NO,NO
+2022,2022_gC_1,Argentina,Lionel Messi,10,SI,NO
+2022,2022_gC_1,Arabia Saudita,Saleh Al-Shehri,48,NO,NO
+2022,2022_gC_1,Arabia Saudita,Salem Al-Dawsari,53,NO,NO
+2022,2022_gC_3,Polonia,Piotr Zieliński,39,NO,NO
+2022,2022_gC_3,Polonia,Robert Lewandowski,82,NO,NO
+2022,2022_gC_4,Argentina,Lionel Messi,64,NO,NO
+2022,2022_gC_4,Argentina,Enzo Fernandez,87,NO,NO
+2022,2022_gC_5,Arabia Saudita,Salem Al-Dawsari,90,NO,NO
+2022,2022_gC_5,México,Henry Martin,47,NO,NO
+2022,2022_gC_5,México,Luis Chávez,52,NO,NO
+2022,2022_gC_6,Argentina,Alexis Mac Allister,46,NO,NO
+2022,2022_gC_6,Argentina,Julian Alvarez,67,NO,NO
+2022,2022_gD_2,Francia,Adrien Rabiot,27,NO,NO
+2022,2022_gD_2,Francia,Olivier Giroud,32,NO,NO
+2022,2022_gD_2,Francia,Kylian Mbappé,68,NO,NO
+2022,2022_gD_2,Francia,Olivier Giroud,71,NO,NO
+2022,2022_gD_2,Australia,Craig Goodwin,9,NO,NO
+2022,2022_gD_3,Australia,Mitchell Duke,23,NO,NO
+2022,2022_gD_4,Francia,Kylian Mbappé,61,NO,NO
+2022,2022_gD_4,Francia,Kylian Mbappé,86,NO,NO
+2022,2022_gD_4,Dinamarca,Andreas Christensen,68,NO,NO
+2022,2022_gD_5,Australia,Mathew Leckie,60,NO,NO
+2022,2022_gD_6,Túnez,Wahbi Khazri,58,NO,NO
+2022,2022_gE_1,Alemania,Ilkay Gündogan,33,SI,NO
+2022,2022_gE_1,Japón,Ritsu Doan,75,NO,NO
+2022,2022_gE_1,Japón,Takuma Asano,83,NO,NO
+2022,2022_gE_2,España,Dani Olmo,11,NO,NO
+2022,2022_gE_2,España,Marco Asensio,21,NO,NO
+2022,2022_gE_2,España,Ferran Torres,31,SI,NO
+2022,2022_gE_2,España,Ferran Torres,54,NO,NO
+2022,2022_gE_2,España,Gavi,74,NO,NO
+2022,2022_gE_2,España,Carlos Soler,90,NO,NO
+2022,2022_gE_2,España,Álvaro Morata,90,NO,NO
+2022,2022_gE_3,Costa Rica,Keysher Fuller,81,NO,NO
+2022,2022_gE_4,España,Álvaro Morata,62,NO,NO
+2022,2022_gE_4,Alemania,Niclas Füllkrug,83,NO,NO
+2022,2022_gE_5,Japón,Ritsu Doan,48,NO,NO
+2022,2022_gE_5,Japón,Ao Tanaka,51,NO,NO
+2022,2022_gE_5,España,Álvaro Morata,11,NO,NO
+2022,2022_gE_6,Costa Rica,Yeltsin Tejeda,58,NO,NO
+2022,2022_gE_6,Costa Rica,Juan Pablo Vargas,70,NO,NO
+2022,2022_gE_6,Alemania,Serge Gnabry,10,NO,NO
+2022,2022_gE_6,Alemania,Kai Havertz,73,NO,NO
+2022,2022_gE_6,Alemania,Kai Havertz,85,NO,NO
+2022,2022_gE_6,Alemania,Niclas Füllkrug,89,NO,NO
+2022,2022_gF_2,Bélgica,Michy Batshuayi,44,NO,NO
+2022,2022_gF_3,Marruecos,Romain Saïss,73,NO,NO
+2022,2022_gF_3,Marruecos,Zakaria Aboukhlal,90,NO,NO
+2022,2022_gF_4,Croacia,Andrej Kramarić,36,NO,NO
+2022,2022_gF_4,Croacia,Marko Livaja,44,NO,NO
+2022,2022_gF_4,Croacia,Andrej Kramarić,70,NO,NO
+2022,2022_gF_4,Croacia,Lovro Majer,90,NO,NO
+2022,2022_gF_4,Canadá,Alphonso Davies,2,NO,NO
+2022,2022_gF_6,Canadá,Nayef Aguerd,40,NO,SI
+2022,2022_gF_6,Marruecos,Hakim Ziyech,4,NO,NO
+2022,2022_gF_6,Marruecos,Youssef En-Nesyri,23,NO,NO
+2022,2022_gG_1,Suiza,Breel Embolo,48,NO,NO
+2022,2022_gG_2,Brasil,Richarlison,62,NO,NO
+2022,2022_gG_2,Brasil,Richarlison,73,NO,NO
+2022,2022_gG_3,Camerún,Jean-Charles Castelletto,29,NO,NO
+2022,2022_gG_3,Camerún,Vincent Aboubakar,63,NO,NO
+2022,2022_gG_3,Camerún,Eric Maxim Choupo Moting,66,NO,NO
+2022,2022_gG_3,Serbia,Strahinja Pavlovic,45,NO,NO
+2022,2022_gG_3,Serbia,Sergej Milinković-Savić,45,NO,NO
+2022,2022_gG_3,Serbia,Aleksandar Mitrović,53,NO,NO
+2022,2022_gG_4,Brasil,Casemiro,83,NO,NO
+2022,2022_gG_5,Serbia,Aleksandar Mitrović,26,NO,NO
+2022,2022_gG_5,Serbia,Dusan Vlahovic,35,NO,NO
+2022,2022_gG_5,Suiza,Xherdan Shaqiri,20,NO,NO
+2022,2022_gG_5,Suiza,Breel Embolo,44,NO,NO
+2022,2022_gG_5,Suiza,Remo Freuler,48,NO,NO
+2022,2022_gG_6,Camerún,Vincent Aboubakar,90,NO,NO
+2022,2022_gH_2,Portugal,Cristiano Ronaldo,65,SI,NO
+2022,2022_gH_2,Portugal,João Félix,78,NO,NO
+2022,2022_gH_2,Portugal,Rafael Leão,80,NO,NO
+2022,2022_gH_2,Ghana,Andre Ayew,73,NO,NO
+2022,2022_gH_2,Ghana,Osman Bukari,89,NO,NO
+2022,2022_gH_3,Corea del Sur,Gue-sung Cho,58,NO,NO
+2022,2022_gH_3,Corea del Sur,Gue-sung Cho,61,NO,NO
+2022,2022_gH_3,Ghana,Mohammed Salisu,24,NO,NO
+2022,2022_gH_3,Ghana,Mohammed Kudus,34,NO,NO
+2022,2022_gH_3,Ghana,Mohammed Kudus,68,NO,NO
+2022,2022_gH_4,Portugal,Bruno Fernandes,54,NO,NO
+2022,2022_gH_4,Portugal,Bruno Fernandes,90,NO,NO
+2022,2022_gH_5,Uruguay,Giorgian De Arrascaeta,26,NO,NO
+2022,2022_gH_5,Uruguay,Giorgian De Arrascaeta,32,NO,NO
+2022,2022_gH_6,Corea del Sur,Young-Gwon Kim,27,NO,NO
+2022,2022_gH_6,Corea del Sur,Hee-chan Hwang,90,NO,NO
+2022,2022_gH_6,Portugal,Ricardo Horta,5,NO,NO
+2022,2022_r_49,Paises Bajos,Memphis Depay,10,NO,NO
+2022,2022_r_49,Paises Bajos,Daley Blind,45,NO,NO
+2022,2022_r_49,Paises Bajos,Denzel Dumfries,81,NO,NO
+2022,2022_r_49,Estados Unidos,Haji Wright,76,NO,NO
+2022,2022_r_50,Argentina,Lionel Messi,35,NO,NO
+2022,2022_r_50,Argentina,Julian Alvarez,57,NO,NO
+2022,2022_r_50,Australia,Enzo Fernandez,77,NO,SI
+2022,2022_r_51,Inglaterra,Jordan Henderson,38,NO,NO
+2022,2022_r_51,Inglaterra,Harry Kane,45,NO,NO
+2022,2022_r_51,Inglaterra,Bukayo Saka,57,NO,NO
+2022,2022_r_52,Francia,Olivier Giroud,44,NO,NO
+2022,2022_r_52,Francia,Kylian Mbappé,74,NO,NO
+2022,2022_r_52,Francia,Kylian Mbappé,90,NO,NO
+2022,2022_r_52,Polonia,Robert Lewandowski,90,SI,NO
+2022,2022_r_53,Japón,Daizen Maeda,43,NO,NO
+2022,2022_r_53,Croacia,Ivan Perisic,55,NO,NO
+2022,2022_r_54,Brasil,Vinicius Junior,7,NO,NO
+2022,2022_r_54,Brasil,Neymar Jr.,13,NO,NO
+2022,2022_r_54,Brasil,Richarlison,29,NO,NO
+2022,2022_r_54,Brasil,Lucas Paqueta,36,NO,NO
+2022,2022_r_54,Corea del Sur,Seung-ho Paik,76,NO,NO
+2022,2022_r_56,Portugal,Gonçalo Ramos,17,NO,NO
+2022,2022_r_56,Portugal,Pepe,33,NO,NO
+2022,2022_r_56,Portugal,Gonçalo Ramos,51,NO,NO
+2022,2022_r_56,Portugal,Raphaël Guerreiro,55,NO,NO
+2022,2022_r_56,Portugal,Gonçalo Ramos,67,NO,NO
+2022,2022_r_56,Portugal,Rafael Leão,90,NO,NO
+2022,2022_r_56,Suiza,Manuel Akanji,58,NO,NO
+2022,2022_r_57,Paises Bajos,Wout Weghorst,83,NO,NO
+2022,2022_r_57,Paises Bajos,Wout Weghorst,90,NO,NO
+2022,2022_r_57,Argentina,Nahuel Molina,35,NO,NO
+2022,2022_r_57,Argentina,Lionel Messi,73,SI,NO
+2022,2022_r_58,Croacia,Bruno Petkovic,117,NO,NO
+2022,2022_r_58,Brasil,Neymar Jr.,105,NO,NO
+2022,2022_r_59,Inglaterra,Harry Kane,54,SI,NO
+2022,2022_r_59,Francia,Aurélien Tchouaméni,17,NO,NO
+2022,2022_r_59,Francia,Olivier Giroud,78,NO,NO
+2022,2022_r_60,Marruecos,Youssef En-Nesyri,42,NO,NO
+2022,2022_r_61,Argentina,Lionel Messi,34,SI,NO
+2022,2022_r_61,Argentina,Julian Alvarez,39,NO,NO
+2022,2022_r_61,Argentina,Julian Alvarez,69,NO,NO
+2022,2022_r_62,Francia,Théo Hernandez,5,NO,NO
+2022,2022_r_62,Francia,Randal Kolo Muani,79,NO,NO
+2022,2022_r_63,Croacia,Josko Gvardiol,7,NO,NO
+2022,2022_r_63,Croacia,Mislav Orsic,42,NO,NO
+2022,2022_r_63,Marruecos,Achraf Dari,9,NO,NO
+2022,2022_r_64,Argentina,Lionel Messi,23,SI,NO
+2022,2022_r_64,Argentina,Angel Di Maria,36,NO,NO
+2022,2022_r_64,Argentina,Lionel Messi,108,NO,NO
+2022,2022_r_64,Francia,Kylian Mbappé,80,SI,NO
+2022,2022_r_64,Francia,Kylian Mbappé,81,NO,NO
+2022,2022_r_64,Francia,Kylian Mbappé,118,SI,NO

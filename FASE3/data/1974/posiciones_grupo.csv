@@ -1,0 +1,25 @@
+anio,id_grupo,seleccion,pts,pj,pg,pe,pp,gf,gc,diferencia,clasificado
+1974,1,Alemania Oriental,5,3,2,1,0,4,1,3,Si
+1974,1,Alemania Occidental,4,3,2,0,1,4,1,3,Si
+1974,1,Chile,2,3,0,2,1,1,2,-1,No
+1974,1,Australia,1,3,0,1,2,0,5,-5,No
+1974,2,Yugoslavia,4,3,1,2,0,10,1,9,Si
+1974,2,Brasil,4,3,1,2,0,3,0,3,Si
+1974,2,Escocia,4,3,1,2,0,3,1,2,No
+1974,2,Zaire,0,3,0,0,3,0,14,-14,No
+1974,3,Paises Bajos,5,3,2,1,0,6,1,5,Si
+1974,3,Suecia,4,3,1,2,0,3,0,3,Si
+1974,3,Bulgaria,2,3,0,2,1,2,5,-3,No
+1974,3,Uruguay,1,3,0,1,2,1,6,-5,No
+1974,4,Polonia,6,3,3,0,0,12,3,9,Si
+1974,4,Argentina,3,3,1,1,1,7,5,2,Si
+1974,4,Italia,3,3,1,1,1,5,4,1,No
+1974,4,Haití,0,3,0,0,3,2,14,-12,No
+1974,A,Paises Bajos,6,3,3,0,0,8,0,8,Si
+1974,A,Brasil,4,3,2,0,1,3,3,0,Si
+1974,A,Alemania Oriental,1,3,0,1,2,1,4,-3,No
+1974,A,Argentina,1,3,0,1,2,2,7,-5,No
+1974,B,Alemania Occidental,6,3,3,0,0,7,2,5,Si
+1974,B,Polonia,4,3,2,0,1,3,2,1,Si
+1974,B,Suecia,2,3,1,0,2,4,6,-2,No
+1974,B,Yugoslavia,0,3,0,0,3,2,6,-4,No

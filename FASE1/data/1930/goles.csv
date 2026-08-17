@@ -1,0 +1,71 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1930,1930_g1_1,Francia,Lucien Laurent,19,NO,NO
+1930,1930_g1_1,Francia,Marcel Langiller,40,NO,NO
+1930,1930_g1_1,Francia,Andre Maschinot,43,NO,NO
+1930,1930_g1_1,Francia,Andre Maschinot,87,NO,NO
+1930,1930_g1_1,México,Juan Carreno,70,NO,NO
+1930,1930_g1_2,Argentina,Luis Monti,81,NO,NO
+1930,1930_g1_3,Chile,Carlos Vidal,3,NO,NO
+1930,1930_g1_3,Chile,Manuel Rosas,51,NO,SI
+1930,1930_g1_3,Chile,Carlos Vidal,65,NO,NO
+1930,1930_g1_4,Argentina,Guillermo Stabile,8,NO,NO
+1930,1930_g1_4,Argentina,Adolfo Zumelzu,12,NO,NO
+1930,1930_g1_4,Argentina,Guillermo Stabile,17,NO,NO
+1930,1930_g1_4,Argentina,Francisco Varallo,53,NO,NO
+1930,1930_g1_4,Argentina,Adolfo Zumelzu,55,NO,NO
+1930,1930_g1_4,Argentina,Guillermo Stabile,80,NO,NO
+1930,1930_g1_4,México,Manuel Rosas,42,SI,NO
+1930,1930_g1_4,México,Manuel Rosas,65,NO,NO
+1930,1930_g1_4,México,Roberto Gayon,75,NO,NO
+1930,1930_g1_5,Chile,Guillermo Subiabre,65,NO,NO
+1930,1930_g1_6,Argentina,Guillermo Stabile,12,NO,NO
+1930,1930_g1_6,Argentina,Guillermo Stabile,13,NO,NO
+1930,1930_g1_6,Argentina,Mario Evaristo,51,NO,NO
+1930,1930_g1_6,Chile,Guillermo Subiabre,15,NO,NO
+1930,1930_g2_1,Yugoslavia,Aleksandar Tirnanic,21,NO,NO
+1930,1930_g2_1,Yugoslavia,Ivica Bek,30,NO,NO
+1930,1930_g2_1,Brasil,Preguinho,62,NO,NO
+1930,1930_g2_2,Yugoslavia,Ivica Bek,60,NO,NO
+1930,1930_g2_2,Yugoslavia,Blagoje Marjanovic,65,NO,NO
+1930,1930_g2_2,Yugoslavia,Ivica Bek,67,NO,NO
+1930,1930_g2_2,Yugoslavia,Djordje Vujadinovic,85,NO,NO
+1930,1930_g2_3,Brasil,Moderato,37,NO,NO
+1930,1930_g2_3,Brasil,Preguinho,67,NO,NO
+1930,1930_g2_3,Brasil,Moderato,73,NO,NO
+1930,1930_g2_3,Brasil,Preguinho,83,NO,NO
+1930,1930_g3_1,Rumania,Adalbert Desu,1,NO,NO
+1930,1930_g3_1,Rumania,Constantin Stanciu,79,NO,NO
+1930,1930_g3_1,Rumania,Nicolae Kovacs,89,NO,NO
+1930,1930_g3_1,Perú,Luis Souza,75,NO,NO
+1930,1930_g3_2,Uruguay,Hector Castro,60,NO,NO
+1930,1930_g3_3,Uruguay,Pablo Dorado,7,NO,NO
+1930,1930_g3_3,Uruguay,Hector Scarone,24,NO,NO
+1930,1930_g3_3,Uruguay,Juan Anselmo,30,NO,NO
+1930,1930_g3_3,Uruguay,Pedro Cea,35,NO,NO
+1930,1930_g4_1,Estados Unidos,Bart Mcghee,23,NO,NO
+1930,1930_g4_1,Estados Unidos,Tom Florie,45,NO,NO
+1930,1930_g4_1,Estados Unidos,Bert Patenaude,69,NO,NO
+1930,1930_g4_2,Estados Unidos,Bert Patenaude,10,NO,NO
+1930,1930_g4_2,Estados Unidos,Bert Patenaude,15,NO,NO
+1930,1930_g4_2,Estados Unidos,Bert Patenaude,50,NO,NO
+1930,1930_g4_3,Paraguay,Luis Vargas Pena,40,NO,NO
+1930,1930_r_,Argentina,Luis Monti,20,NO,NO
+1930,1930_r_,Argentina,Alejandro Scopelli,56,NO,NO
+1930,1930_r_,Argentina,Guillermo Stabile,69,NO,NO
+1930,1930_r_,Argentina,Carlos Peucelle,80,NO,NO
+1930,1930_r_,Argentina,Carlos Peucelle,85,NO,NO
+1930,1930_r_,Argentina,Guillermo Stabile,87,NO,NO
+1930,1930_r_,Estados Unidos,Jim Brown,89,NO,NO
+1930,1930_r_,Uruguay,Pedro Cea,18,NO,NO
+1930,1930_r_,Uruguay,Juan Anselmo,20,NO,NO
+1930,1930_r_,Uruguay,Juan Anselmo,31,NO,NO
+1930,1930_r_,Uruguay,Victoriano Iriarte,61,NO,NO
+1930,1930_r_,Uruguay,Pedro Cea,67,NO,NO
+1930,1930_r_,Uruguay,Pedro Cea,72,NO,NO
+1930,1930_r_,Yugoslavia,Branislav Sekulic,4,NO,NO
+1930,1930_r_,Argentina,Carlos Peucelle,20,NO,NO
+1930,1930_r_,Argentina,Guillermo Stabile,37,NO,NO
+1930,1930_r_,Uruguay,Pablo Dorado,12,NO,NO
+1930,1930_r_,Uruguay,Pedro Cea,57,NO,NO
+1930,1930_r_,Uruguay,Victoriano Iriarte,68,NO,NO
+1930,1930_r_,Uruguay,Hector Castro,89,NO,NO

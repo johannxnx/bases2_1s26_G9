@@ -1,0 +1,147 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1982,1982_g1_1,Polonia,Zbigniew Boniek,4,NO,NO
+1982,1982_g1_1,Polonia,Zbigniew Boniek,26,NO,NO
+1982,1982_g1_1,Polonia,Zbigniew Boniek,53,NO,NO
+1982,1982_g1_2,URSS,Khoren Oganesian,48,NO,NO
+1982,1982_g2_2,Alemania Occidental,Pierre Littbarski,50,NO,NO
+1982,1982_g2_2,Alemania Occidental,Klaus Fischer,75,NO,NO
+1982,1982_g2_2,España,Jesus Zamora,82,NO,NO
+1982,1982_g3_1,Italia,Marco Tardelli,57,NO,NO
+1982,1982_g3_1,Italia,Antonio Cabrini,67,NO,NO
+1982,1982_g3_1,Argentina,Daniel Passarella,83,NO,NO
+1982,1982_g3_2,Argentina,Ramon Diaz,89,NO,NO
+1982,1982_g3_2,Brasil,Zico,11,NO,NO
+1982,1982_g3_2,Brasil,Serginho,66,NO,NO
+1982,1982_g3_2,Brasil,Junior,75,NO,NO
+1982,1982_g3_3,Italia,Paolo Rossi,5,NO,NO
+1982,1982_g3_3,Italia,Paolo Rossi,25,NO,NO
+1982,1982_g3_3,Italia,Paolo Rossi,74,NO,NO
+1982,1982_g3_3,Brasil,Socrates,12,NO,NO
+1982,1982_g3_3,Brasil,Falcao,68,NO,NO
+1982,1982_g4_1,Francia,Bernard Genghini,39,NO,NO
+1982,1982_g4_2,Austria,Bruno Pezzey,50,NO,NO
+1982,1982_g4_2,Austria,Reinhold Hintermaier,68,NO,NO
+1982,1982_g4_2,Irlanda del Norte,Billy Hamilton,27,NO,NO
+1982,1982_g4_2,Irlanda del Norte,Billy Hamilton,75,NO,NO
+1982,1982_g4_3,Francia,Alain Giresse,33,NO,NO
+1982,1982_g4_3,Francia,Dominique Rocheteau,46,NO,NO
+1982,1982_g4_3,Francia,Dominique Rocheteau,68,NO,NO
+1982,1982_g4_3,Francia,Alain Giresse,80,NO,NO
+1982,1982_g4_3,Irlanda del Norte,Gerry Armstrong,75,NO,NO
+1982,1982_gA_3,Italia,Bruno Conti,18,NO,NO
+1982,1982_gA_3,Perú,Ruben Diaz,83,NO,NO
+1982,1982_gA_5,Polonia,Wlodimierz Smolarek,55,NO,NO
+1982,1982_gA_5,Polonia,Grzegorz Lato,58,NO,NO
+1982,1982_gA_5,Polonia,Zbigniew Boniek,61,NO,NO
+1982,1982_gA_5,Polonia,Andrzej Buncol,68,NO,NO
+1982,1982_gA_5,Polonia,Wlodzimierz Ciolek,76,NO,NO
+1982,1982_gA_5,Perú,Guillermo La Rosa,83,NO,NO
+1982,1982_gA_6,Italia,Francesco Graziani,60,NO,NO
+1982,1982_gA_6,Camerún,Gregoire Mbida,61,NO,NO
+1982,1982_gB_1,Alemania Occidental,Karl-Heinz Rummenigge,67,NO,NO
+1982,1982_gB_1,Argelia,Rabah Madjer,54,NO,NO
+1982,1982_gB_1,Argelia,Lakhdar Belloumi,68,NO,NO
+1982,1982_gB_2,Austria,Walter Schachner,22,NO,NO
+1982,1982_gB_3,Alemania Occidental,Karl-Heinz Rummenigge,9,NO,NO
+1982,1982_gB_3,Alemania Occidental,Karl-Heinz Rummenigge,57,NO,NO
+1982,1982_gB_3,Alemania Occidental,Karl-Heinz Rummenigge,66,NO,NO
+1982,1982_gB_3,Alemania Occidental,Uwe Reinders,83,NO,NO
+1982,1982_gB_3,Chile,Gustavo Moscoso,90,NO,NO
+1982,1982_gB_4,Austria,Walter Schachner,55,NO,NO
+1982,1982_gB_4,Austria,Hans Krankl,67,NO,NO
+1982,1982_gB_5,Argelia,Salah Assad,7,NO,NO
+1982,1982_gB_5,Argelia,Salah Assad,31,NO,NO
+1982,1982_gB_5,Argelia,Tedj Bensaoula,35,NO,NO
+1982,1982_gB_5,Chile,Miguel Neira,59,SI,NO
+1982,1982_gB_5,Chile,Juan Letelier,73,NO,NO
+1982,1982_gB_6,Alemania Occidental,Horst Hrubesch,10,NO,NO
+1982,1982_gC_1,Bélgica,Erwin Vandenbergh,62,NO,NO
+1982,1982_gC_2,Hungría,Tibor Nyilasi,4,NO,NO
+1982,1982_gC_2,Hungría,Gabor Poloskei,11,NO,NO
+1982,1982_gC_2,Hungría,Laszlo Fazekas,23,NO,NO
+1982,1982_gC_2,Hungría,Jozsef Toth,50,NO,NO
+1982,1982_gC_2,Hungría,Laszlo Fazekas,54,NO,NO
+1982,1982_gC_2,Hungría,Laszlo Kiss,69,NO,NO
+1982,1982_gC_2,Hungría,Lazar Szentes,70,NO,NO
+1982,1982_gC_2,Hungría,Laszlo Kiss,72,NO,NO
+1982,1982_gC_2,Hungría,Laszlo Kiss,76,NO,NO
+1982,1982_gC_2,Hungría,Tibor Nyilasi,83,NO,NO
+1982,1982_gC_2,El Salvador,Luis Ramirez,64,NO,NO
+1982,1982_gC_3,Argentina,Daniel Bertoni,26,NO,NO
+1982,1982_gC_3,Argentina,Diego Maradona,28,NO,NO
+1982,1982_gC_3,Argentina,Diego Maradona,57,NO,NO
+1982,1982_gC_3,Argentina,Osvaldo Ardiles,60,NO,NO
+1982,1982_gC_3,Hungría,Gabor Poloskei,76,NO,NO
+1982,1982_gC_4,Bélgica,Ludo Coeck,19,NO,NO
+1982,1982_gC_5,Bélgica,Alex Czerniatynski,76,NO,NO
+1982,1982_gC_5,Hungría,Jozsef Varga,27,NO,NO
+1982,1982_gC_6,Argentina,Daniel Passarella,22,SI,NO
+1982,1982_gC_6,Argentina,Daniel Bertoni,54,NO,NO
+1982,1982_gD_1,Inglaterra,Bryan Robson,1,NO,NO
+1982,1982_gD_1,Inglaterra,Bryan Robson,67,NO,NO
+1982,1982_gD_1,Inglaterra,Paul Mariner,83,NO,NO
+1982,1982_gD_1,Francia,Gerard Soler,24,NO,NO
+1982,1982_gD_2,Checoslovaquia,Antonin Panenka,21,SI,NO
+1982,1982_gD_2,Kuwait,Faisal Al Dakhil,57,NO,NO
+1982,1982_gD_3,Inglaterra,Trevor Francis,62,NO,NO
+1982,1982_gD_3,Inglaterra,Jozef Barmos,66,NO,SI
+1982,1982_gD_4,Francia,Bernard Genghini,31,NO,NO
+1982,1982_gD_4,Francia,Michel Platini,43,NO,NO
+1982,1982_gD_4,Francia,Didier Six,48,NO,NO
+1982,1982_gD_4,Francia,Maxime Bossis,89,NO,NO
+1982,1982_gD_4,Kuwait,Abdulaziz Al Balushi,75,NO,NO
+1982,1982_gD_5,Francia,Didier Six,66,NO,NO
+1982,1982_gD_5,Checoslovaquia,Antonin Panenka,84,SI,NO
+1982,1982_gD_6,Inglaterra,Trevor Francis,27,NO,NO
+1982,1982_gE_1,España,Lopez Ufarte,65,SI,NO
+1982,1982_gE_1,Honduras,Hector Zelaya,7,NO,NO
+1982,1982_gE_3,España,Juanito,14,SI,NO
+1982,1982_gE_3,España,Enrique Saura,66,NO,NO
+1982,1982_gE_3,Yugoslavia,Ivan Gudelj,10,NO,NO
+1982,1982_gE_4,Honduras,Eduardo Laing,60,NO,NO
+1982,1982_gE_4,Irlanda del Norte,Gerry Armstrong,9,NO,NO
+1982,1982_gE_5,Yugoslavia,Vladimir Petrovic,88,SI,NO
+1982,1982_gE_6,Irlanda del Norte,Gerry Armstrong,47,NO,NO
+1982,1982_gF_1,Brasil,Socrates,75,NO,NO
+1982,1982_gF_1,Brasil,Eder,88,NO,NO
+1982,1982_gF_1,URSS,Andrei Bal,34,NO,NO
+1982,1982_gF_2,Escocia,Kenny Dalglish,18,NO,NO
+1982,1982_gF_2,Escocia,John Wark,29,NO,NO
+1982,1982_gF_2,Escocia,John Wark,32,NO,NO
+1982,1982_gF_2,Escocia,John Robertson,73,NO,NO
+1982,1982_gF_2,Escocia,Steve Archibald,79,NO,NO
+1982,1982_gF_2,Nueva Zelanda,Steve Sumner,54,NO,NO
+1982,1982_gF_2,Nueva Zelanda,Steve Wooddin,64,NO,NO
+1982,1982_gF_3,Brasil,Zico,33,NO,NO
+1982,1982_gF_3,Brasil,Oscar,48,NO,NO
+1982,1982_gF_3,Brasil,Eder,63,NO,NO
+1982,1982_gF_3,Brasil,Falcao,87,NO,NO
+1982,1982_gF_3,Escocia,David Narey,18,NO,NO
+1982,1982_gF_4,URSS,Yuri Gavrilov,24,NO,NO
+1982,1982_gF_4,URSS,Oleg Blokhin,48,NO,NO
+1982,1982_gF_4,URSS,Sergei Baltacha,68,NO,NO
+1982,1982_gF_5,URSS,Aleksandr Chivadze,59,NO,NO
+1982,1982_gF_5,URSS,Ramaz Shengelia,84,NO,NO
+1982,1982_gF_5,Escocia,Joe Jordan,15,NO,NO
+1982,1982_gF_5,Escocia,Graeme Souness,86,NO,NO
+1982,1982_gF_6,Brasil,Zico,28,NO,NO
+1982,1982_gF_6,Brasil,Zico,31,NO,NO
+1982,1982_gF_6,Brasil,Falcao,64,NO,NO
+1982,1982_gF_6,Brasil,Serginho,70,NO,NO
+1982,1982_r_,Alemania Occidental,Pierre Littbarski,17,NO,NO
+1982,1982_r_,Alemania Occidental,Karl-Heinz Rummenigge,102,NO,NO
+1982,1982_r_,Alemania Occidental,Klaus Fischer,108,NO,NO
+1982,1982_r_,Francia,Michel Platini,26,SI,NO
+1982,1982_r_,Francia,Marius Tresor,92,NO,NO
+1982,1982_r_,Francia,Alain Giresse,98,NO,NO
+1982,1982_r_,Italia,Paolo Rossi,22,NO,NO
+1982,1982_r_,Italia,Paolo Rossi,73,NO,NO
+1982,1982_r_,Polonia,Andrzej Szarmach,40,NO,NO
+1982,1982_r_,Polonia,Stefan Majewski,44,NO,NO
+1982,1982_r_,Polonia,Janusz Kupcewicz,46,NO,NO
+1982,1982_r_,Francia,Rene Girard,13,NO,NO
+1982,1982_r_,Francia,Alain Couriol,72,NO,NO
+1982,1982_r_,Italia,Paolo Rossi,57,NO,NO
+1982,1982_r_,Italia,Marco Tardelli,69,NO,NO
+1982,1982_r_,Italia,Alessandro Altobelli,81,NO,NO
+1982,1982_r_,Alemania Occidental,Paul Breitner,83,NO,NO

@@ -1,0 +1,1465 @@
+[
+  {
+    "id_seleccion": 1,
+    "nombre": "Alemania",
+    "participaciones": [
+      1934,
+      1938,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      2006
+    ],
+    "total_participaciones": 10,
+    "fue_campeon": true,
+    "anios_campeon": [
+      2014
+    ]
+  },
+  {
+    "id_seleccion": 2,
+    "nombre": "Alemania Oriental",
+    "participaciones": [
+      1974
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 3,
+    "nombre": "Angola",
+    "participaciones": [
+      2006
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 4,
+    "nombre": "Arabia Saudita",
+    "participaciones": [
+      1994,
+      1998,
+      2002,
+      2006,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 5,
+    "nombre": "Argelia",
+    "participaciones": [
+      1982,
+      1986,
+      2010,
+      2014
+    ],
+    "sedes": [],
+    "total_participaciones": 4,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 6,
+    "nombre": "Argentina",
+    "participaciones": [
+      1930,
+      1934,
+      1958,
+      1962,
+      1966,
+      1974,
+      1978,
+      1982,
+      1986,
+      1990,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      1978
+    ],
+    "total_participaciones": 18,
+    "fue_campeon": true,
+    "anios_campeon": [
+      1978,
+      1986,
+      2022
+    ]
+  },
+  {
+    "id_seleccion": 7,
+    "nombre": "Australia",
+    "participaciones": [
+      1974,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 8,
+    "nombre": "Austria",
+    "participaciones": [
+      1934,
+      1954,
+      1958,
+      1978,
+      1982,
+      1990,
+      1998
+    ],
+    "sedes": [],
+    "total_participaciones": 7,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 9,
+    "nombre": "Bolivia",
+    "participaciones": [
+      1930,
+      1950,
+      1994
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 10,
+    "nombre": "Bosnia-Herzegovina",
+    "participaciones": [
+      2014
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 11,
+    "nombre": "Brasil",
+    "participaciones": [
+      1930,
+      1934,
+      1938,
+      1950,
+      1954,
+      1958,
+      1962,
+      1966,
+      1970,
+      1974,
+      1978,
+      1982,
+      1986,
+      1990,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      1950,
+      2014
+    ],
+    "total_participaciones": 22,
+    "fue_campeon": true,
+    "anios_campeon": [
+      1958,
+      1962,
+      1970,
+      1994,
+      2002
+    ]
+  },
+  {
+    "id_seleccion": 12,
+    "nombre": "Bulgaria",
+    "participaciones": [
+      1962,
+      1966,
+      1970,
+      1974,
+      1986,
+      1994,
+      1998
+    ],
+    "sedes": [],
+    "total_participaciones": 7,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 13,
+    "nombre": "Bélgica",
+    "participaciones": [
+      1930,
+      1934,
+      1938,
+      1954,
+      1970,
+      1982,
+      1986,
+      1990,
+      1994,
+      1998,
+      2002,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 14,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 14,
+    "nombre": "Camerún",
+    "participaciones": [
+      1982,
+      1990,
+      1994,
+      1998,
+      2002,
+      2010,
+      2014,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 8,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 15,
+    "nombre": "Canadá",
+    "participaciones": [
+      1986,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 2,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 16,
+    "nombre": "Catar",
+    "participaciones": [
+      2022
+    ],
+    "sedes": [
+      2022
+    ],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 17,
+    "nombre": "Chile",
+    "participaciones": [
+      1930,
+      1950,
+      1962,
+      1966,
+      1974,
+      1982,
+      1998,
+      2010,
+      2014
+    ],
+    "sedes": [
+      1962
+    ],
+    "total_participaciones": 9,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 18,
+    "nombre": "China",
+    "participaciones": [
+      2002
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 19,
+    "nombre": "Colombia",
+    "participaciones": [
+      1962,
+      1990,
+      1994,
+      1998,
+      2014,
+      2018
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 20,
+    "nombre": "Corea del Norte",
+    "participaciones": [
+      1966,
+      2010
+    ],
+    "sedes": [],
+    "total_participaciones": 2,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 21,
+    "nombre": "Corea del Sur",
+    "participaciones": [
+      1954,
+      1986,
+      1990,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      2002
+    ],
+    "total_participaciones": 11,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 22,
+    "nombre": "Costa Rica",
+    "participaciones": [
+      1990,
+      2002,
+      2006,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 23,
+    "nombre": "Costa de Marfil",
+    "participaciones": [
+      2006,
+      2010,
+      2014
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 24,
+    "nombre": "Croacia",
+    "participaciones": [
+      1998,
+      2002,
+      2006,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 25,
+    "nombre": "Cuba",
+    "participaciones": [
+      1938
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 26,
+    "nombre": "Dinamarca",
+    "participaciones": [
+      1986,
+      1998,
+      2002,
+      2010,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 27,
+    "nombre": "Ecuador",
+    "participaciones": [
+      2002,
+      2006,
+      2014,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 4,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 28,
+    "nombre": "Egipto",
+    "participaciones": [
+      1934,
+      1990,
+      2018
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 29,
+    "nombre": "El Salvador",
+    "participaciones": [
+      1970,
+      1982
+    ],
+    "sedes": [],
+    "total_participaciones": 2,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 30,
+    "nombre": "Emiratos Arabes",
+    "participaciones": [
+      1990
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 31,
+    "nombre": "Escocia",
+    "participaciones": [
+      1954,
+      1958,
+      1974,
+      1978,
+      1982,
+      1986,
+      1990,
+      1998
+    ],
+    "sedes": [],
+    "total_participaciones": 8,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 32,
+    "nombre": "Eslovaquia",
+    "participaciones": [
+      2010
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 33,
+    "nombre": "Eslovenia",
+    "participaciones": [
+      2002,
+      2010
+    ],
+    "sedes": [],
+    "total_participaciones": 2,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 34,
+    "nombre": "España",
+    "participaciones": [
+      1934,
+      1950,
+      1962,
+      1966,
+      1978,
+      1982,
+      1986,
+      1990,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      1982
+    ],
+    "total_participaciones": 16,
+    "fue_campeon": true,
+    "anios_campeon": [
+      2010
+    ]
+  },
+  {
+    "id_seleccion": 35,
+    "nombre": "Estados Unidos",
+    "participaciones": [
+      1930,
+      1934,
+      1950,
+      1990,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2022
+    ],
+    "sedes": [
+      1994
+    ],
+    "total_participaciones": 11,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 36,
+    "nombre": "Francia",
+    "participaciones": [
+      1930,
+      1934,
+      1938,
+      1954,
+      1958,
+      1966,
+      1978,
+      1982,
+      1986,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      1938,
+      1998
+    ],
+    "total_participaciones": 16,
+    "fue_campeon": true,
+    "anios_campeon": [
+      1998,
+      2018
+    ]
+  },
+  {
+    "id_seleccion": 37,
+    "nombre": "Gales",
+    "participaciones": [
+      1958,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 2,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 38,
+    "nombre": "Ghana",
+    "participaciones": [
+      2006,
+      2010,
+      2014,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 4,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 39,
+    "nombre": "Grecia",
+    "participaciones": [
+      1994,
+      2010,
+      2014
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 40,
+    "nombre": "Haití",
+    "participaciones": [
+      1974
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 41,
+    "nombre": "Honduras",
+    "participaciones": [
+      1982,
+      2010,
+      2014
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 42,
+    "nombre": "Hungría",
+    "participaciones": [
+      1934,
+      1938,
+      1954,
+      1958,
+      1962,
+      1966,
+      1978,
+      1982,
+      1986
+    ],
+    "sedes": [],
+    "total_participaciones": 9,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 43,
+    "nombre": "Indonesia",
+    "participaciones": [
+      1938
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 44,
+    "nombre": "Inglaterra",
+    "participaciones": [
+      1950,
+      1954,
+      1958,
+      1962,
+      1966,
+      1970,
+      1982,
+      1986,
+      1990,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      1966
+    ],
+    "total_participaciones": 16,
+    "fue_campeon": true,
+    "anios_campeon": [
+      1966
+    ]
+  },
+  {
+    "id_seleccion": 45,
+    "nombre": "Iraq",
+    "participaciones": [
+      1986
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 46,
+    "nombre": "Irlanda",
+    "participaciones": [
+      1990,
+      1994,
+      2002
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 47,
+    "nombre": "Irlanda del Norte",
+    "participaciones": [
+      1958,
+      1982,
+      1986
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 48,
+    "nombre": "Irán",
+    "participaciones": [
+      1978,
+      1998,
+      2006,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 49,
+    "nombre": "Islandia",
+    "participaciones": [
+      2018
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 50,
+    "nombre": "Israel",
+    "participaciones": [
+      1970
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 51,
+    "nombre": "Italia",
+    "participaciones": [
+      1934,
+      1938,
+      1950,
+      1954,
+      1962,
+      1966,
+      1970,
+      1974,
+      1978,
+      1982,
+      1986,
+      1990,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014
+    ],
+    "sedes": [
+      1934,
+      1990
+    ],
+    "total_participaciones": 18,
+    "fue_campeon": true,
+    "anios_campeon": [
+      1934,
+      1938,
+      1982,
+      2006
+    ]
+  },
+  {
+    "id_seleccion": 52,
+    "nombre": "Jamaica",
+    "participaciones": [
+      1998
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 53,
+    "nombre": "Japón",
+    "participaciones": [
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 7,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 54,
+    "nombre": "Kuwait",
+    "participaciones": [
+      1982
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 55,
+    "nombre": "Marruecos",
+    "participaciones": [
+      1970,
+      1986,
+      1994,
+      1998,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 56,
+    "nombre": "México",
+    "participaciones": [
+      1930,
+      1950,
+      1954,
+      1958,
+      1962,
+      1966,
+      1970,
+      1978,
+      1986,
+      1994,
+      1998,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      1970,
+      1986
+    ],
+    "total_participaciones": 17,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 57,
+    "nombre": "Nigeria",
+    "participaciones": [
+      1994,
+      1998,
+      2002,
+      2010,
+      2014,
+      2018
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 58,
+    "nombre": "Noruega",
+    "participaciones": [
+      1938,
+      1994,
+      1998
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 59,
+    "nombre": "Nueva Zelanda",
+    "participaciones": [
+      1982,
+      2010
+    ],
+    "sedes": [],
+    "total_participaciones": 2,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 60,
+    "nombre": "Paises Bajos",
+    "participaciones": [
+      1934,
+      1938,
+      1974,
+      1978,
+      1990,
+      1994,
+      1998,
+      2006,
+      2010,
+      2014,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 11,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 61,
+    "nombre": "Panamá",
+    "participaciones": [
+      2018
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 62,
+    "nombre": "Paraguay",
+    "participaciones": [
+      1930,
+      1950,
+      1958,
+      1986,
+      1998,
+      2002,
+      2006,
+      2010
+    ],
+    "sedes": [],
+    "total_participaciones": 8,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 63,
+    "nombre": "Perú",
+    "participaciones": [
+      1930,
+      1970,
+      1978,
+      1982,
+      2018
+    ],
+    "sedes": [],
+    "total_participaciones": 5,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 64,
+    "nombre": "Polonia",
+    "participaciones": [
+      1938,
+      1974,
+      1978,
+      1982,
+      1986,
+      2002,
+      2006,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 9,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 65,
+    "nombre": "Portugal",
+    "participaciones": [
+      1966,
+      1986,
+      2002,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 8,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 66,
+    "nombre": "RD Congo",
+    "participaciones": [
+      1974
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 67,
+    "nombre": "República Checa",
+    "participaciones": [
+      2006
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 68,
+    "nombre": "Rumania",
+    "participaciones": [
+      1930,
+      1934,
+      1938,
+      1970,
+      1990,
+      1994,
+      1998
+    ],
+    "sedes": [],
+    "total_participaciones": 7,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 69,
+    "nombre": "Rusia",
+    "participaciones": [
+      1994,
+      2002,
+      2014,
+      2018
+    ],
+    "sedes": [
+      2018
+    ],
+    "total_participaciones": 4,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 70,
+    "nombre": "Senegal",
+    "participaciones": [
+      2002,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 71,
+    "nombre": "Serbia",
+    "participaciones": [
+      2006,
+      2010,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 4,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 72,
+    "nombre": "Sudáfrica",
+    "participaciones": [
+      1998,
+      2002,
+      2010
+    ],
+    "sedes": [
+      2010
+    ],
+    "total_participaciones": 3,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 73,
+    "nombre": "Suecia",
+    "participaciones": [
+      1934,
+      1938,
+      1950,
+      1958,
+      1970,
+      1974,
+      1978,
+      1990,
+      1994,
+      2002,
+      2006,
+      2018
+    ],
+    "sedes": [
+      1958
+    ],
+    "total_participaciones": 12,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 74,
+    "nombre": "Suiza",
+    "participaciones": [
+      1934,
+      1938,
+      1950,
+      1954,
+      1962,
+      1966,
+      1994,
+      2006,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      1954
+    ],
+    "total_participaciones": 12,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 75,
+    "nombre": "Togo",
+    "participaciones": [
+      2006
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 76,
+    "nombre": "Trinidad y Tobago",
+    "participaciones": [
+      2006
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 77,
+    "nombre": "Turquía",
+    "participaciones": [
+      1954,
+      2002
+    ],
+    "sedes": [],
+    "total_participaciones": 2,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 78,
+    "nombre": "Túnez",
+    "participaciones": [
+      1978,
+      1998,
+      2002,
+      2006,
+      2018,
+      2022
+    ],
+    "sedes": [],
+    "total_participaciones": 6,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 79,
+    "nombre": "Ucrania",
+    "participaciones": [
+      2006
+    ],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 80,
+    "nombre": "Uruguay",
+    "participaciones": [
+      1930,
+      1950,
+      1954,
+      1962,
+      1966,
+      1970,
+      1974,
+      1986,
+      1990,
+      2002,
+      2010,
+      2014,
+      2018,
+      2022
+    ],
+    "sedes": [
+      1930
+    ],
+    "total_participaciones": 14,
+    "fue_campeon": true,
+    "anios_campeon": [
+      1930,
+      1950
+    ]
+  },
+  {
+    "id_seleccion": 81,
+    "nombre": "Cabo Verde",
+    "participaciones": [],
+    "sedes": [],
+    "total_participaciones": 0,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 82,
+    "nombre": "Curazao",
+    "participaciones": [],
+    "sedes": [],
+    "total_participaciones": 0,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 83,
+    "nombre": "Jordania",
+    "participaciones": [],
+    "sedes": [],
+    "total_participaciones": 0,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 84,
+    "nombre": "Uzbekistán",
+    "participaciones": [],
+    "sedes": [],
+    "total_participaciones": 0,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 85,
+    "nombre": "Yugoslavia",
+    "participaciones": [
+      1930,
+      1950,
+      1954,
+      1958,
+      1962,
+      1974,
+      1982,
+      1990,
+      1998
+    ],
+    "sedes": [],
+    "total_participaciones": 9,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 86,
+    "nombre": "Checoslovaquia",
+    "participaciones": [
+      1934,
+      1938,
+      1954,
+      1958,
+      1962,
+      1970,
+      1982,
+      1990
+    ],
+    "sedes": [],
+    "total_participaciones": 8,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 87,
+    "nombre": "Alemania Occidental",
+    "participaciones": [
+      1954,
+      1958,
+      1962,
+      1966,
+      1970,
+      1974,
+      1978,
+      1982,
+      1986,
+      1990
+    ],
+    "sedes": [
+      1974
+    ],
+    "total_participaciones": 10,
+    "fue_campeon": true,
+    "anios_campeon": [
+      1954,
+      1974,
+      1990
+    ]
+  },
+  {
+    "id_seleccion": 88,
+    "nombre": "URSS",
+    "participaciones": [
+      1958,
+      1962,
+      1966,
+      1970,
+      1982,
+      1986,
+      1990
+    ],
+    "sedes": [],
+    "total_participaciones": 7,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 89,
+    "nombre": "Zaire",
+    "participaciones": [1974],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 90,
+    "nombre": "RF de Yugoslavia",
+    "participaciones": [1998],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  },
+  {
+    "id_seleccion": 91,
+    "nombre": "Serbia y Montenegro",
+    "participaciones": [2006],
+    "sedes": [],
+    "total_participaciones": 1,
+    "fue_campeon": false,
+    "anios_campeon": []
+  }
+]

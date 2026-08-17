@@ -1,0 +1,103 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1978,1978_g1_1,Argentina,Leopoldo Luque,15,NO,NO
+1978,1978_g1_1,Argentina,Daniel Bertoni,83,NO,NO
+1978,1978_g1_1,Hungría,Karoly Csapo,10,NO,NO
+1978,1978_g1_2,Italia,Paolo Rossi,29,NO,NO
+1978,1978_g1_2,Italia,Renato Zaccarelli,54,NO,NO
+1978,1978_g1_2,Francia,Bernard Lacombe,1,NO,NO
+1978,1978_g1_3,Argentina,Daniel Passarella,45,SI,NO
+1978,1978_g1_3,Argentina,Leopoldo Luque,73,NO,NO
+1978,1978_g1_3,Francia,Michel Platini,60,NO,NO
+1978,1978_g1_4,Italia,Paolo Rossi,34,NO,NO
+1978,1978_g1_4,Italia,Roberto Bettega,36,NO,NO
+1978,1978_g1_4,Italia,Romeo Benetti,60,NO,NO
+1978,1978_g1_4,Hungría,Andras Toth,81,SI,NO
+1978,1978_g1_5,Francia,Christian Lopez,22,NO,NO
+1978,1978_g1_5,Francia,Marc Berdoll,37,NO,NO
+1978,1978_g1_5,Francia,Dominique Rocheteau,42,NO,NO
+1978,1978_g1_5,Hungría,Sandor Zombori,41,NO,NO
+1978,1978_g1_6,Italia,Roberto Bettega,67,NO,NO
+1978,1978_g2_2,Túnez,Ali Kaabi,55,NO,NO
+1978,1978_g2_2,Túnez,Nejib Ghommidh,79,NO,NO
+1978,1978_g2_2,Túnez,Mokhtar Douieb,87,NO,NO
+1978,1978_g2_2,México,Arturo Vasquez,45,SI,NO
+1978,1978_g2_3,Alemania Occidental,Dieter Mueller,15,NO,NO
+1978,1978_g2_3,Alemania Occidental,Hansi Mueller,30,NO,NO
+1978,1978_g2_3,Alemania Occidental,Karl-Heinz Rummenigge,38,NO,NO
+1978,1978_g2_3,Alemania Occidental,Heinz Flohe,44,NO,NO
+1978,1978_g2_3,Alemania Occidental,Karl-Heinz Rummenigge,73,NO,NO
+1978,1978_g2_3,Alemania Occidental,Heinz Flohe,89,NO,NO
+1978,1978_g2_4,Polonia,Grzegorz Lato,43,NO,NO
+1978,1978_g2_6,Polonia,Zbigniew Boniek,43,NO,NO
+1978,1978_g2_6,Polonia,Kazimierz Deyna,56,NO,NO
+1978,1978_g2_6,Polonia,Zbigniew Boniek,84,NO,NO
+1978,1978_g2_6,México,Victor Rangel,52,NO,NO
+1978,1978_g3_1,Austria,Walter Schachner,9,NO,NO
+1978,1978_g3_1,Austria,Hans Krankl,76,NO,NO
+1978,1978_g3_1,España,Dani,21,NO,NO
+1978,1978_g3_2,Suecia,Thomas Sjoberg,37,NO,NO
+1978,1978_g3_2,Brasil,Reinaldo,45,NO,NO
+1978,1978_g3_3,Austria,Hans Krankl,42,SI,NO
+1978,1978_g3_5,Brasil,Roberto Dinamite,40,NO,NO
+1978,1978_g3_6,España,Juan Manuel Asensi,75,NO,NO
+1978,1978_g4_1,Paises Bajos,Rob Rensenbrink,40,SI,NO
+1978,1978_g4_1,Paises Bajos,Rob Rensenbrink,62,NO,NO
+1978,1978_g4_1,Paises Bajos,Rob Rensenbrink,79,SI,NO
+1978,1978_g4_2,Perú,Cesar Cueto,43,NO,NO
+1978,1978_g4_2,Perú,Teofilo Cubillas,71,NO,NO
+1978,1978_g4_2,Perú,Teofilo Cubillas,77,NO,NO
+1978,1978_g4_2,Escocia,Joe Jordan,14,NO,NO
+1978,1978_g4_3,Escocia,Andranik Eskandarian,43,NO,SI
+1978,1978_g4_3,Irán,Iraj Danayfar,60,NO,NO
+1978,1978_g4_5,Escocia,Kenny Dalglish,44,NO,NO
+1978,1978_g4_5,Escocia,Archie Gemmill,47,SI,NO
+1978,1978_g4_5,Escocia,Archie Gemmill,68,NO,NO
+1978,1978_g4_5,Paises Bajos,Rob Rensenbrink,34,SI,NO
+1978,1978_g4_5,Paises Bajos,Johnny Rep,71,NO,NO
+1978,1978_g4_6,Perú,Jose Velasquez,2,NO,NO
+1978,1978_g4_6,Perú,Teofilo Cubillas,36,SI,NO
+1978,1978_g4_6,Perú,Teofilo Cubillas,39,SI,NO
+1978,1978_g4_6,Perú,Teofilo Cubillas,79,NO,NO
+1978,1978_g4_6,Irán,Hassan Rowshan,41,NO,NO
+1978,1978_gA_2,Paises Bajos,Ernie Brandts,6,NO,NO
+1978,1978_gA_2,Paises Bajos,Rob Rensenbrink,35,SI,NO
+1978,1978_gA_2,Paises Bajos,Johnny Rep,36,NO,NO
+1978,1978_gA_2,Paises Bajos,Johnny Rep,53,NO,NO
+1978,1978_gA_2,Paises Bajos,Willy Van De Kerkhof,82,NO,NO
+1978,1978_gA_2,Austria,Erich Obermayer,79,NO,NO
+1978,1978_gA_3,Alemania Occidental,Ruediger Abramczik,3,NO,NO
+1978,1978_gA_3,Alemania Occidental,Dieter Mueller,70,NO,NO
+1978,1978_gA_3,Paises Bajos,Arie Haan,27,NO,NO
+1978,1978_gA_3,Paises Bajos,Rene Van De Kerkhof,84,NO,NO
+1978,1978_gA_4,Italia,Paolo Rossi,14,NO,NO
+1978,1978_gA_5,Austria,Berti Vogts,59,NO,SI
+1978,1978_gA_5,Austria,Hans Krankl,66,NO,NO
+1978,1978_gA_5,Austria,Hans Krankl,87,NO,NO
+1978,1978_gA_5,Alemania Occidental,Karl-Heinz Rummenigge,19,NO,NO
+1978,1978_gA_5,Alemania Occidental,Bernd Hoelzenbein,68,NO,NO
+1978,1978_gA_6,Paises Bajos,Ernie Brandts,50,NO,NO
+1978,1978_gA_6,Paises Bajos,Arie Haan,75,NO,NO
+1978,1978_gA_6,Italia,Ernie Brandts,18,NO,SI
+1978,1978_gB_1,Argentina,Mario Kempes,16,NO,NO
+1978,1978_gB_1,Argentina,Mario Kempes,71,NO,NO
+1978,1978_gB_2,Brasil,Dirceu,15,NO,NO
+1978,1978_gB_2,Brasil,Dirceu,28,NO,NO
+1978,1978_gB_2,Brasil,Zico,73,SI,NO
+1978,1978_gB_4,Polonia,Andrzej Szarmach,65,NO,NO
+1978,1978_gB_5,Argentina,Mario Kempes,21,NO,NO
+1978,1978_gB_5,Argentina,Alberto Tarantini,43,NO,NO
+1978,1978_gB_5,Argentina,Mario Kempes,48,NO,NO
+1978,1978_gB_5,Argentina,Leopoldo Luque,50,NO,NO
+1978,1978_gB_5,Argentina,Rene Houseman,67,NO,NO
+1978,1978_gB_5,Argentina,Leopoldo Luque,72,NO,NO
+1978,1978_gB_6,Brasil,Nelinho,12,NO,NO
+1978,1978_gB_6,Brasil,Roberto Dinamite,57,NO,NO
+1978,1978_gB_6,Brasil,Roberto Dinamite,63,NO,NO
+1978,1978_gB_6,Polonia,Grzegorz Lato,45,NO,NO
+1978,1978_r_,Brasil,Nelinho,64,NO,NO
+1978,1978_r_,Brasil,Dirceu,72,NO,NO
+1978,1978_r_,Italia,Franco Causio,38,NO,NO
+1978,1978_r_,Argentina,Mario Kempes,38,NO,NO
+1978,1978_r_,Argentina,Mario Kempes,105,NO,NO
+1978,1978_r_,Argentina,Daniel Bertoni,116,NO,NO
+1978,1978_r_,Paises Bajos,Dick Nanninga,82,NO,NO

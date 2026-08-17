@@ -1,0 +1,89 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1950,1950_g1_1,Brasil,Ademir,30,NO,NO
+1950,1950_g1_1,Brasil,Jair,65,NO,NO
+1950,1950_g1_1,Brasil,Baltazar,71,NO,NO
+1950,1950_g1_1,Brasil,Ademir,79,NO,NO
+1950,1950_g1_2,Yugoslavia,Rajko Mitic,59,NO,NO
+1950,1950_g1_2,Yugoslavia,Kosta Tomasevic,70,NO,NO
+1950,1950_g1_2,Yugoslavia,Tihomir Ognjanov,84,NO,NO
+1950,1950_g1_3,Brasil,Alfredo Ii,3,NO,NO
+1950,1950_g1_3,Brasil,Baltazar,32,NO,NO
+1950,1950_g1_3,Suiza,Jackie Fatton,17,NO,NO
+1950,1950_g1_3,Suiza,Jackie Fatton,88,NO,NO
+1950,1950_g1_4,Yugoslavia,Stjepan Bobek,20,NO,NO
+1950,1950_g1_4,Yugoslavia,Zeljko Cajkovski,23,NO,NO
+1950,1950_g1_4,Yugoslavia,Zeljko Cajkovski,51,NO,NO
+1950,1950_g1_4,Yugoslavia,Kosta Tomasevic,81,NO,NO
+1950,1950_g1_4,México,Hector Ortiz,89,SI,NO
+1950,1950_g1_5,Brasil,Ademir,4,NO,NO
+1950,1950_g1_5,Brasil,Zizinho,69,NO,NO
+1950,1950_g1_6,Suiza,Rene Bader,10,NO,NO
+1950,1950_g1_6,Suiza,Kiki Antenen,44,NO,NO
+1950,1950_g1_6,México,Horacio Casarin,89,NO,NO
+1950,1950_g2_1,España,Silvestre Igoa,81,NO,NO
+1950,1950_g2_1,España,Estanislao Basora,83,NO,NO
+1950,1950_g2_1,España,Zarra,89,NO,NO
+1950,1950_g2_1,Estados Unidos,Gino Pariani,17,NO,NO
+1950,1950_g2_2,Inglaterra,Stan Mortensen,39,NO,NO
+1950,1950_g2_2,Inglaterra,Wilf Mannion,51,NO,NO
+1950,1950_g2_3,España,Estanislao Basora,17,NO,NO
+1950,1950_g2_3,España,Zarra,30,NO,NO
+1950,1950_g2_4,Estados Unidos,Joe Gaetjens,38,NO,NO
+1950,1950_g2_5,Chile,Jorge Robledo,16,NO,NO
+1950,1950_g2_5,Chile,Atilio Cremaschi,32,NO,NO
+1950,1950_g2_5,Chile,Andres Prieto,54,NO,NO
+1950,1950_g2_5,Chile,Atilio Cremaschi,60,NO,NO
+1950,1950_g2_5,Chile,Fernando Riera,82,NO,NO
+1950,1950_g2_5,Estados Unidos,Frank Wallace,47,NO,NO
+1950,1950_g2_5,Estados Unidos,Joe Maca,48,SI,NO
+1950,1950_g2_6,España,Zarra,48,NO,NO
+1950,1950_g3_1,Suecia,Hans Jeppsson,25,NO,NO
+1950,1950_g3_1,Suecia,Sune Andersson,34,NO,NO
+1950,1950_g3_1,Suecia,Hans Jeppsson,69,NO,NO
+1950,1950_g3_1,Italia,Riccardo Carapellese,7,NO,NO
+1950,1950_g3_1,Italia,Ermes Muccinelli,79,NO,NO
+1950,1950_g3_2,Suecia,Stig Sundqvist,17,NO,NO
+1950,1950_g3_2,Suecia,Karl-Erik Palmer,26,NO,NO
+1950,1950_g3_2,Paraguay,Cesar Lopez Fretes,35,NO,NO
+1950,1950_g3_2,Paraguay,Atilio Lopez,74,NO,NO
+1950,1950_g3_3,Italia,Riccardo Carapellese,12,NO,NO
+1950,1950_g3_3,Italia,Egisto Pandolfini,63,NO,NO
+1950,1950_g4_1,Uruguay,Oscar Miguez,14,NO,NO
+1950,1950_g4_1,Uruguay,Ernesto Vidal,18,NO,NO
+1950,1950_g4_1,Uruguay,Juan Schiaffino,23,NO,NO
+1950,1950_g4_1,Uruguay,Oscar Miguez,40,NO,NO
+1950,1950_g4_1,Uruguay,Oscar Miguez,51,NO,NO
+1950,1950_g4_1,Uruguay,Juan Schiaffino,54,NO,NO
+1950,1950_g4_1,Uruguay,Julio Perez,83,NO,NO
+1950,1950_g4_1,Uruguay,Alcides Ghiggia,87,NO,NO
+1950,1950_gF_1,Brasil,Ademir,17,NO,NO
+1950,1950_gF_1,Brasil,Ademir,36,NO,NO
+1950,1950_gF_1,Brasil,Chico,39,NO,NO
+1950,1950_gF_1,Brasil,Ademir,52,NO,NO
+1950,1950_gF_1,Brasil,Ademir,58,NO,NO
+1950,1950_gF_1,Brasil,Maneca,85,NO,NO
+1950,1950_gF_1,Brasil,Chico,88,NO,NO
+1950,1950_gF_1,Suecia,Sune Andersson,67,SI,NO
+1950,1950_gF_2,Uruguay,Alcides Ghiggia,29,NO,NO
+1950,1950_gF_2,Uruguay,Obdulio Varela,73,NO,NO
+1950,1950_gF_2,España,Estanislao Basora,37,NO,NO
+1950,1950_gF_2,España,Estanislao Basora,39,NO,NO
+1950,1950_gF_3,Brasil,Ademir,15,NO,NO
+1950,1950_gF_3,Brasil,Jair,21,NO,NO
+1950,1950_gF_3,Brasil,Chico,31,NO,NO
+1950,1950_gF_3,Brasil,Chico,55,NO,NO
+1950,1950_gF_3,Brasil,Ademir,57,NO,NO
+1950,1950_gF_3,Brasil,Zizinho,67,NO,NO
+1950,1950_gF_3,España,Silvestre Igoa,71,NO,NO
+1950,1950_gF_4,Uruguay,Alcides Ghiggia,39,NO,NO
+1950,1950_gF_4,Uruguay,Oscar Miguez,77,NO,NO
+1950,1950_gF_4,Uruguay,Oscar Miguez,85,NO,NO
+1950,1950_gF_4,Suecia,Karl-Erik Palmer,5,NO,NO
+1950,1950_gF_4,Suecia,Stig Sundqvist,40,NO,NO
+1950,1950_gF_5,Suecia,Stig Sundqvist,15,NO,NO
+1950,1950_gF_5,Suecia,Bror Mellberg,33,NO,NO
+1950,1950_gF_5,Suecia,Karl-Erik Palmer,80,NO,NO
+1950,1950_gF_5,España,Zarra,82,NO,NO
+1950,1950_gF_6,Uruguay,Juan Schiaffino,66,NO,NO
+1950,1950_gF_6,Uruguay,Alcides Ghiggia,79,NO,NO
+1950,1950_gF_6,Brasil,Friaca,47,NO,NO

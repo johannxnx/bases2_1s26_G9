@@ -1,0 +1,18 @@
+anio,id_grupo,seleccion,pts,pj,pg,pe,pp,gf,gc,diferencia,clasificado
+1950,1,Brasil,5,3,2,1,0,8,2,6,Si
+1950,1,Yugoslavia,4,3,2,0,1,7,3,4,No
+1950,1,Suiza,3,3,1,1,1,4,6,-2,No
+1950,1,México,0,3,0,0,3,2,10,-8,No
+1950,2,España,6,3,3,0,0,6,1,5,Si
+1950,2,Inglaterra,2,3,1,0,2,2,2,0,No
+1950,2,Chile,2,3,1,0,2,5,6,-1,No
+1950,2,Estados Unidos,2,3,1,0,2,4,8,-4,No
+1950,3,Suecia,3,2,1,1,0,5,4,1,Si
+1950,3,Italia,2,2,1,0,1,4,3,1,No
+1950,3,Paraguay,1,2,0,1,1,2,4,-2,No
+1950,4,Uruguay,2,1,1,0,0,8,0,8,Si
+1950,4,Bolivia,0,1,0,0,1,0,8,-8,No
+1950,F,Uruguay,5,3,2,1,0,7,5,2,Si
+1950,F,Brasil,4,3,2,0,1,14,4,10,No
+1950,F,Suecia,2,3,1,0,2,6,11,-5,No
+1950,F,España,1,3,0,1,2,4,11,-7,No

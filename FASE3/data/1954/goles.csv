@@ -1,0 +1,141 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1954,1954_g1_1,Brasil,Baltazar,23,NO,NO
+1954,1954_g1_1,Brasil,Didi,30,NO,NO
+1954,1954_g1_1,Brasil,Pinga,34,NO,NO
+1954,1954_g1_1,Brasil,Pinga,43,NO,NO
+1954,1954_g1_1,Brasil,Julinho,69,NO,NO
+1954,1954_g1_2,Yugoslavia,Milos Milutinovic,15,NO,NO
+1954,1954_g1_3,Brasil,Didi,69,NO,NO
+1954,1954_g1_3,Yugoslavia,Branko Zebec,48,NO,NO
+1954,1954_g1_4,Francia,Jean Vincent,19,NO,NO
+1954,1954_g1_4,Francia,Raul Cardenas,46,NO,SI
+1954,1954_g1_4,Francia,Raymond Kopa,88,SI,NO
+1954,1954_g1_4,México,Jose Lamadrid,54,NO,NO
+1954,1954_g1_4,México,Tomas Balcazar,85,NO,NO
+1954,1954_g2_1,Alemania Occidental,Hans Schaefer,14,NO,NO
+1954,1954_g2_1,Alemania Occidental,Berni Klodt,52,NO,NO
+1954,1954_g2_1,Alemania Occidental,Ottmar Walter,60,NO,NO
+1954,1954_g2_1,Alemania Occidental,Max Morlock,84,NO,NO
+1954,1954_g2_1,Turquía,Mamat Suat,2,NO,NO
+1954,1954_g2_2,Hungría,Ferenc Puskas,12,NO,NO
+1954,1954_g2_2,Hungría,Mihaly Lantos,18,NO,NO
+1954,1954_g2_2,Hungría,Sandor Kocsis,24,NO,NO
+1954,1954_g2_2,Hungría,Sandor Kocsis,36,NO,NO
+1954,1954_g2_2,Hungría,Sandor Kocsis,50,NO,NO
+1954,1954_g2_2,Hungría,Zoltan Czibor,59,NO,NO
+1954,1954_g2_2,Hungría,Peter Palotas,75,NO,NO
+1954,1954_g2_2,Hungría,Peter Palotas,83,NO,NO
+1954,1954_g2_2,Hungría,Ferenc Puskas,89,NO,NO
+1954,1954_g2_3,Hungría,Sandor Kocsis,3,NO,NO
+1954,1954_g2_3,Hungría,Ferenc Puskas,17,NO,NO
+1954,1954_g2_3,Hungría,Sandor Kocsis,21,NO,NO
+1954,1954_g2_3,Hungría,Nandor Hidegkuti,52,NO,NO
+1954,1954_g2_3,Hungría,Nandor Hidegkuti,54,NO,NO
+1954,1954_g2_3,Hungría,Sandor Kocsis,69,NO,NO
+1954,1954_g2_3,Hungría,Jozsef Toth,75,NO,NO
+1954,1954_g2_3,Hungría,Sandor Kocsis,78,NO,NO
+1954,1954_g2_3,Alemania Occidental,Alfred Pfaff,25,NO,NO
+1954,1954_g2_3,Alemania Occidental,Helmut Rahn,77,NO,NO
+1954,1954_g2_3,Alemania Occidental,Richard Herrmann,84,NO,NO
+1954,1954_g2_4,Turquía,Mamat Suat,10,NO,NO
+1954,1954_g2_4,Turquía,Lefter Kucukandonyadis,18,NO,NO
+1954,1954_g2_4,Turquía,Mamat Suat,30,NO,NO
+1954,1954_g2_4,Turquía,Sargun Burhan,37,NO,NO
+1954,1954_g2_4,Turquía,Sargun Burhan,64,NO,NO
+1954,1954_g2_4,Turquía,Sargun Burhan,70,NO,NO
+1954,1954_g2_4,Turquía,Erol Keskin,76,NO,NO
+1954,1954_g2_5,Alemania Occidental,Ottmar Walter,7,NO,NO
+1954,1954_g2_5,Alemania Occidental,Hans Schaefer,12,NO,NO
+1954,1954_g2_5,Alemania Occidental,Max Morlock,30,NO,NO
+1954,1954_g2_5,Alemania Occidental,Max Morlock,60,NO,NO
+1954,1954_g2_5,Alemania Occidental,Fritz Walter,62,NO,NO
+1954,1954_g2_5,Alemania Occidental,Max Morlock,77,NO,NO
+1954,1954_g2_5,Alemania Occidental,Hans Schaefer,79,NO,NO
+1954,1954_g2_5,Turquía,Mustafa Erton,21,NO,NO
+1954,1954_g2_5,Turquía,Lefter Kucukandonyadis,82,NO,NO
+1954,1954_g3_1,Austria,Erich Probst,33,NO,NO
+1954,1954_g3_2,Uruguay,Oscar Miguez,71,NO,NO
+1954,1954_g3_2,Uruguay,Juan Schiaffino,84,NO,NO
+1954,1954_g3_3,Austria,Ernst Stojaspal,3,NO,NO
+1954,1954_g3_3,Austria,Erich Probst,4,NO,NO
+1954,1954_g3_3,Austria,Erich Probst,21,NO,NO
+1954,1954_g3_3,Austria,Erich Probst,24,NO,NO
+1954,1954_g3_3,Austria,Ernst Stojaspal,65,NO,NO
+1954,1954_g3_4,Uruguay,Carlos Borges,17,NO,NO
+1954,1954_g3_4,Uruguay,Oscar Miguez,30,NO,NO
+1954,1954_g3_4,Uruguay,Carlos Borges,47,NO,NO
+1954,1954_g3_4,Uruguay,Julio Abbadie,54,NO,NO
+1954,1954_g3_4,Uruguay,Carlos Borges,57,NO,NO
+1954,1954_g3_4,Uruguay,Oscar Miguez,83,NO,NO
+1954,1954_g3_4,Uruguay,Julio Abbadie,85,NO,NO
+1954,1954_g4_1,Inglaterra,Ivor Broadis,26,NO,NO
+1954,1954_g4_1,Inglaterra,Nat Lofthouse,36,NO,NO
+1954,1954_g4_1,Inglaterra,Ivor Broadis,63,NO,NO
+1954,1954_g4_1,Inglaterra,Nat Lofthouse,91,NO,NO
+1954,1954_g4_1,Bélgica,Leopold Anoul,5,NO,NO
+1954,1954_g4_1,Bélgica,Rik Coppens,67,NO,NO
+1954,1954_g4_1,Bélgica,Leopold Anoul,71,NO,NO
+1954,1954_g4_1,Bélgica,Jimmy Dickinson,94,NO,SI
+1954,1954_g4_2,Suiza,Robert Ballaman,18,NO,NO
+1954,1954_g4_2,Suiza,Sepp Huegi,78,NO,NO
+1954,1954_g4_2,Italia,Giampiero Boniperti,44,NO,NO
+1954,1954_g4_3,Inglaterra,Jimmy Mullen,43,NO,NO
+1954,1954_g4_3,Inglaterra,Dennis Wilshaw,69,NO,NO
+1954,1954_g4_4,Italia,Egisto Pandolfini,41,SI,NO
+1954,1954_g4_4,Italia,Carlo Galli,48,NO,NO
+1954,1954_g4_4,Italia,Amleto Frignani,58,NO,NO
+1954,1954_g4_4,Italia,Benito Lorenzi,78,NO,NO
+1954,1954_g4_4,Bélgica,Leopold Anoul,81,NO,NO
+1954,1954_g4_5,Suiza,Sepp Huegi,14,NO,NO
+1954,1954_g4_5,Suiza,Robert Ballaman,48,NO,NO
+1954,1954_g4_5,Suiza,Sepp Huegi,85,NO,NO
+1954,1954_g4_5,Suiza,Jackie Fatton,90,NO,NO
+1954,1954_g4_5,Italia,Fulvio Nesti,67,NO,NO
+1954,1954_r_,Austria,Theodor Wagner,25,NO,NO
+1954,1954_r_,Austria,Robert Koerner,26,NO,NO
+1954,1954_r_,Austria,Theodor Wagner,27,NO,NO
+1954,1954_r_,Austria,Ernst Ocwirk,32,NO,NO
+1954,1954_r_,Austria,Robert Koerner,34,NO,NO
+1954,1954_r_,Austria,Theodor Wagner,53,NO,NO
+1954,1954_r_,Austria,Erich Probst,76,NO,NO
+1954,1954_r_,Suiza,Robert Ballaman,16,NO,NO
+1954,1954_r_,Suiza,Sepp Huegi,17,NO,NO
+1954,1954_r_,Suiza,Sepp Huegi,19,NO,NO
+1954,1954_r_,Suiza,Robert Ballaman,39,NO,NO
+1954,1954_r_,Suiza,Sepp Huegi,58,NO,NO
+1954,1954_r_,Uruguay,Carlos Borges,5,NO,NO
+1954,1954_r_,Uruguay,Obdulio Varela,39,NO,NO
+1954,1954_r_,Uruguay,Juan Schiaffino,46,NO,NO
+1954,1954_r_,Uruguay,Javier Ambrois,78,NO,NO
+1954,1954_r_,Inglaterra,Nat Lofthouse,16,NO,NO
+1954,1954_r_,Inglaterra,Tom Finney,67,NO,NO
+1954,1954_r_,Alemania Occidental,Ivan Horvat,9,NO,SI
+1954,1954_r_,Alemania Occidental,Helmut Rahn,85,NO,NO
+1954,1954_r_,Hungría,Nandor Hidegkuti,4,NO,NO
+1954,1954_r_,Hungría,Sandor Kocsis,7,NO,NO
+1954,1954_r_,Hungría,Mihaly Lantos,60,SI,NO
+1954,1954_r_,Hungría,Sandor Kocsis,88,NO,NO
+1954,1954_r_,Brasil,Djalma Santos,18,SI,NO
+1954,1954_r_,Brasil,Julinho,65,NO,NO
+1954,1954_r_,Alemania Occidental,Hans Schaefer,31,NO,NO
+1954,1954_r_,Alemania Occidental,Max Morlock,47,NO,NO
+1954,1954_r_,Alemania Occidental,Fritz Walter,54,SI,NO
+1954,1954_r_,Alemania Occidental,Ottmar Walter,61,NO,NO
+1954,1954_r_,Alemania Occidental,Fritz Walter,64,SI,NO
+1954,1954_r_,Alemania Occidental,Ottmar Walter,89,NO,NO
+1954,1954_r_,Austria,Erich Probst,51,NO,NO
+1954,1954_r_,Hungría,Zoltan Czibor,13,NO,NO
+1954,1954_r_,Hungría,Nandor Hidegkuti,46,NO,NO
+1954,1954_r_,Hungría,Sandor Kocsis,111,NO,NO
+1954,1954_r_,Hungría,Sandor Kocsis,116,NO,NO
+1954,1954_r_,Uruguay,Juan Hohberg,75,NO,NO
+1954,1954_r_,Uruguay,Juan Hohberg,86,NO,NO
+1954,1954_r_,Uruguay,Juan Hohberg,22,NO,NO
+1954,1954_r_,Austria,Ernst Stojaspal,16,SI,NO
+1954,1954_r_,Austria,Luis Cruz,59,NO,SI
+1954,1954_r_,Austria,Ernst Ocwirk,89,NO,NO
+1954,1954_r_,Hungría,Ferenc Puskas,6,NO,NO
+1954,1954_r_,Hungría,Zoltan Czibor,8,NO,NO
+1954,1954_r_,Alemania Occidental,Max Morlock,10,NO,NO
+1954,1954_r_,Alemania Occidental,Helmut Rahn,18,NO,NO
+1954,1954_r_,Alemania Occidental,Helmut Rahn,84,NO,NO

@@ -1,0 +1,7 @@
+/entorno
+.DS_Store
+scripts/html
+
+.vscode/
+
+html/

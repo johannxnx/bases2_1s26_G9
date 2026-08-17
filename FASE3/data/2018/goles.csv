@@ -1,0 +1,170 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+2018,2018_gA_1,Rusia,Yury Gazinsky,12,NO,NO
+2018,2018_gA_1,Rusia,Denis Cheryshev,43,NO,NO
+2018,2018_gA_1,Rusia,Artem Dzyuba,71,NO,NO
+2018,2018_gA_1,Rusia,Denis Cheryshev,90,NO,NO
+2018,2018_gA_1,Rusia,Aleksandr Golovin,90,NO,NO
+2018,2018_gA_2,Uruguay,José María Giménez,89,NO,NO
+2018,2018_gA_3,Rusia,Ahmed Fathy,47,NO,SI
+2018,2018_gA_3,Rusia,Denis Cheryshev,59,NO,NO
+2018,2018_gA_3,Rusia,Artem Dzyuba,62,NO,NO
+2018,2018_gA_3,Egipto,Mohamed Salah,73,SI,NO
+2018,2018_gA_4,Uruguay,Luis Suarez,23,NO,NO
+2018,2018_gA_5,Uruguay,Luis Suarez,10,NO,NO
+2018,2018_gA_5,Uruguay,Denis Cheryshev,23,NO,SI
+2018,2018_gA_5,Uruguay,Edinson Cavani,90,NO,NO
+2018,2018_gA_6,Arabia Saudita,Salman Al-Faraj,45,SI,NO
+2018,2018_gA_6,Arabia Saudita,Salem Al-Dawsari,90,NO,NO
+2018,2018_gA_6,Egipto,Mohamed Salah,22,NO,NO
+2018,2018_gB_1,Portugal,Cristiano Ronaldo,4,SI,NO
+2018,2018_gB_1,Portugal,Cristiano Ronaldo,44,NO,NO
+2018,2018_gB_1,Portugal,Cristiano Ronaldo,88,NO,NO
+2018,2018_gB_1,España,Diego Costa,24,NO,NO
+2018,2018_gB_1,España,Diego Costa,55,NO,NO
+2018,2018_gB_1,España,Nacho,58,NO,NO
+2018,2018_gB_2,Irán,Aziz Bouhaddouz,90,NO,SI
+2018,2018_gB_3,Portugal,Cristiano Ronaldo,4,NO,NO
+2018,2018_gB_4,España,Diego Costa,54,NO,NO
+2018,2018_gB_5,Irán,Karim Ansarifard,90,SI,NO
+2018,2018_gB_5,Portugal,Ricardo Quaresma,45,NO,NO
+2018,2018_gB_6,España,Isco,19,NO,NO
+2018,2018_gB_6,España,Iago Aspas,90,NO,NO
+2018,2018_gB_6,Marruecos,Khalid Boutaïb,14,NO,NO
+2018,2018_gB_6,Marruecos,Youssef En-Nesyri,81,NO,NO
+2018,2018_gC_1,Francia,Antoine Griezmann,58,SI,NO
+2018,2018_gC_1,Francia,Aziz Behich,81,NO,SI
+2018,2018_gC_1,Australia,Mile Jedinak,62,SI,NO
+2018,2018_gC_2,Dinamarca,Yussuf Yurary Poulsen,59,NO,NO
+2018,2018_gC_3,Francia,Kylian Mbappé,34,NO,NO
+2018,2018_gC_4,Dinamarca,Christian Eriksen,7,NO,NO
+2018,2018_gC_4,Australia,Mile Jedinak,38,SI,NO
+2018,2018_gC_6,Perú,André Carrillo,18,NO,NO
+2018,2018_gC_6,Perú,Paolo Guerrero,50,NO,NO
+2018,2018_gD_1,Argentina,Sergio Agüero,19,NO,NO
+2018,2018_gD_1,Islandia,Alfred Finnbogason,23,NO,NO
+2018,2018_gD_2,Croacia,Oghenekaro Etebo,32,NO,SI
+2018,2018_gD_2,Croacia,Luka Modric,71,SI,NO
+2018,2018_gD_3,Croacia,Ante Rebic,53,NO,NO
+2018,2018_gD_3,Croacia,Luka Modric,80,NO,NO
+2018,2018_gD_3,Croacia,Ivan Rakitic,90,NO,NO
+2018,2018_gD_4,Nigeria,Ahmed Musa,49,NO,NO
+2018,2018_gD_4,Nigeria,Ahmed Musa,75,NO,NO
+2018,2018_gD_5,Nigeria,Victor Moses,51,SI,NO
+2018,2018_gD_5,Argentina,Lionel Messi,14,NO,NO
+2018,2018_gD_5,Argentina,Marcos Rojo,86,NO,NO
+2018,2018_gD_6,Islandia,Gylfi Sigurdsson,76,SI,NO
+2018,2018_gD_6,Croacia,Milan Badelj,53,NO,NO
+2018,2018_gD_6,Croacia,Ivan Perisic,90,NO,NO
+2018,2018_gE_1,Brasil,Philippe Coutinho,20,NO,NO
+2018,2018_gE_1,Suiza,Steven Zuber,50,NO,NO
+2018,2018_gE_2,Serbia,Aleksandar Kolarov,56,NO,NO
+2018,2018_gE_3,Brasil,Philippe Coutinho,90,NO,NO
+2018,2018_gE_3,Brasil,Neymar Jr.,90,NO,NO
+2018,2018_gE_4,Serbia,Aleksandar Mitrović,5,NO,NO
+2018,2018_gE_4,Suiza,Granit Xhaka,52,NO,NO
+2018,2018_gE_4,Suiza,Xherdan Shaqiri,90,NO,NO
+2018,2018_gE_5,Brasil,Paulinho,36,NO,NO
+2018,2018_gE_5,Brasil,Thiago Silva,68,NO,NO
+2018,2018_gE_6,Suiza,Blerim Dzemaili,31,NO,NO
+2018,2018_gE_6,Suiza,Josip Drmic,88,NO,NO
+2018,2018_gE_6,Costa Rica,Kendall Waston,56,NO,NO
+2018,2018_gE_6,Costa Rica,Yann Sommer,90,NO,SI
+2018,2018_gF_1,México,Hirving Lozano,35,NO,NO
+2018,2018_gF_2,Suecia,Andreas Granqvist,65,SI,NO
+2018,2018_gF_3,Alemania,Marco Reus,48,NO,NO
+2018,2018_gF_3,Alemania,Toni Kroos,90,NO,NO
+2018,2018_gF_3,Suecia,Ola Toivonen,32,NO,NO
+2018,2018_gF_4,Corea del Sur,Heung-Min Son,90,NO,NO
+2018,2018_gF_4,México,Carlos Vela,26,SI,NO
+2018,2018_gF_4,México,Javier Hernandez,66,NO,NO
+2018,2018_gF_5,Corea del Sur,Young-Gwon Kim,90,NO,NO
+2018,2018_gF_5,Corea del Sur,Heung-Min Son,90,NO,NO
+2018,2018_gF_6,Suecia,Ludwig Augustinsson,50,NO,NO
+2018,2018_gF_6,Suecia,Andreas Granqvist,62,SI,NO
+2018,2018_gF_6,Suecia,Edson Álvarez,74,NO,SI
+2018,2018_gG_1,Bélgica,Dries Mertens,47,NO,NO
+2018,2018_gG_1,Bélgica,Romelu Lukaku,69,NO,NO
+2018,2018_gG_1,Bélgica,Romelu Lukaku,75,NO,NO
+2018,2018_gG_2,Túnez,Ferjani Sassi,35,SI,NO
+2018,2018_gG_2,Inglaterra,Harry Kane,11,NO,NO
+2018,2018_gG_2,Inglaterra,Harry Kane,90,NO,NO
+2018,2018_gG_3,Bélgica,Eden Hazard,6,SI,NO
+2018,2018_gG_3,Bélgica,Romelu Lukaku,16,NO,NO
+2018,2018_gG_3,Bélgica,Romelu Lukaku,45,NO,NO
+2018,2018_gG_3,Bélgica,Eden Hazard,51,NO,NO
+2018,2018_gG_3,Bélgica,Michy Batshuayi,90,NO,NO
+2018,2018_gG_3,Túnez,Dylan Bronn,18,NO,NO
+2018,2018_gG_3,Túnez,Wahbi Khazri,90,NO,NO
+2018,2018_gG_4,Inglaterra,John Stones,8,NO,NO
+2018,2018_gG_4,Inglaterra,Harry Kane,22,SI,NO
+2018,2018_gG_4,Inglaterra,Jesse Lingard,36,NO,NO
+2018,2018_gG_4,Inglaterra,John Stones,40,NO,NO
+2018,2018_gG_4,Inglaterra,Harry Kane,45,SI,NO
+2018,2018_gG_4,Inglaterra,Harry Kane,62,NO,NO
+2018,2018_gG_4,Panamá,Felipe Baloy,78,NO,NO
+2018,2018_gG_5,Bélgica,Adnan Januzaj,51,NO,NO
+2018,2018_gG_6,Panamá,Yassine Meriah,33,NO,SI
+2018,2018_gG_6,Túnez,Fakhreddine Ben Youssef,51,NO,NO
+2018,2018_gG_6,Túnez,Wahbi Khazri,66,NO,NO
+2018,2018_gH_1,Polonia,Grzegorz Krychowiak,86,NO,NO
+2018,2018_gH_1,Senegal,Thiago Cionek,37,NO,SI
+2018,2018_gH_1,Senegal,M'Baye Niang,60,NO,NO
+2018,2018_gH_2,Colombia,Juan Quintero,39,NO,NO
+2018,2018_gH_2,Japón,Shinji Kagawa,6,SI,NO
+2018,2018_gH_2,Japón,Yuya Osako,73,NO,NO
+2018,2018_gH_3,Colombia,Yerry Mina,40,NO,NO
+2018,2018_gH_3,Colombia,Radamel Falcao,70,NO,NO
+2018,2018_gH_3,Colombia,Juan Guillermo Cuadrado,75,NO,NO
+2018,2018_gH_4,Japón,Takashi Inui,34,NO,NO
+2018,2018_gH_4,Japón,Keisuke Honda,78,NO,NO
+2018,2018_gH_4,Senegal,Sadio Mané,11,NO,NO
+2018,2018_gH_4,Senegal,Moussa Wagué,71,NO,NO
+2018,2018_gH_5,Polonia,Jan Bednarek,59,NO,NO
+2018,2018_gH_6,Colombia,Yerry Mina,74,NO,NO
+2018,2018_r_49,Uruguay,Edinson Cavani,7,NO,NO
+2018,2018_r_49,Uruguay,Edinson Cavani,62,NO,NO
+2018,2018_r_49,Portugal,Pepe,55,NO,NO
+2018,2018_r_50,Francia,Antoine Griezmann,13,SI,NO
+2018,2018_r_50,Francia,Benjamin Pavard,57,NO,NO
+2018,2018_r_50,Francia,Kylian Mbappé,64,NO,NO
+2018,2018_r_50,Francia,Kylian Mbappé,68,NO,NO
+2018,2018_r_50,Argentina,Angel Di Maria,41,NO,NO
+2018,2018_r_50,Argentina,Gabriel Mercado,48,NO,NO
+2018,2018_r_50,Argentina,Sergio Agüero,90,NO,NO
+2018,2018_r_51,España,Sergei Ignashevich,12,NO,SI
+2018,2018_r_51,Rusia,Artem Dzyuba,41,SI,NO
+2018,2018_r_52,Croacia,Mario Mandzukic,4,NO,NO
+2018,2018_r_52,Dinamarca,Mathias Jørgensen,1,NO,NO
+2018,2018_r_53,Brasil,Neymar Jr.,51,NO,NO
+2018,2018_r_53,Brasil,Roberto Firmino,88,NO,NO
+2018,2018_r_54,Bélgica,Jan Vertonghen,69,NO,NO
+2018,2018_r_54,Bélgica,Marouane Fellaini,74,NO,NO
+2018,2018_r_54,Bélgica,Nacer Chadli,90,NO,NO
+2018,2018_r_54,Japón,Genki Haraguchi,48,NO,NO
+2018,2018_r_54,Japón,Takashi Inui,52,NO,NO
+2018,2018_r_55,Suecia,Emil Forsberg,66,NO,NO
+2018,2018_r_56,Colombia,Yerry Mina,90,NO,NO
+2018,2018_r_56,Inglaterra,Harry Kane,57,SI,NO
+2018,2018_r_57,Francia,Raphael Varane,40,NO,NO
+2018,2018_r_57,Francia,Antoine Griezmann,61,NO,NO
+2018,2018_r_58,Brasil,Renato Augusto,76,NO,NO
+2018,2018_r_58,Bélgica,Fernandinho,13,NO,SI
+2018,2018_r_58,Bélgica,Kevin De Bruyne,31,NO,NO
+2018,2018_r_59,Rusia,Denis Cheryshev,31,NO,NO
+2018,2018_r_59,Rusia,Mário Fernandes,115,NO,NO
+2018,2018_r_59,Croacia,Andrej Kramarić,39,NO,NO
+2018,2018_r_59,Croacia,Domagoj Vida,101,NO,NO
+2018,2018_r_60,Inglaterra,Harry Maguire,30,NO,NO
+2018,2018_r_60,Inglaterra,Dele Alli,59,NO,NO
+2018,2018_r_61,Francia,Samuel Umtiti,51,NO,NO
+2018,2018_r_62,Croacia,Ivan Perisic,68,NO,NO
+2018,2018_r_62,Croacia,Mario Mandzukic,109,NO,NO
+2018,2018_r_62,Inglaterra,Kieran Trippier,5,NO,NO
+2018,2018_r_63,Bélgica,Thomas Meunier,4,NO,NO
+2018,2018_r_63,Bélgica,Eden Hazard,82,NO,NO
+2018,2018_r_64,Francia,Mario Mandzukic,18,NO,SI
+2018,2018_r_64,Francia,Antoine Griezmann,38,SI,NO
+2018,2018_r_64,Francia,Paul Pogba,59,NO,NO
+2018,2018_r_64,Francia,Kylian Mbappé,65,NO,NO
+2018,2018_r_64,Croacia,Ivan Perisic,28,NO,NO
+2018,2018_r_64,Croacia,Mario Mandzukic,69,NO,NO

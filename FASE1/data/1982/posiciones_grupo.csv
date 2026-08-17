@@ -1,0 +1,37 @@
+anio,id_grupo,seleccion,pts,pj,pg,pe,pp,gf,gc,diferencia,clasificado
+1982,1,Polonia,3,2,1,1,0,3,0,3,Si
+1982,1,URSS,3,2,1,1,0,1,0,1,No
+1982,1,Bélgica,0,2,0,0,2,0,4,-4,No
+1982,2,Alemania Occidental,3,2,1,1,0,2,1,1,Si
+1982,2,Inglaterra,2,2,0,2,0,0,0,0,No
+1982,2,España,1,2,0,1,1,1,2,-1,No
+1982,3,Italia,4,2,2,0,0,5,3,2,Si
+1982,3,Brasil,2,2,1,0,1,5,4,1,No
+1982,3,Argentina,0,2,0,0,2,2,5,-3,No
+1982,4,Francia,4,2,2,0,0,5,1,4,Si
+1982,4,Austria,1,2,0,1,1,2,3,-1,No
+1982,4,Irlanda del Norte,1,2,0,1,1,3,6,-3,No
+1982,A,Polonia,4,3,1,2,0,5,1,4,Si
+1982,A,Italia,3,3,0,3,0,2,2,0,Si
+1982,A,Camerún,3,3,0,3,0,1,1,0,No
+1982,A,Perú,2,3,0,2,1,2,6,-4,No
+1982,B,Alemania Occidental,4,3,2,0,1,6,3,3,Si
+1982,B,Austria,4,3,2,0,1,3,1,2,Si
+1982,B,Argelia,4,3,2,0,1,5,5,0,No
+1982,B,Chile,0,3,0,0,3,3,8,-5,No
+1982,C,Bélgica,5,3,2,1,0,3,1,2,Si
+1982,C,Argentina,4,3,2,0,1,6,2,4,Si
+1982,C,Hungría,3,3,1,1,1,12,6,6,No
+1982,C,El Salvador,0,3,0,0,3,1,13,-12,No
+1982,D,Inglaterra,6,3,3,0,0,6,1,5,Si
+1982,D,Francia,3,3,1,1,1,6,5,1,Si
+1982,D,Checoslovaquia,2,3,0,2,1,2,4,-2,No
+1982,D,Kuwait,1,3,0,1,2,2,6,-4,No
+1982,E,Irlanda del Norte,4,3,1,2,0,2,1,1,Si
+1982,E,España,3,3,1,1,1,3,3,0,Si
+1982,E,Yugoslavia,3,3,1,1,1,2,2,0,No
+1982,E,Honduras,2,3,0,2,1,2,3,-1,No
+1982,F,Brasil,6,3,3,0,0,10,2,8,Si
+1982,F,URSS,3,3,1,1,1,6,4,2,Si
+1982,F,Escocia,3,3,1,1,1,8,8,0,No
+1982,F,Nueva Zelanda,0,3,0,0,3,2,12,-10,No

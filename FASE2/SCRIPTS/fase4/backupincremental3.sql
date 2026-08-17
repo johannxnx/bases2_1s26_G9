@@ -1,0 +1,12 @@
+RUN {
+  # Seteamos el tiempo al punto final del proyecto
+  SET UNTIL TIME "to_date('2026-04-14 01:05:00', 'YYYY-MM-DD HH24:MI:SS')";
+
+  SQL "ALTER PLUGGABLE DATABASE XEPDB1 CLOSE IMMEDIATE";
+
+  # RMAN buscará la cadena: Nivel 0 -> Nivel 1 (Día 2) -> Nivel 1 (Día 3)
+  RESTORE PLUGGABLE DATABASE XEPDB1;
+  RECOVER PLUGGABLE DATABASE XEPDB1;
+
+  ALTER PLUGGABLE DATABASE XEPDB1 OPEN RESETLOGS;
+}

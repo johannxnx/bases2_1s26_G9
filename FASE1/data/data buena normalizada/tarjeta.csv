@@ -1,0 +1,2184 @@
+id_tarjeta,anio,id_seleccion,seleccion,id_jugador,jugador,amarillas,rojas
+1,1966,6.0,Argentina,5374.0,Antonio Rattin,1,1
+2,1966,80.0,Uruguay,6000.0,Hector Silva,1,1
+3,1966,6.0,Argentina,5154.0,Rafael Albrecht,0,1
+4,1966,88.0,URSS,275.0,Igor Chislenko,0,1
+5,1966,80.0,Uruguay,6016.0,Horacio Troche,0,1
+6,1966,87.0,Alemania Occidental,6051.0,Franz Beckenbauer,2,0
+7,1966,6.0,Argentina,5165.0,Luis Artime,1,0
+8,1966,65.0,Portugal,3211.0,Coluna,1,0
+9,1966,11.0,Brasil,1593.0,Denilson,1,0
+10,1966,12.0,Bulgaria,2923.0,Dinko Dermendzhiev,1,0
+11,1966,65.0,Portugal,3228.0,Eusebio,1,0
+12,1966,34.0,España,4932.0,Jesus Glaria,1,0
+13,1966,88.0,URSS,325.0,Galimzyan Khusainov,1,0
+14,1966,12.0,Bulgaria,2958.0,Ivan Kolev,1,0
+15,1966,17.0,Chile,700.0,Ruben Marcos,1,0
+16,1966,87.0,Alemania Occidental,6239.0,Wolfgang Overath,1,0
+17,1966,44.0,Inglaterra,1365.0,Martin Peters,1,0
+18,1966,88.0,URSS,384.0,Yozhef Sabo,1,0
+19,1966,6.0,Argentina,5410.0,Jorge Solari,1,0
+20,1966,44.0,Inglaterra,1405.0,Nobby Stiles,1,0
+21,1966,88.0,URSS,417.0,Valeri Voronin,1,0
+22,1966,87.0,Alemania Occidental,6313.0,Wolfgang Weber,1,0
+23,1966,12.0,Bulgaria,3024.0,Dobromir Zhechev,1,0
+24,1970,80.0,Uruguay,5871.0,Dagoberto Fontes,2,0
+25,1970,44.0,Inglaterra,1322.0,Francis Lee,2,0
+26,1970,87.0,Alemania Occidental,6223.0,Gerd Mueller,2,0
+27,1970,56.0,México,7819.0,Gustavo Pena,2,0
+28,1970,50.0,Israel,997.0,David Primo,2,0
+29,1970,88.0,URSS,252.0,Kakhi Asatiani,1,0
+30,1970,50.0,Israel,988.0,Shraga Bar,1,0
+31,1970,50.0,Israel,989.0,Menachem Bello,1,0
+32,1970,88.0,URSS,262.0,Anatoly Bishovets,1,0
+33,1970,51.0,Italia,5553.0,Roberto Boninsegna,1,0
+34,1970,51.0,Italia,5562.0,Tarcisio Burgnich,1,0
+35,1970,11.0,Brasil,1571.0,Carlos Alberto,1,0
+36,1970,80.0,Uruguay,5847.0,Julio Cortes,1,0
+37,1970,73.0,Suecia,3370.0,Claes Cronqvist,1,0
+38,1970,51.0,Italia,5608.0,Giancarlo De Sisti,1,0
+39,1970,86.0,Checoslovaquia,458.0,Karol Dobias,1,0
+40,1970,51.0,Italia,5617.0,Angelo Domenghini,1,0
+41,1970,68.0,Rumania,1884.0,Ion Dumitru,1,0
+42,1970,29.0,El Salvador,827.0,Salvador Flamenco Cabezas,1,0
+43,1970,11.0,Brasil,1640.0,Gerson,1,0
+44,1970,86.0,Checoslovaquia,477.0,Alexander Horvath,1,0
+45,1970,88.0,URSS,322.0,Vitali Khmelnitski,1,0
+46,1970,86.0,Checoslovaquia,518.0,Andrej Kvasnak,1,0
+47,1970,87.0,Alemania Occidental,6203.0,Hennes Loehr,1,0
+48,1970,88.0,URSS,347.0,Gennadi Logofet,1,0
+49,1970,87.0,Alemania Occidental,6204.0,Max Lorenz,1,0
+50,1970,88.0,URSS,348.0,Evgeni Lovchev,1,0
+51,1970,29.0,El Salvador,834.0,Raul Magana,1,0
+52,1970,80.0,Uruguay,5913.0,Ildo Maneiro,1,0
+53,1970,29.0,El Salvador,836.0,Salvador Mariona,1,0
+54,1970,29.0,El Salvador,838.0,Sergio Mendez,1,0
+55,1970,68.0,Rumania,1909.0,Mihai Mocanu,1,0
+56,1970,80.0,Uruguay,5930.0,Julio Montero Castillo,1,0
+57,1970,80.0,Uruguay,5935.0,Juan Mujica,1,0
+58,1970,88.0,URSS,367.0,Givili Nodiya,1,0
+59,1970,68.0,Rumania,1918.0,Radu Nunweiller,1,0
+60,1970,87.0,Alemania Occidental,6239.0,Wolfgang Overath,1,0
+61,1970,73.0,Suecia,3492.0,Orjan Persson,1,0
+62,1970,11.0,Brasil,1782.0,Rivelino,1,0
+63,1970,51.0,Italia,5747.0,Gianni Rivera,1,0
+64,1970,51.0,Italia,5750.0,Roberto Rosato,1,0
+65,1970,13.0,Bélgica,6703.0,Jean Thissen,1,0
+66,1970,11.0,Brasil,1816.0,Tostao,1,0
+67,1970,80.0,Uruguay,6017.0,Luis Ubina,1,0
+68,1970,56.0,México,7883.0,Javier Valdivia,1,0
+69,1970,13.0,Bélgica,6720.0,Paul Van Himst,1,0
+70,1974,17.0,Chile,648.0,Carlos Caszely,1,1
+71,1974,11.0,Brasil,1695.0,Luis Pereira,1,1
+72,1974,80.0,Uruguay,5930.0,Julio Montero Castillo,0,1
+73,1974,89.0,Zaire,6823.0,Ndaye Mulamba,0,1
+74,1974,7.0,Australia,7356.0,Ray Richards,0,1
+75,1974,6.0,Argentina,5171.0,Carlos Babington,3,0
+76,1974,40.0,Haití,2439.0,Pierre Bayonne,2,0
+77,1974,60.0,Paises Bajos,6378.0,Johan Cruyff,2,0
+78,1974,73.0,Suecia,3391.0,Ove Grahn,2,0
+79,1974,85.0,Yugoslavia,3585.0,Enver Hadziabdic,2,0
+80,1974,11.0,Brasil,1663.0,Jairzinho,2,0
+81,1974,64.0,Polonia,3089.0,Henryk Kasperczak,2,0
+82,1974,85.0,Yugoslavia,3615.0,Josip Katalinski,2,0
+83,1974,2.0,Alemania Oriental,2513.0,Gerd Kische,2,0
+84,1974,11.0,Brasil,1712.0,Marinho Peres,2,0
+85,1974,60.0,Paises Bajos,6452.0,Johan Neeskens,2,0
+86,1974,85.0,Yugoslavia,3677.0,Branko Oblak,2,0
+87,1974,6.0,Argentina,5361.0,Roberto Perfumo,2,0
+88,1974,60.0,Paises Bajos,6468.0,Johnny Rep,2,0
+89,1974,2.0,Alemania Oriental,2521.0,Juergen Sparwasser,2,0
+90,1974,60.0,Paises Bajos,6486.0,Wim Suurbier,2,0
+91,1974,60.0,Paises Bajos,6509.0,Wim Van Hanegem,2,0
+92,1974,87.0,Alemania Occidental,6307.0,Berti Vogts,2,0
+93,1974,85.0,Yugoslavia,3535.0,Jovan Acimovic,1,0
+94,1974,73.0,Suecia,3339.0,Bjorn Andersson,1,0
+95,1974,85.0,Yugoslavia,3540.0,Dusan Bajevic,1,0
+96,1974,6.0,Argentina,5177.0,Angel Bargas,1,0
+97,1974,51.0,Italia,5543.0,Romeo Benetti,1,0
+98,1974,51.0,Italia,5553.0,Roberto Boninsegna,1,0
+99,1974,85.0,Yugoslavia,3553.0,Ivan Buljan,1,0
+100,1974,11.0,Brasil,1573.0,Carpegiani,1,0
+101,1974,2.0,Alemania Oriental,2506.0,Juergen Croy,1,0
+102,1974,12.0,Bulgaria,2922.0,Georgi Denev,1,0
+103,1974,11.0,Brasil,1598.0,Dirceu,1,0
+104,1974,80.0,Uruguay,5865.0,Victor Esparrago,1,0
+105,1974,80.0,Uruguay,5873.0,Pablo Forlan,1,0
+106,1974,17.0,Chile,681.0,Rolando Garcia,1,0
+107,1974,64.0,Polonia,3069.0,Jerzy Gorgon,1,0
+108,1974,2.0,Alemania Oriental,2510.0,Erich Hamann,1,0
+109,1974,31.0,Escocia,2342.0,Davie Hay,1,0
+110,1974,6.0,Argentina,5280.0,Ramon Heredia,1,0
+111,1974,31.0,Escocia,2346.0,James Holton,1,0
+112,1974,6.0,Argentina,5283.0,Rene Houseman,1,0
+113,1974,89.0,Zaire,6811.0,Muepu Ilunga,1,0
+114,1974,60.0,Paises Bajos,6422.0,Wim Jansen,1,0
+115,1974,80.0,Uruguay,5901.0,Baudilio Jauregui,1,0
+116,1974,31.0,Escocia,2356.0,Joe Jordan,1,0
+117,1974,85.0,Yugoslavia,3614.0,Stanislav Karasi,1,0
+118,1974,2.0,Alemania Oriental,2514.0,Hans-Juergen Kreische,1,0
+119,1974,40.0,Haití,2446.0,Fritz Leandre,1,0
+120,1974,7.0,Australia,7336.0,Jimmy Mackay,1,0
+121,1974,89.0,Zaire,6818.0,Kidumu Mantantu,1,0
+122,1974,80.0,Uruguay,5915.0,Walter Mantegazza,1,0
+123,1974,11.0,Brasil,1711.0,Marinho Chagas,1,0
+124,1974,80.0,Uruguay,5919.0,Juan Masnik,1,0
+125,1974,11.0,Brasil,1727.0,Mirandinha,1,0
+126,1974,64.0,Polonia,3131.0,Adam Musial,1,0
+127,1974,73.0,Suecia,3479.0,Bjorn Nordqvist,1,0
+128,1974,87.0,Alemania Occidental,6239.0,Wolfgang Overath,1,0
+129,1974,17.0,Chile,724.0,Guillermo Paez,1,0
+130,1974,73.0,Suecia,3492.0,Orjan Persson,1,0
+131,1974,17.0,Chile,739.0,Carlos Reinoso,1,0
+132,1974,11.0,Brasil,1782.0,Rivelino,1,0
+133,1974,2.0,Alemania Oriental,2522.0,Joachim Streich,1,0
+134,1974,64.0,Polonia,3160.0,Andrzej Szarmach,1,0
+135,1974,12.0,Bulgaria,3007.0,Tsonyo Vasilev,1,0
+136,1974,17.0,Chile,784.0,Leonardo Veliz,1,0
+137,1974,2.0,Alemania Oriental,2523.0,Eberhard Vogel,1,0
+138,1974,2.0,Alemania Oriental,2524.0,Siegmar Waetzlich,1,0
+139,1974,11.0,Brasil,1837.0,Ze Maria,1,0
+140,1978,60.0,Paises Bajos,6451.0,Dick Nanninga,1,1
+141,1978,42.0,Hungría,7579.0,Tibor Nyilasi,1,1
+142,1978,42.0,Hungría,7619.0,Andras Torocsik,1,1
+143,1978,63.0,Perú,2222.0,Jose Velasquez,3,0
+144,1978,51.0,Italia,5543.0,Romeo Benetti,2,0
+145,1978,48.0,Irán,4102.0,Andranik Eskandarian,2,0
+146,1978,51.0,Italia,5772.0,Marco Tardelli,2,0
+147,1978,87.0,Alemania Occidental,6035.0,Ruediger Abramczik,1,0
+148,1978,6.0,Argentina,5163.0,Osvaldo Ardiles,1,0
+149,1978,11.0,Brasil,1549.0,Batista,1,0
+150,1978,87.0,Alemania Occidental,6063.0,Rainer Bonhof,1,0
+151,1978,64.0,Polonia,3035.0,Zbigniew Boniek,1,0
+152,1978,73.0,Suecia,3364.0,Hasse Borg,1,0
+153,1978,51.0,Italia,5563.0,Antonio Cabrini,1,0
+154,1978,11.0,Brasil,1581.0,Chicao,1,0
+155,1978,78.0,Túnez,7186.0,Tarek Dhiab,1,0
+156,1978,11.0,Brasil,1610.0,Edinho,1,0
+157,1978,6.0,Argentina,5262.0,Americo Gallego,1,0
+158,1978,31.0,Escocia,2328.0,Archie Gemmill,1,0
+159,1978,51.0,Italia,5643.0,Claudio Gentile,1,0
+160,1978,64.0,Polonia,3069.0,Jerzy Gorgon,1,0
+161,1978,60.0,Paises Bajos,6410.0,Arie Haan,1,0
+162,1978,11.0,Brasil,1669.0,Jorge Mendonca,1,0
+163,1978,60.0,Paises Bajos,6434.0,Ruud Krol,1,0
+164,1978,6.0,Argentina,5294.0,Omar Larrosa,1,0
+165,1978,34.0,España,4967.0,Eugenio Leal,1,0
+166,1978,64.0,Polonia,3117.0,Henryk Maculewicz,1,0
+167,1978,87.0,Alemania Occidental,6208.0,Sepp Maier,1,0
+168,1978,63.0,Perú,2183.0,Rodolfo Manzo,1,0
+169,1978,42.0,Hungría,7566.0,Gyozo Martos,1,0
+170,1978,36.0,Francia,3994.0,Henri Michel,1,0
+171,1978,87.0,Alemania Occidental,6224.0,Hansi Mueller,1,0
+172,1978,63.0,Perú,2187.0,Juan Munante,1,0
+173,1978,48.0,Irán,4153.0,Hassan Nazari,1,0
+174,1978,60.0,Paises Bajos,6452.0,Johan Neeskens,1,0
+175,1978,11.0,Brasil,1733.0,Nelinho,1,0
+176,1978,11.0,Brasil,1744.0,Oscar,1,0
+177,1978,6.0,Argentina,5350.0,Daniel Passarella,1,0
+178,1978,36.0,Francia,4012.0,Michel Platini,1,0
+179,1978,8.0,Austria,4629.0,Herbert Prohaska,1,0
+180,1978,63.0,Perú,2197.0,Alfredo Quesada,1,0
+181,1978,63.0,Perú,2199.0,Ramon Quiroga,1,0
+182,1978,60.0,Paises Bajos,6468.0,Johnny Rep,1,0
+183,1978,11.0,Brasil,1785.0,Roberto Dinamite,1,0
+184,1978,8.0,Austria,4637.0,Robert Sara,1,0
+185,1978,36.0,Francia,4042.0,Didier Six,1,0
+186,1978,60.0,Paises Bajos,6486.0,Wim Suurbier,1,0
+187,1978,11.0,Brasil,1815.0,Toninho Cerezo,1,0
+188,1978,60.0,Paises Bajos,6500.0,Willy Van De Kerkhof,1,0
+189,1978,60.0,Paises Bajos,6499.0,Rene Van De Kerkhof,1,0
+190,1978,56.0,México,7886.0,Arturo Vasquez,1,0
+191,1978,6.0,Argentina,5437.0,Ricardo Villa,1,0
+192,1978,11.0,Brasil,1843.0,Zico,1,0
+193,1978,42.0,Hungría,7633.0,Sandor Zombori,1,0
+194,1982,6.0,Argentina,5262.0,Americo Gallego,1,1
+195,1982,6.0,Argentina,5307.0,Diego Maradona,1,1
+196,1982,47.0,Irlanda del Norte,2240.0,Mal Donaghy,0,1
+197,1982,86.0,Checoslovaquia,593.0,Ladislav Vizek,0,1
+198,1982,41.0,Honduras,244.0,Gilberto Yearwood,0,1
+199,1982,36.0,Francia,3822.0,Manuel Amoros,2,0
+200,1982,64.0,Polonia,3035.0,Zbigniew Boniek,2,0
+201,1982,64.0,Polonia,3041.0,Andrzej Buncol,2,0
+202,1982,51.0,Italia,5643.0,Claudio Gentile,2,0
+203,1982,47.0,Irlanda del Norte,2247.0,Billy Hamilton,2,0
+204,1982,51.0,Italia,5712.0,Gabriele Oriali,2,0
+205,1982,29.0,El Salvador,843.0,Francisco Osorto,2,0
+206,1982,64.0,Polonia,3156.0,Wlodimierz Smolarek,2,0
+207,1982,87.0,Alemania Occidental,6287.0,Uli Stielike,2,0
+208,1982,54.0,Kuwait,7900.0,Abdulaziz Al Anbari,1,0
+209,1982,34.0,España,4853.0,Jose Alexanko,1,0
+210,1982,51.0,Italia,5527.0,Giancarlo Antognoni,1,0
+211,1982,14.0,Camerún,866.0,Ibrahim Aoudou,1,0
+212,1982,6.0,Argentina,5163.0,Osvaldo Ardiles,1,0
+213,1982,88.0,URSS,254.0,Sergei Baltacha,1,0
+214,1982,6.0,Argentina,5186.0,Daniel Bertoni,1,0
+215,1982,88.0,URSS,261.0,Vladimir Bessonov,1,0
+216,1982,88.0,URSS,265.0,Sergei Borovski,1,0
+217,1982,87.0,Alemania Occidental,6068.0,Hans-Peter Briegel,1,0
+218,1982,44.0,Inglaterra,1228.0,Terry Butcher,1,0
+219,1982,34.0,España,4882.0,Jose Antonio Camacho,1,0
+220,1982,86.0,Checoslovaquia,454.0,Pavel Chaloupka,1,0
+221,1982,88.0,URSS,276.0,Aleksandr Chivadze,1,0
+222,1982,51.0,Italia,5592.0,Fulvio Collovati,1,0
+223,1982,51.0,Italia,5595.0,Bruno Conti,1,0
+224,1982,8.0,Austria,4558.0,Josef Degeorgi,1,0
+225,1982,87.0,Alemania Occidental,6083.0,Wolfgang Dremmler,1,0
+226,1982,63.0,Perú,2155.0,Jaime Duarte,1,0
+227,1982,17.0,Chile,661.0,Rodolfo Dubo,1,0
+228,1982,29.0,El Salvador,825.0,Ramon Fagoaga,1,0
+229,1982,54.0,Kuwait,7912.0,Naim Fajah,1,0
+230,1982,11.0,Brasil,1623.0,Falcao,1,0
+231,1982,42.0,Hungría,7521.0,Laszlo Fazekas,1,0
+232,1982,87.0,Alemania Occidental,6093.0,Klaus Fischer,1,0
+233,1982,87.0,Alemania Occidental,6095.0,Bernd Foerster,1,0
+234,1982,17.0,Chile,680.0,Miguel Gamboa,1,0
+235,1982,17.0,Chile,682.0,Lizardo Garrido,1,0
+236,1982,36.0,Francia,3918.0,Bernard Genghini,1,0
+237,1982,36.0,Francia,3922.0,Alain Giresse,1,0
+238,1982,34.0,España,4936.0,Rafael Gordillo,1,0
+239,1982,8.0,Austria,4576.0,Roland Hattenberger,1,0
+240,1982,8.0,Austria,4582.0,Reinhold Hintermaier,1,0
+241,1982,87.0,Alemania Occidental,6149.0,Horst Hrubesch,1,0
+242,1982,34.0,España,4957.0,Juanito,1,0
+243,1982,6.0,Argentina,5290.0,Mario Kempes,1,0
+244,1982,85.0,Yugoslavia,3630.0,Zlatko Krmpotic,1,0
+245,1982,17.0,Chile,696.0,Juan Letelier,1,0
+246,1982,87.0,Alemania Occidental,6202.0,Pierre Littbarski,1,0
+247,1982,5.0,Argelia,6875.0,Rabah Madjer,1,0
+248,1982,64.0,Polonia,3120.0,Stefan Majewski,1,0
+249,1982,5.0,Argelia,6878.0,Faouzi Mansouri,1,0
+250,1982,41.0,Honduras,221.0,Ramon Maradiaga,1,0
+251,1982,44.0,Inglaterra,1332.0,Paul Mariner,1,0
+252,1982,51.0,Italia,5681.0,Giampiero Marini,1,0
+253,1982,54.0,Kuwait,7915.0,Fathi Matar,1,0
+254,1982,47.0,Irlanda del Norte,2258.0,Sam Mcilroy,1,0
+255,1982,13.0,Bélgica,6653.0,Walter Meeuws,1,0
+256,1982,14.0,Camerún,936.0,Roger Milla,1,0
+257,1982,13.0,Bélgica,6658.0,Luc Millecamps,1,0
+258,1982,14.0,Camerún,942.0,Rene Ndjeya,1,0
+259,1982,14.0,Camerún,952.0,Thomas Nkono,1,0
+260,1982,42.0,Hungría,7579.0,Tibor Nyilasi,1,0
+261,1982,8.0,Austria,4614.0,Erich Obermayer,1,0
+262,1982,6.0,Argentina,5333.0,Jorge Olguin,1,0
+263,1982,64.0,Polonia,3136.0,Andrzej Palasz,1,0
+264,1982,86.0,Checoslovaquia,544.0,Antonin Panenka,1,0
+265,1982,6.0,Argentina,5350.0,Daniel Passarella,1,0
+266,1982,13.0,Bélgica,6679.0,Jean-Marie Pfaff,1,0
+267,1982,8.0,Austria,4623.0,Andy Pichler,1,0
+268,1982,29.0,El Salvador,848.0,Luis Ramirez,1,0
+269,1982,29.0,El Salvador,849.0,Carlos Recinos,1,0
+270,1982,51.0,Italia,5752.0,Paolo Rossi,1,0
+271,1982,34.0,España,5055.0,Jose Sanchez,1,0
+272,1982,8.0,Austria,4638.0,Walter Schachner,1,0
+273,1982,51.0,Italia,5759.0,Gaetano Scirea,1,0
+274,1982,85.0,Yugoslavia,3725.0,Edhem Sljivo,1,0
+275,1982,36.0,Francia,4043.0,Gerard Soler,1,0
+276,1982,31.0,Escocia,2406.0,Graeme Souness,1,0
+277,1982,85.0,Yugoslavia,3740.0,Nenad Stojkovic,1,0
+278,1982,51.0,Italia,5772.0,Marco Tardelli,1,0
+279,1982,36.0,Francia,4053.0,Jean Tigana,1,0
+280,1982,63.0,Perú,2222.0,Jose Velasquez,1,0
+281,1982,11.0,Brasil,1827.0,Waldir Peres,1,0
+282,1982,47.0,Irlanda del Norte,2278.0,Norman Whiteside,1,0
+283,1982,44.0,Inglaterra,1426.0,Ray Wilkins,1,0
+284,1982,64.0,Polonia,3180.0,Roman Wojcicki,1,0
+285,1982,34.0,España,5097.0,Jesus Zamora,1,0
+286,1982,64.0,Polonia,3187.0,Wladyslaw Zmuda,1,0
+287,1986,56.0,México,7636.0,Javier Aguirre,1,1
+288,1986,26.0,Dinamarca,4188.0,Frank Arnesen,1,1
+289,1986,80.0,Uruguay,5822.0,Miguel Bossio,1,1
+290,1986,15.0,Canadá,2496.0,Mike Sweeney,1,1
+291,1986,44.0,Inglaterra,1426.0,Ray Wilkins,1,1
+292,1986,80.0,Uruguay,5816.0,Jose Batista,0,1
+293,1986,87.0,Alemania Occidental,6057.0,Thomas Berthold,0,1
+294,1986,45.0,Iraq,1173.0,Bassel Gorgis,0,1
+295,1986,44.0,Inglaterra,1268.0,Terry Fenwick,3,0
+296,1986,56.0,México,7864.0,Hugo Sánchez,3,0
+297,1986,36.0,Francia,3829.0,William Ayache,2,0
+298,1986,51.0,Italia,5544.0,Giuseppe Bergomi,2,0
+299,1986,21.0,Corea del Sur,6939.0,Young Jeung Cho,2,0
+300,1986,80.0,Uruguay,5851.0,Jorge Da Silva,2,0
+301,1986,80.0,Uruguay,5859.0,Victor Diogo,2,0
+302,1986,64.0,Polonia,3054.0,Dariusz Dziekanowski,2,0
+303,1986,36.0,Francia,3912.0,Luis Fernandez,2,0
+304,1986,6.0,Argentina,5267.0,Oscar Garre,2,0
+305,1986,34.0,España,4933.0,Goikoetxea,2,0
+306,1986,55.0,Marruecos,8376.0,Labid Khalifa,2,0
+307,1986,21.0,Corea del Sur,7009.0,Joo Sung Kim,2,0
+308,1986,87.0,Alemania Occidental,6212.0,Lothar Matthaeus,2,0
+309,1986,6.0,Argentina,5372.0,Nery Pumpido,2,0
+310,1986,62.0,Paraguay,4422.0,Vladimiro Schettina,2,0
+311,1986,45.0,Iraq,1191.0,Shaker Samir,2,0
+312,1986,80.0,Uruguay,5801.0,Eduardo Acevedo,1,0
+313,1986,87.0,Alemania Occidental,6039.0,Klaus Allofs,1,0
+314,1986,80.0,Uruguay,5805.0,Fernando Alvez,1,0
+315,1986,36.0,Francia,3822.0,Manuel Amoros,1,0
+316,1986,26.0,Dinamarca,4185.0,Henrik Andersen,1,0
+317,1986,12.0,Bulgaria,2914.0,Nikolai Arabov,1,0
+318,1986,31.0,Escocia,2284.0,Steve Archibald,1,0
+319,1986,51.0,Italia,5534.0,Salvatore Bagni,1,0
+320,1986,31.0,Escocia,2286.0,Eamonn Bannon,1,0
+321,1986,6.0,Argentina,5180.0,Sergio Batista,1,0
+322,1986,88.0,URSS,257.0,Igor Belanov,1,0
+323,1986,26.0,Dinamarca,4193.0,Klaus Berggreen,1,0
+324,1986,64.0,Polonia,3035.0,Zbigniew Boniek,1,0
+325,1986,11.0,Brasil,1559.0,Branco,1,0
+326,1986,87.0,Alemania Occidental,6068.0,Hans-Peter Briegel,1,0
+327,1986,6.0,Argentina,5197.0,Jose Brown,1,0
+328,1986,44.0,Inglaterra,1228.0,Terry Butcher,1,0
+329,1986,80.0,Uruguay,5826.0,Wilmar Cabrera,1,0
+330,1986,51.0,Italia,5563.0,Antonio Cabrini,1,0
+331,1986,34.0,España,4881.0,Ramon Maria Caldere,1,0
+332,1986,34.0,España,4882.0,Jose Antonio Camacho,1,0
+333,1986,11.0,Brasil,1569.0,Careca,1,0
+334,1986,13.0,Bélgica,6571.0,Jan Ceulemans,1,0
+335,1986,13.0,Bélgica,6575.0,Nico Claesen,1,0
+336,1986,6.0,Argentina,5228.0,Jose Cuciuffo,1,0
+337,1986,56.0,México,7703.0,Carlos De Los Cobos,1,0
+338,1986,51.0,Italia,5604.0,Fernando De Napoli,1,0
+339,1986,13.0,Bélgica,6605.0,Stephane Demol,1,0
+340,1986,51.0,Italia,5613.0,Antonio Di Gennaro,1,0
+341,1986,47.0,Irlanda del Norte,2240.0,Mal Donaghy,1,0
+342,1986,87.0,Alemania Occidental,6086.0,Norbert Eder,1,0
+343,1986,11.0,Brasil,1610.0,Edinho,1,0
+344,1986,6.0,Argentina,5244.0,Hector Enrique,1,0
+345,1986,87.0,Alemania Occidental,6096.0,Karl-Heinz Foerster,1,0
+346,1986,80.0,Uruguay,5874.0,Enzo Francescoli,1,0
+347,1986,6.0,Argentina,5269.0,Ricardo Giusti,1,0
+348,1986,65.0,Portugal,3241.0,Gomes,1,0
+349,1986,12.0,Bulgaria,2939.0,Zhivko Gospodinov,1,0
+350,1986,13.0,Bélgica,6627.0,Georges Grun,1,0
+351,1986,47.0,Irlanda del Norte,2247.0,Billy Hamilton,1,0
+352,1986,45.0,Iraq,1174.0,Hammoudi Raad,1,0
+353,1986,45.0,Iraq,1175.0,Hashem Natik,1,0
+354,1986,44.0,Inglaterra,1289.0,Mark Hateley,1,0
+355,1986,44.0,Inglaterra,1295.0,Steve Hodge,1,0
+356,1986,21.0,Corea del Sur,6973.0,Jung Moo Huh,1,0
+357,1986,87.0,Alemania Occidental,6155.0,Ditmar Jakobs,1,0
+358,1986,34.0,España,4958.0,Julio Alberto,1,0
+359,1986,55.0,Marruecos,8375.0,Abdelrazzak Khairi,1,0
+360,1986,45.0,Iraq,1181.0,Khalil Mohamed,1,0
+361,1986,55.0,Marruecos,8380.0,Abdelmajid Lamriss,1,0
+362,1986,15.0,Canadá,2479.0,Bob Lenarduzzi,1,0
+363,1986,5.0,Argelia,6875.0,Rabah Madjer,1,0
+364,1986,87.0,Alemania Occidental,6206.0,Felix Magath,1,0
+365,1986,31.0,Escocia,2367.0,Maurice Malpas,1,0
+366,1986,5.0,Argelia,6878.0,Faouzi Mansouri,1,0
+367,1986,6.0,Argentina,5307.0,Diego Maradona,1,0
+368,1986,12.0,Bulgaria,2970.0,Aleksandar Markov,1,0
+369,1986,44.0,Inglaterra,1333.0,Alvin Martin,1,0
+370,1986,47.0,Irlanda del Norte,2258.0,Sam Mcilroy,1,0
+371,1986,62.0,Paraguay,4390.0,Alfredo Mendoza,1,0
+372,1986,34.0,España,4989.0,Michel,1,0
+373,1986,45.0,Iraq,1183.0,Mohamed Haris,1,0
+374,1986,56.0,México,7797.0,Carlos Munoz,1,0
+375,1986,31.0,Escocia,2393.0,David Narey,1,0
+376,1986,56.0,México,7804.0,Manuel Negrete,1,0
+377,1986,31.0,Escocia,2395.0,Stephen Nicol,1,0
+378,1986,26.0,Dinamarca,4262.0,Ivan Nielsen,1,0
+379,1986,62.0,Paraguay,4398.0,Jorge Núñez,1,0
+380,1986,6.0,Argentina,5331.0,Julio Olarticoechea,1,0
+381,1986,65.0,Portugal,3282.0,Pacheco,1,0
+382,1986,21.0,Corea del Sur,7071.0,Chang Sun Park,1,0
+383,1986,21.0,Corea del Sur,7080.0,Kyung Hoon Park,1,0
+384,1986,13.0,Bélgica,6679.0,Jean-Marie Pfaff,1,0
+385,1986,56.0,México,7831.0,Fernando Quirarte,1,0
+386,1986,88.0,URSS,380.0,Vasili Rats,1,0
+387,1986,13.0,Bélgica,6688.0,Michel Renquin,1,0
+388,1986,36.0,Francia,4025.0,Dominique Rocheteau,1,0
+389,1986,62.0,Paraguay,4416.0,Julio Cesar Romero,1,0
+390,1986,45.0,Iraq,1188.0,Saddam Karim,1,0
+391,1986,80.0,Uruguay,5991.0,Sergio Santin,1,0
+392,1986,80.0,Uruguay,5993.0,Mario Saralegui,1,0
+393,1986,51.0,Italia,5759.0,Gaetano Scirea,1,0
+394,1986,56.0,México,7870.0,Raul Servin,1,0
+395,1986,45.0,Iraq,1190.0,Shaker Nadhum,1,0
+396,1986,64.0,Polonia,3156.0,Wlodimierz Smolarek,1,0
+397,1986,55.0,Marruecos,8406.0,Mohamed Timoumi,1,0
+398,1986,34.0,España,5075.0,Tomas,1,0
+399,1986,56.0,México,7881.0,Mario Trejo,1,0
+400,1986,6.0,Argentina,5430.0,Jorge Valdano,1,0
+401,1986,13.0,Bélgica,6714.0,Franky Van Der Elst,1,0
+402,1986,13.0,Bélgica,6750.0,Daniel Veyt,1,0
+403,1986,34.0,España,5090.0,Victor,1,0
+404,1986,51.0,Italia,5786.0,Pietro Vierchowod,1,0
+405,1986,47.0,Irlanda del Norte,2278.0,Norman Whiteside,1,0
+406,1986,64.0,Polonia,3180.0,Roman Wojcicki,1,0
+407,1986,47.0,Irlanda del Norte,2279.0,Nigel Worthington,1,0
+408,1990,14.0,Camerún,912.0,Andre Kana-Biyik,2,1
+409,1990,14.0,Camerún,925.0,Benjamin Massing,2,1
+410,1990,6.0,Argentina,5325.0,Pedro Monzon,2,1
+411,1990,86.0,Checoslovaquia,533.0,Lubomir Moravcik,2,1
+412,1990,60.0,Paises Bajos,6469.0,Frank Rijkaard,2,1
+413,1990,85.0,Yugoslavia,3716.0,Refik Sabanadzovic,2,1
+414,1990,87.0,Alemania Occidental,6306.0,Rudi Voeller,2,1
+415,1990,6.0,Argentina,5237.0,Gustavo Dezotti,1,1
+416,1990,6.0,Argentina,5269.0,Ricardo Giusti,1,1
+417,1990,21.0,Corea del Sur,7096.0,Deok Yeo Yoon,1,1
+418,1990,8.0,Austria,4547.0,Peter Artner,0,1
+419,1990,88.0,URSS,261.0,Vladimir Bessonov,0,1
+420,1990,13.0,Bélgica,6622.0,Eric Gerets,0,1
+421,1990,30.0,Emiratos Arabes,7957.0,Khaleel Ghanim,0,1
+422,1990,11.0,Brasil,1777.0,Ricardo Gomes,0,1
+423,1990,35.0,Estados Unidos,2905.0,Eric Wynalda,0,1
+424,1990,87.0,Alemania Occidental,6066.0,Andreas Brehme,3,0
+425,1990,6.0,Argentina,5406.0,Jose Serrizuela,3,0
+426,1990,35.0,Estados Unidos,2748.0,Jimmy Banks,2,0
+427,1990,6.0,Argentina,5180.0,Sergio Batista,2,0
+428,1990,51.0,Italia,5545.0,Nicola Berti,2,0
+429,1990,6.0,Argentina,5208.0,Claudio Caniggia,2,0
+430,1990,44.0,Inglaterra,1281.0,Paul Gascoigne,2,0
+431,1990,19.0,Colombia,2670.0,Gabriel Gomez,2,0
+432,1990,22.0,Costa Rica,2000.0,Roger Gomez,2,0
+433,1990,68.0,Rumania,1891.0,Gheorghe Hagi,2,0
+434,1990,86.0,Checoslovaquia,515.0,Lubos Kubik,2,0
+435,1990,68.0,Rumania,1898.0,Marius Lacatus,2,0
+436,1990,6.0,Argentina,5307.0,Diego Maradona,2,0
+437,1990,22.0,Costa Rica,2017.0,Hector Marchena,2,0
+438,1990,14.0,Camerún,933.0,Emile Mbouh,2,0
+439,1990,14.0,Camerún,936.0,Roger Milla,2,0
+440,1990,11.0,Brasil,1730.0,Mozer,2,0
+441,1990,14.0,Camerún,941.0,Victor Ndip,2,0
+442,1990,14.0,Camerún,952.0,Thomas Nkono,2,0
+443,1990,6.0,Argentina,5331.0,Julio Olarticoechea,2,0
+444,1990,14.0,Camerún,964.0,Jules Denis Onana,2,0
+445,1990,8.0,Austria,4617.0,Robert Pecl,2,0
+446,1990,80.0,Uruguay,5952.0,Jose Perdomo,2,0
+447,1990,86.0,Checoslovaquia,583.0,Frantisek Straka,2,0
+448,1990,6.0,Argentina,5425.0,Pedro Troglio,2,0
+449,1990,30.0,Emiratos Arabes,7964.0,Yousuf Hussain,2,0
+450,1990,8.0,Austria,4670.0,Manfred Zsak,2,0
+451,1990,28.0,Egipto,2068.0,Magdy Abedelghani,1,0
+452,1990,46.0,Irlanda,7441.0,John Aldridge,1,0
+453,1990,19.0,Colombia,2634.0,Leonel Alvarez,1,0
+454,1990,80.0,Uruguay,5805.0,Fernando Alvez,1,0
+455,1990,51.0,Italia,5533.0,Roberto Baggio,1,0
+456,1990,44.0,Inglaterra,1213.0,Peter Beardsley,1,0
+457,1990,87.0,Alemania Occidental,6057.0,Thomas Berthold,1,0
+458,1990,86.0,Checoslovaquia,440.0,Michal Bilek,1,0
+459,1990,11.0,Brasil,1559.0,Branco,1,0
+460,1990,85.0,Yugoslavia,3551.0,Dragoljub Brnovic,1,0
+461,1990,6.0,Argentina,5200.0,Jorge Burruchaga,1,0
+462,1990,35.0,Estados Unidos,2764.0,Paul Caligiuri,1,0
+463,1990,34.0,España,4897.0,Chendo,1,0
+464,1990,21.0,Corea del Sur,6948.0,Soon Ho Choi,1,0
+465,1990,21.0,Corea del Sur,6946.0,Kang Hee Choi,1,0
+466,1990,86.0,Checoslovaquia,455.0,Jozef Chovanec,1,0
+467,1990,21.0,Corea del Sur,6955.0,Hae Won Chung,1,0
+468,1990,51.0,Italia,5603.0,Luigi De Agostini,1,0
+469,1990,11.0,Brasil,1605.0,Dunga,1,0
+470,1990,30.0,Emiratos Arabes,7950.0,Eissa Meer,1,0
+471,1990,51.0,Italia,5631.0,Riccardo Ferri,1,0
+472,1990,80.0,Uruguay,5874.0,Enzo Francescoli,1,0
+473,1990,51.0,Italia,5646.0,Giuseppe Giannini,1,0
+474,1990,8.0,Austria,4567.0,Gerald Glatzmayer,1,0
+475,1990,22.0,Costa Rica,2004.0,Ronald Gonzalez,1,0
+476,1990,6.0,Argentina,5275.0,Sergio Goycochea,1,0
+477,1990,80.0,Uruguay,5896.0,Nelson Gutierrez,1,0
+478,1990,86.0,Checoslovaquia,470.0,Ivan Hasek,1,0
+479,1990,28.0,Egipto,2090.0,Ibrahim Hassan,1,0
+480,1990,19.0,Colombia,2678.0,Luis Herrera,1,0
+481,1990,80.0,Uruguay,5898.0,Jose Herrera,1,0
+482,1990,8.0,Austria,4579.0,Andreas Herzog,1,0
+483,1990,30.0,Emiratos Arabes,7954.0,Hussain Ghuloum,1,0
+484,1990,21.0,Corea del Sur,6974.0,Bo Kwan Hwang,1,0
+485,1990,30.0,Emiratos Arabes,7955.0,Ibrahim Meer,1,0
+486,1990,22.0,Costa Rica,2012.0,Claudio Jara,1,0
+487,1990,34.0,España,4953.0,Manuel Jimenez,1,0
+488,1990,31.0,Escocia,2351.0,Mo Johnston,1,0
+489,1990,11.0,Brasil,1670.0,Jorginho,1,0
+490,1990,86.0,Checoslovaquia,494.0,Miroslav Kadlec,1,0
+491,1990,85.0,Yugoslavia,3616.0,Srecko Katanec,1,0
+492,1990,88.0,URSS,320.0,Vagiz Khidiyatullin,1,0
+493,1990,60.0,Paises Bajos,6427.0,Wim Kieft,1,0
+494,1990,68.0,Rumania,1895.0,Michael Klein,1,0
+495,1990,87.0,Alemania Occidental,6174.0,Juergen Klinsmann,1,0
+496,1990,86.0,Checoslovaquia,499.0,Ivo Knoflicek,1,0
+497,1990,86.0,Checoslovaquia,500.0,Jan Kocian,1,0
+498,1990,21.0,Corea del Sur,7040.0,Heung Sil Lee,1,0
+499,1990,8.0,Austria,4608.0,Klaus Lindenberger,1,0
+500,1990,68.0,Rumania,1903.0,Ioan Lupescu,1,0
+501,1990,68.0,Rumania,1905.0,Danut Lupu,1,0
+502,1990,87.0,Alemania Occidental,6212.0,Lothar Matthaeus,1,0
+503,1990,11.0,Brasil,1717.0,Mauro Galvao,1,0
+504,1990,46.0,Irlanda,7472.0,Paul Mcgrath,1,0
+505,1990,31.0,Escocia,2382.0,Murdo Mcleod,1,0
+506,1990,44.0,Inglaterra,1339.0,Steve Mcmahon,1,0
+507,1990,31.0,Escocia,2385.0,David Mcpherson,1,0
+508,1990,35.0,Estados Unidos,2848.0,Tony Meola,1,0
+509,1990,46.0,Irlanda,7474.0,Kevin Moran,1,0
+510,1990,46.0,Irlanda,7475.0,Chris Morris,1,0
+511,1990,35.0,Estados Unidos,2853.0,Bruce Murray,1,0
+512,1990,73.0,Suecia,3470.0,Joakim Nilsson,1,0
+513,1990,80.0,Uruguay,5946.0,Santiago Ostolaza,1,0
+514,1990,85.0,Yugoslavia,3685.0,Darko Pancev,1,0
+515,1990,44.0,Inglaterra,1362.0,Paul Parker,1,0
+516,1990,44.0,Inglaterra,1364.0,Stuart Pearce,1,0
+517,1990,19.0,Colombia,2703.0,Luis Carlos Perea,1,0
+518,1990,8.0,Austria,4621.0,Anton Pfeffer,1,0
+519,1990,80.0,Uruguay,5963.0,Jose Pintos,1,0
+520,1990,88.0,URSS,377.0,Oleg Protasov,1,0
+521,1990,28.0,Egipto,2109.0,Ahmed Ramzy,1,0
+522,1990,8.0,Austria,4633.0,Andreas Reisinger,1,0
+523,1990,11.0,Brasil,1778.0,Ricardo Rocha,1,0
+524,1990,34.0,España,5047.0,Roberto,1,0
+525,1990,6.0,Argentina,5390.0,Oscar Ruggeri,1,0
+526,1990,73.0,Suecia,3504.0,Stefan Schwarz,1,0
+527,1990,6.0,Argentina,5405.0,Roberto Sensini,1,0
+528,1990,28.0,Egipto,2117.0,Ahmed Shoubeir,1,0
+529,1990,6.0,Argentina,5409.0,Juan Simon,1,0
+530,1990,86.0,Checoslovaquia,576.0,Tomas Skuhravy,1,0
+531,1990,80.0,Uruguay,6006.0,Ruben Sosa,1,0
+532,1990,85.0,Yugoslavia,3739.0,Dragan Stojkovic,1,0
+533,1990,73.0,Suecia,3513.0,Glenn Stromberg,1,0
+534,1990,73.0,Suecia,3525.0,Jonas Thern,1,0
+535,1990,35.0,Estados Unidos,2891.0,Steve Trittschuh,1,0
+536,1990,60.0,Paises Bajos,6495.0,Marco Van Basten,1,0
+537,1990,34.0,España,5092.0,Francisco Villaroya,1,0
+538,1990,85.0,Yugoslavia,3761.0,Zlatko Vujovic,1,0
+539,1990,85.0,Yugoslavia,3765.0,Zoran Vulic,1,0
+540,1990,35.0,Estados Unidos,2899.0,Michael Windischmann,1,0
+541,1990,60.0,Paises Bajos,6540.0,Jan Wouters,1,0
+542,1990,88.0,URSS,431.0,Andrei Zygmantovich,1,0
+543,1994,35.0,Estados Unidos,2771.0,Fernando Clavijo,1,1
+544,1994,56.0,México,7727.0,Luis Garcia,1,1
+545,1994,73.0,Suecia,3504.0,Stefan Schwarz,1,1
+546,1994,73.0,Suecia,3525.0,Jonas Thern,1,1
+547,1994,9.0,Bolivia,4707.0,Luis Cristaldo,0,1
+548,1994,9.0,Bolivia,4709.0,Marco Antonio Etcheverry,0,1
+549,1994,69.0,Rusia,303.0,Sergei Gorlukovich,0,1
+550,1994,12.0,Bulgaria,2966.0,Emil Kremenliev,0,1
+551,1994,11.0,Brasil,1689.0,Leonardo,0,1
+552,1994,34.0,España,5001.0,Miguel Angel Nadal,0,1
+553,1994,51.0,Italia,5714.0,Gianluca Pagliuca,0,1
+554,1994,14.0,Camerún,972.0,Rigobert Song,0,1
+555,1994,12.0,Bulgaria,3004.0,Tsanko Tsvetanov,0,1
+556,1994,68.0,Rumania,1955.0,Ion Vladoiu,0,1
+557,1994,51.0,Italia,5798.0,Gianfranco Zola,0,1
+558,1994,12.0,Bulgaria,3015.0,Zlatko Yankov,4,0
+559,1994,51.0,Italia,5516.0,Demetrio Albertini,3,0
+560,1994,34.0,España,4884.0,Jose Luis Caminero,3,0
+561,1994,12.0,Bulgaria,2949.0,Trifon Ivanov,3,0
+562,1994,60.0,Paises Bajos,6540.0,Jan Wouters,3,0
+563,1994,34.0,España,4845.0,Abelardo,2,0
+564,1994,4.0,Arabia Saudita,4775.0,Khaled Al Muwallid,2,0
+565,1994,19.0,Colombia,2634.0,Leonel Alvarez,2,0
+566,1994,4.0,Arabia Saudita,4818.0,Fuad Amin,2,0
+567,1994,73.0,Suecia,3343.0,Kennet Andersson,2,0
+568,1994,9.0,Bolivia,4696.0,Julio Baldivieso,2,0
+569,1994,6.0,Argentina,5202.0,Fernando Caceres,2,0
+570,1994,21.0,Corea del Sur,6952.0,Young Il Choi,2,0
+571,1994,51.0,Italia,5597.0,Alessandro Costacurta,2,0
+572,1994,73.0,Suecia,3371.0,Martin Dahlin,2,0
+573,1994,56.0,México,7706.0,Joaquin Del Olmo,2,0
+574,1994,1.0,Alemania,6087.0,Stefan Effenberg,2,0
+575,1994,57.0,Nigeria,4475.0,Michael Emenalo,2,0
+576,1994,34.0,España,4921.0,Albert Ferrer,2,0
+577,1994,56.0,México,7729.0,Alberto Garcia Aspe,2,0
+578,1994,58.0,Noruega,7406.0,Alf Haland,2,0
+579,1994,35.0,Estados Unidos,2813.0,John Harkes,2,0
+580,1994,1.0,Alemania,6129.0,Thomas Helmer,2,0
+581,1994,46.0,Irlanda,7459.0,Denis Irwin,2,0
+582,1994,69.0,Rusia,321.0,Dmitri Khlestov,2,0
+583,1994,1.0,Alemania,6174.0,Juergen Klinsmann,2,0
+584,1994,12.0,Bulgaria,2968.0,Iordan Letchkov,2,0
+585,1994,73.0,Suecia,3453.0,Roger Ljung,2,0
+586,1994,11.0,Brasil,1721.0,Mazinho,2,0
+587,1994,39.0,Grecia,2609.0,Tassos Mitropoulos,2,0
+588,1994,55.0,Marruecos,8387.0,Noureddine Naybet,2,0
+589,1994,69.0,Rusia,366.0,Yuri Nikiforov,2,0
+590,1994,57.0,Nigeria,4522.0,Sunday Oliseh,2,0
+591,1994,46.0,Irlanda,7480.0,Terry Phelan,2,0
+592,1994,68.0,Rumania,1926.0,Gheorghe Popescu,2,0
+593,1994,68.0,Rumania,1933.0,Florin Raducioiu,2,0
+594,1994,6.0,Argentina,5390.0,Oscar Ruggeri,2,0
+595,1994,68.0,Rumania,1943.0,Tibor Selymes,2,0
+596,1994,12.0,Bulgaria,3001.0,Hristo Stoichkov,2,0
+597,1994,56.0,México,7874.0,Claudio Suarez,2,0
+598,1994,74.0,Suiza,8205.0,Nestor Subiat,2,0
+599,1994,19.0,Colombia,2725.0,Carlos Valderrama,2,0
+600,1994,1.0,Alemania,6310.0,Martin Wagner,2,0
+601,1994,4.0,Arabia Saudita,4747.0,Mohamed Abdeljawad,1,0
+602,1994,57.0,Nigeria,4444.0,Mutiu Adepoju,1,0
+603,1994,4.0,Arabia Saudita,4756.0,Mohammed Al Deayea,1,0
+604,1994,4.0,Arabia Saudita,4757.0,Abdullah Al Dosari,1,0
+605,1994,13.0,Bélgica,6543.0,Philippe Albert,1,0
+606,1994,11.0,Brasil,1525.0,Aldair,1,0
+607,1994,39.0,Grecia,2576.0,Alexis Alexoudis,1,0
+608,1994,57.0,Nigeria,4457.0,Emmanuel Amunike,1,0
+609,1994,51.0,Italia,5529.0,Luigi Apolloni,1,0
+610,1994,55.0,Marruecos,8306.0,Rachid Azzouzi,1,0
+611,1994,51.0,Italia,5532.0,Dino Baggio,1,0
+612,1994,12.0,Bulgaria,2917.0,Krassimir Balakov,1,0
+613,1994,6.0,Argentina,5181.0,Gabriel Batistuta,1,0
+614,1994,68.0,Rumania,1855.0,Miodrag Belodedici,1,0
+615,1994,60.0,Paises Bajos,6362.0,Dennis Bergkamp,1,0
+616,1994,58.0,Noruega,7393.0,Stig Bjornebye,1,0
+617,1994,12.0,Bulgaria,2919.0,Daniel Borimirov,1,0
+618,1994,9.0,Bolivia,4698.0,Carlos Borja,1,0
+619,1994,13.0,Bélgica,6554.0,Vital Borkelmans,1,0
+620,1994,55.0,Marruecos,8324.0,Abdelmajid Bouyboud,1,0
+621,1994,74.0,Suiza,8057.0,Georges Bregy,1,0
+622,1994,1.0,Alemania,6066.0,Andreas Brehme,1,0
+623,1994,73.0,Suecia,3366.0,Tomas Brolin,1,0
+624,1994,11.0,Brasil,1567.0,Cafu,1,0
+625,1994,35.0,Estados Unidos,2764.0,Paul Caligiuri,1,0
+626,1994,34.0,España,4883.0,Jose Camarasa,1,0
+627,1994,56.0,México,7674.0,Jorge Campos,1,0
+628,1994,6.0,Argentina,5208.0,Claudio Caniggia,1,0
+629,1994,51.0,Italia,5575.0,Pierluigi Casiraghi,1,0
+630,1994,6.0,Argentina,5216.0,Jose Chamot,1,0
+631,1994,46.0,Irlanda,7449.0,Tommy Coyne,1,0
+632,1994,55.0,Marruecos,8334.0,Rachid Daoudi,1,0
+633,1994,19.0,Colombia,2659.0,Anthony De Avila,1,0
+634,1994,60.0,Paises Bajos,6380.0,Frank De Boer,1,0
+635,1994,35.0,Estados Unidos,2790.0,Thomas Dooley,1,0
+636,1994,68.0,Rumania,1883.0,Ilie Dumitrescu,1,0
+637,1994,11.0,Brasil,1605.0,Dunga,1,0
+638,1994,57.0,Nigeria,4470.0,Augustine Eguavoen,1,0
+639,1994,55.0,Marruecos,8341.0,Hababi El Arbi,1,0
+640,1994,55.0,Marruecos,8349.0,Abdelkarim El Hadrioui,1,0
+641,1994,55.0,Marruecos,8352.0,Taher El Khalej,1,0
+642,1994,4.0,Arabia Saudita,4824.0,Hamza Falatah,1,0
+643,1994,19.0,Colombia,2669.0,Herman Gaviria,1,0
+644,1994,34.0,España,4933.0,Goikoetxea,1,0
+645,1994,13.0,Bélgica,6627.0,Georges Grun,1,0
+646,1994,1.0,Alemania,6117.0,Thomas Haessler,1,0
+647,1994,39.0,Grecia,2586.0,Minas Hantzidis,1,0
+648,1994,74.0,Suiza,8113.0,Dominique Herr,1,0
+649,1994,19.0,Colombia,2678.0,Luis Herrera,1,0
+650,1994,34.0,España,4945.0,Fernando Hierro,1,0
+651,1994,74.0,Suiza,8116.0,Marc Hottiger,1,0
+652,1994,12.0,Bulgaria,2941.0,Petar Houbchev,1,0
+653,1994,46.0,Irlanda,7457.0,Ray Houghton,1,0
+654,1994,73.0,Suecia,3412.0,Klas Ingesson,1,0
+655,1994,4.0,Arabia Saudita,4829.0,Talal Jebrin,1,0
+656,1994,58.0,Noruega,7419.0,Erland Johnsen,1,0
+657,1994,60.0,Paises Bajos,6425.0,Wim Jonk,1,0
+658,1994,11.0,Brasil,1670.0,Jorginho,1,0
+659,1994,34.0,España,4959.0,Julio Salinas,1,0
+660,1994,39.0,Grecia,2588.0,Giannis Kalitzakis,1,0
+661,1994,14.0,Camerún,909.0,Raymond Kalla,1,0
+662,1994,14.0,Camerún,912.0,Andre Kana-Biyik,1,0
+663,1994,39.0,Grecia,2591.0,Vaios Karagiannis,1,0
+664,1994,69.0,Rusia,315.0,Valeri Karpin,1,0
+665,1994,46.0,Irlanda,7461.0,Roy Keane,1,0
+666,1994,46.0,Irlanda,7463.0,Gary Kelly,1,0
+667,1994,57.0,Nigeria,4495.0,Stephen Keshi,1,0
+668,1994,69.0,Rusia,319.0,Dmitri Kharin,1,0
+669,1994,21.0,Corea del Sur,7009.0,Joo Sung Kim,1,0
+670,1994,12.0,Bulgaria,2953.0,Ilian Kiryakov,1,0
+671,1994,74.0,Suiza,8130.0,Adrian Knup,1,0
+672,1994,21.0,Corea del Sur,7029.0,Jeong Woon Ko,1,0
+673,1994,60.0,Paises Bajos,6431.0,Ronald Koeman,1,0
+674,1994,1.0,Alemania,6180.0,Juergen Kohler,1,0
+675,1994,12.0,Bulgaria,2960.0,Emil Kostadinov,1,0
+676,1994,69.0,Rusia,339.0,Dmitri Kuznetsov,1,0
+677,1994,35.0,Estados Unidos,2831.0,Alexi Lalas,1,0
+678,1994,58.0,Noruega,7424.0,Oyvind Leonhardsen,1,0
+679,1994,34.0,España,4975.0,Luis Enrique,1,0
+680,1994,68.0,Rumania,1903.0,Ioan Lupescu,1,0
+681,1994,4.0,Arabia Saudita,4834.0,Ahmed Madani,1,0
+682,1994,51.0,Italia,5674.0,Paolo Maldini,1,0
+683,1994,39.0,Grecia,2605.0,Stelios Manolas,1,0
+684,1994,51.0,Italia,5685.0,Daniele Massaro,1,0
+685,1994,11.0,Brasil,1719.0,Mauro Silva,1,0
+686,1994,14.0,Camerún,933.0,Emile Mbouh,1,0
+687,1994,68.0,Rumania,1908.0,Gheorghe Mihali,1,0
+688,1994,12.0,Bulgaria,2974.0,Borislav Mikhailov,1,0
+689,1994,73.0,Suecia,3464.0,Hakan Mild,1,0
+690,1994,1.0,Alemania,6219.0,Andreas Moeller,1,0
+691,1994,55.0,Marruecos,8386.0,Hassan Nader,1,0
+692,1994,73.0,Suecia,3472.0,Roland Nilsson,1,0
+693,1994,57.0,Nigeria,4502.0,Chidi Nwanu,1,0
+694,1994,34.0,España,5011.0,Jorge Otero,1,0
+695,1994,68.0,Rumania,1919.0,Nica Panduru,1,0
+696,1994,21.0,Corea del Sur,7078.0,Jung Bae Park,1,0
+697,1994,74.0,Suiza,8165.0,Marco Pascolo,1,0
+698,1994,68.0,Rumania,1923.0,Dan Petrescu,1,0
+699,1994,9.0,Bolivia,4729.0,Gustavo Quinteros,1,0
+700,1994,56.0,México,7833.0,Ramon Ramirez,1,0
+701,1994,35.0,Estados Unidos,2867.0,Tab Ramos,1,0
+702,1994,6.0,Argentina,5375.0,Fernando Redondo,1,0
+703,1994,60.0,Paises Bajos,6469.0,Frank Rijkaard,1,0
+704,1994,9.0,Bolivia,4734.0,Miguel Angel Rimba,1,0
+705,1994,6.0,Argentina,5380.0,Leonardo Rodriguez,1,0
+706,1994,55.0,Marruecos,8402.0,Mohamed Samadi,1,0
+707,1994,13.0,Bélgica,6690.0,Enzo Scifo,1,0
+708,1994,21.0,Corea del Sur,7085.0,Hong Gi Shin,1,0
+709,1994,51.0,Italia,5765.0,Giuseppe Signori,1,0
+710,1994,12.0,Bulgaria,2998.0,Nasko Sirakov,1,0
+711,1994,13.0,Bélgica,6696.0,Rudi Smidts,1,0
+712,1994,14.0,Camerún,973.0,Jacques Songoo,1,0
+713,1994,9.0,Bolivia,4741.0,Vladimir Soria,1,0
+714,1994,58.0,Noruega,7438.0,Goran Sorloth,1,0
+715,1994,74.0,Suiza,8204.0,Juerg Studer,1,0
+716,1994,14.0,Camerún,975.0,Stephen Tataw,1,0
+717,1994,39.0,Grecia,2626.0,Giotis Tsalouchidis,1,0
+718,1994,60.0,Paises Bajos,6492.0,Stan Valckx,1,0
+719,1994,60.0,Paises Bajos,6508.0,Ulrich Van Gobbel,1,0
+720,1994,1.0,Alemania,6306.0,Rudi Voeller,1,0
+721,1994,13.0,Bélgica,6755.0,Josip Weber,1,0
+722,1994,60.0,Paises Bajos,6537.0,Aron Winter,1,0
+723,1994,60.0,Paises Bajos,6539.0,Rob Witschge,1,0
+724,1994,12.0,Bulgaria,3017.0,Ivaylo Yordanov,1,0
+725,1994,11.0,Brasil,1844.0,Zinho,1,0
+726,1998,6.0,Argentina,5337.0,Ariel Ortega,2,1
+727,1998,14.0,Camerún,972.0,Rigobert Song,2,1
+728,1998,36.0,Francia,3848.0,Laurent Blanc,1,1
+729,1998,60.0,Paises Bajos,6454.0,Arthur Numan,1,1
+730,1998,72.0,Sudáfrica,8281.0,Alfred Phiri,1,1
+731,1998,56.0,México,7833.0,Ramon Ramirez,1,1
+732,1998,26.0,Dinamarca,4291.0,Morten Wieghorst,1,1
+733,1998,36.0,Francia,4075.0,Zinedine Zidane,1,1
+734,1998,4.0,Arabia Saudita,4772.0,Mohammed Al Khlaiwi,0,1
+735,1998,44.0,Inglaterra,1215.0,David Beckham,0,1
+736,1998,31.0,Escocia,2298.0,Craig Burley,0,1
+737,1998,36.0,Francia,3894.0,Marcel Desailly,0,1
+738,1998,21.0,Corea del Sur,6965.0,Seok Ju Ha,0,1
+739,1998,14.0,Camerún,909.0,Raymond Kalla,0,1
+740,1998,60.0,Paises Bajos,6429.0,Patrick Kluivert,0,1
+741,1998,14.0,Camerún,916.0,Lauren,0,1
+742,1998,26.0,Dinamarca,4257.0,Miklos Molnar,0,1
+743,1998,12.0,Bulgaria,2980.0,Anatoli Nankov,0,1
+744,1998,56.0,México,7816.0,Pavel Pardo,0,1
+745,1998,52.0,Jamaica,7275.0,Darryl Powell,0,1
+746,1998,13.0,Bélgica,6739.0,Gert Verheyen,0,1
+747,1998,1.0,Alemania,6321.0,Christian Woerns,0,1
+748,1998,11.0,Brasil,1580.0,Cesar Sampaio,3,0
+749,1998,36.0,Francia,3895.0,Didier Deschamps,3,0
+750,1998,24.0,Croacia,1144.0,Dario Simic,3,0
+751,1998,24.0,Croacia,1149.0,Mario Stanic,3,0
+752,1998,11.0,Brasil,1525.0,Aldair,2,0
+753,1998,62.0,Paraguay,4307.0,Francisco Arce,2,0
+754,1998,24.0,Croacia,1076.0,Aljosa Asanovic,2,0
+755,1998,62.0,Paraguay,4320.0,Miguel Benitez,2,0
+756,1998,24.0,Croacia,1081.0,Slaven Bilic,2,0
+757,1998,56.0,México,7660.0,Cuauhtemoc Blanco,2,0
+758,1998,24.0,Croacia,1082.0,Zvonimir Boban,2,0
+759,1998,11.0,Brasil,1567.0,Cafu,2,0
+760,1998,6.0,Argentina,5216.0,Jose Chamot,2,0
+761,1998,55.0,Marruecos,8329.0,Said Chiba,2,0
+762,1998,78.0,Túnez,7184.0,Clayton,2,0
+763,1998,26.0,Dinamarca,4202.0,Soren Colding,2,0
+764,1998,51.0,Italia,5597.0,Alessandro Costacurta,2,0
+765,1998,60.0,Paises Bajos,6379.0,Edgar Davids,2,0
+766,1998,51.0,Italia,5612.0,Luigi Di Biagio,2,0
+767,1998,68.0,Rumania,1887.0,Iulian Filipescu,2,0
+768,1998,1.0,Alemania,6120.0,Didi Hamann,2,0
+769,1998,1.0,Alemania,6127.0,Joerg Heinrich,2,0
+770,1998,31.0,Escocia,2349.0,Darren Jackson,2,0
+771,1998,11.0,Brasil,1681.0,Junior Baiano,2,0
+772,1998,21.0,Corea del Sur,7048.0,Min Sung Lee,2,0
+773,1998,51.0,Italia,5674.0,Paolo Maldini,2,0
+774,1998,1.0,Alemania,6212.0,Lothar Matthaeus,2,0
+775,1998,53.0,Japón,139.0,Eisuke Nakanishi,2,0
+776,1998,57.0,Nigeria,4516.0,Uche Okechukwu,2,0
+777,1998,57.0,Nigeria,4517.0,Jay Jay Okocha,2,0
+778,1998,17.0,Chile,726.0,Nelson Parraguez,2,0
+779,1998,68.0,Rumania,1923.0,Dan Petrescu,2,0
+780,1998,68.0,Rumania,1926.0,Gheorghe Popescu,2,0
+781,1998,72.0,Sudáfrica,8284.0,Lucas Radebe,2,0
+782,1998,58.0,Noruega,7432.0,Kjetil Rekdal,2,0
+783,1998,26.0,Dinamarca,4272.0,Marc Rieper,2,0
+784,1998,17.0,Chile,749.0,Francisco Rojas,2,0
+785,1998,19.0,Colombia,2719.0,Jose Santa,2,0
+786,1998,8.0,Austria,4643.0,Peter Schoettel,2,0
+787,1998,24.0,Croacia,1146.0,Zvonimir Soldo,2,0
+788,1998,60.0,Paises Bajos,6483.0,Jaap Stam,2,0
+789,1998,90.0,RF de Yugoslavia,3739.0,Dragan Stojkovic,2,0
+790,1998,1.0,Alemania,6298.0,Michael Tarnat,2,0
+791,1998,26.0,Dinamarca,4287.0,Stig Tofting,2,0
+792,1998,17.0,Chile,789.0,Moises Villarroel,2,0
+793,1998,17.0,Chile,624.0,Clarence Acuña,1,0
+794,1998,57.0,Nigeria,4444.0,Mutiu Adepoju,1,0
+795,1998,34.0,España,4849.0,Aguilera,1,0
+796,1998,53.0,Japón,80.0,Yutaka Akita,1,0
+797,1998,4.0,Arabia Saudita,4761.0,Khamis Al Dossari,1,0
+798,1998,4.0,Arabia Saudita,4768.0,Sami Al Jaber,1,0
+799,1998,4.0,Arabia Saudita,4769.0,Mohammed Al Jahani,1,0
+800,1998,4.0,Arabia Saudita,4775.0,Khaled Al Muwallid,1,0
+801,1998,6.0,Argentina,5156.0,Matias Almeyda,1,0
+802,1998,34.0,España,4859.0,Guillermo Amor,1,0
+803,1998,14.0,Camerún,865.0,Didier Angibeaud,1,0
+804,1998,19.0,Colombia,2640.0,Victor Aristizabal,1,0
+805,1998,6.0,Argentina,5169.0,Roberto Ayala,1,0
+806,1998,62.0,Paraguay,4312.0,Celso Ayala,1,0
+807,1998,1.0,Alemania,6045.0,Markus Babbel,1,0
+808,1998,12.0,Bulgaria,2916.0,Georgi Bachev,1,0
+809,1998,78.0,Túnez,7166.0,Imed Ben Younes,1,0
+810,1998,58.0,Noruega,7392.0,Henning Berg,1,0
+811,1998,51.0,Italia,5544.0,Giuseppe Bergomi,1,0
+812,1998,19.0,Colombia,2645.0,Jorge Bermudez,1,0
+813,1998,78.0,Túnez,7171.0,Zoubeir Beya,1,0
+814,1998,13.0,Bélgica,6554.0,Vital Borkelmans,1,0
+815,1998,78.0,Túnez,7172.0,Riadh Bouazizi,1,0
+816,1998,52.0,Jamaica,7263.0,Deon Burton,1,0
+817,1998,44.0,Inglaterra,1235.0,Sol Campbell,1,0
+818,1998,51.0,Italia,5568.0,Fabio Cannavaro,1,0
+819,1998,52.0,Jamaica,7264.0,Peter Cargill,1,0
+820,1998,56.0,México,7678.0,Salvador Carmona,1,0
+821,1998,62.0,Paraguay,4348.0,Jose Luis Chilavert,1,0
+822,1998,55.0,Marruecos,8330.0,Youssef Chippo,1,0
+823,1998,21.0,Corea del Sur,6951.0,Yong Soo Choi,1,0
+824,1998,68.0,Rumania,1864.0,Liviu Ciobotariu,1,0
+825,1998,48.0,Irán,4095.0,Ali Daei,1,0
+826,1998,56.0,México,7701.0,Duilio Davino,1,0
+827,1998,52.0,Jamaica,7265.0,Christopher Dawes,1,0
+828,1998,13.0,Bélgica,6601.0,Eric Deflandre,1,0
+829,1998,51.0,Italia,5609.0,Alessandro Del Piero,1,0
+830,1998,51.0,Italia,5614.0,Angelo Di Livio,1,0
+831,1998,36.0,Francia,3902.0,Bernard Diomede,1,0
+832,1998,90.0,RF de Yugoslavia,3563.0,Goran Djorovic,1,0
+833,1998,31.0,Escocia,2319.0,Gordon Durie,1,0
+834,1998,57.0,Nigeria,4470.0,Augustine Eguavoen,1,0
+835,1998,62.0,Paraguay,4359.0,Julio Cesar Enciso,1,0
+836,1998,17.0,Chile,666.0,Fabian Estay,1,0
+837,1998,8.0,Austria,4562.0,Wolfgang Feiersinger,1,0
+838,1998,58.0,Noruega,7401.0,Havard Flo,1,0
+839,1998,58.0,Noruega,7403.0,Tore Andre Flo,1,0
+840,1998,72.0,Sudáfrica,8245.0,Quinton Fortune,1,0
+841,1998,17.0,Chile,677.0,Ronald Fuentes,1,0
+842,1998,31.0,Escocia,2327.0,Kevin Gallacher,1,0
+843,1998,56.0,México,7729.0,Alberto Garcia Aspe,1,0
+844,1998,78.0,Túnez,7196.0,Kais Ghodhbane,1,0
+845,1998,34.0,España,4941.0,Julen Guerrero,1,0
+846,1998,36.0,Francia,3934.0,Stephane Guivarch,1,0
+847,1998,55.0,Marruecos,8363.0,Abdeljalil Hadda,1,0
+848,1998,1.0,Alemania,6117.0,Thomas Haessler,1,0
+849,1998,68.0,Rumania,1891.0,Gheorghe Hagi,1,0
+850,1998,35.0,Estados Unidos,2814.0,Frankie Hejduk,1,0
+851,1998,26.0,Dinamarca,4219.0,Thomas Helveg,1,0
+852,1998,56.0,México,7754.0,Luis Hernandez,1,0
+853,1998,53.0,Japón,93.0,Takashi Hirano,1,0
+854,1998,26.0,Dinamarca,4221.0,Jes Hogh,1,0
+855,1998,53.0,Japón,96.0,Masami Ihara,1,0
+856,1998,57.0,Nigeria,4490.0,Victor Ikpeba,1,0
+857,1998,68.0,Rumania,1892.0,Adrian Ilie,1,0
+858,1998,12.0,Bulgaria,2944.0,Ilian Iliev,1,0
+859,1998,44.0,Inglaterra,1305.0,Paul Ince,1,0
+860,1998,14.0,Camerún,905.0,Samuel Ipoua,1,0
+861,1998,57.0,Nigeria,4491.0,Ben Iroha,1,0
+862,1998,72.0,Sudáfrica,8248.0,Pierre Issa,1,0
+863,1998,34.0,España,4952.0,Ivan Campo,1,0
+864,1998,12.0,Bulgaria,2949.0,Trifon Ivanov,1,0
+865,1998,72.0,Sudáfrica,8249.0,Willem Jackson,1,0
+866,1998,24.0,Croacia,3600.0,Robert Jarni,1,0
+867,1998,1.0,Alemania,6159.0,Jens Jeremies,1,0
+868,1998,60.0,Paises Bajos,6425.0,Wim Jonk,1,0
+869,1998,24.0,Croacia,1102.0,Krunoslav Jurcic,1,0
+870,1998,36.0,Francia,3949.0,Christian Karembeu,1,0
+871,1998,34.0,España,4961.0,Kiko,1,0
+872,1998,21.0,Corea del Sur,7022.0,Tae Young Kim,1,0
+873,1998,21.0,Corea del Sur,6996.0,Byung Ji Kim,1,0
+874,1998,12.0,Bulgaria,2954.0,Radostin Kishishev,1,0
+875,1998,1.0,Alemania,6174.0,Juergen Klinsmann,1,0
+876,1998,21.0,Corea del Sur,7030.0,Jong Soo Ko,1,0
+877,1998,21.0,Corea del Sur,7047.0,Lim Saeng Lee,1,0
+878,1998,11.0,Brasil,1689.0,Leonardo,1,0
+879,1998,58.0,Noruega,7424.0,Oyvind Leonhardsen,1,0
+880,1998,36.0,Francia,3974.0,Bixente Lizarazu,1,0
+881,1998,52.0,Jamaica,7274.0,Stephen Malcolm,1,0
+882,1998,48.0,Irán,4144.0,Mehrdad Minavand,1,0
+883,1998,90.0,RF de Yugoslavia,3664.0,Zoran Mirkovic,1,0
+884,1998,51.0,Italia,5698.0,Francesco Moriero,1,0
+885,1998,68.0,Rumania,1913.0,Dorinel Munteanu,1,0
+886,1998,58.0,Noruega,7428.0,Erik Mykland,1,0
+887,1998,34.0,España,5001.0,Miguel Angel Nadal,1,0
+888,1998,53.0,Japón,144.0,Hiroshi Nanami,1,0
+889,1998,26.0,Dinamarca,4260.0,Allan Nielsen,1,0
+890,1998,14.0,Camerún,951.0,Pierre Njanka,1,0
+891,1998,72.0,Sudáfrica,8278.0,David Nyathi,1,0
+892,1998,90.0,RF de Yugoslavia,3681.0,Perica Ognjenovic,1,0
+893,1998,56.0,México,7809.0,Jaime Ordiales,1,0
+894,1998,56.0,México,7817.0,Ricardo Pelaez Linares,1,0
+895,1998,12.0,Bulgaria,2989.0,Luboslav Penev,1,0
+896,1998,36.0,Francia,4005.0,Emmanuel Petit,1,0
+897,1998,90.0,RF de Yugoslavia,3701.0,Zeljko Petrovic,1,0
+898,1998,8.0,Austria,4621.0,Anton Pfeffer,1,0
+899,1998,35.0,Estados Unidos,2864.0,Eddie Pope,1,0
+900,1998,24.0,Croacia,3705.0,Robert Prosinecki,1,0
+901,1998,17.0,Chile,737.0,Miguel Ramirez,1,0
+902,1998,35.0,Estados Unidos,2870.0,David Regis,1,0
+903,1998,8.0,Austria,4632.0,Hannes Reinmayr,1,0
+904,1998,60.0,Paises Bajos,6466.0,Michael Reiziger,1,0
+905,1998,35.0,Estados Unidos,2871.0,Claudio Reyna,1,0
+906,1998,6.0,Argentina,5377.0,Carlos Roa,1,0
+907,1998,11.0,Brasil,1784.0,Roberto Carlos,1,0
+908,1998,62.0,Paraguay,4412.0,Aristides Rojas,1,0
+909,1998,17.0,Chile,756.0,Marcelo Salas,1,0
+910,1998,26.0,Dinamarca,4276.0,Michael Schjonberg,1,0
+911,1998,26.0,Dinamarca,4278.0,Peter Schmeichel,1,0
+912,1998,44.0,Inglaterra,1384.0,Paul Scholes,1,0
+913,1998,44.0,Inglaterra,1386.0,David Seaman,1,0
+914,1998,60.0,Paises Bajos,6478.0,Clarence Seedorf,1,0
+915,1998,6.0,Argentina,5405.0,Roberto Sensini,1,0
+916,1998,34.0,España,5065.0,Sergi,1,0
+917,1998,19.0,Colombia,2720.0,Mauricio Serna,1,0
+918,1998,44.0,Inglaterra,1389.0,Alan Shearer,1,0
+919,1998,6.0,Argentina,5408.0,Diego Simeone,1,0
+920,1998,78.0,Túnez,7252.0,Skander Souayah,1,0
+921,1998,13.0,Bélgica,6698.0,Lorenzo Staelens,1,0
+922,1998,90.0,RF de Yugoslavia,3732.0,Dejan Stankovic,1,0
+923,1998,24.0,Croacia,1151.0,Igor Stimac,1,0
+924,1998,12.0,Bulgaria,3001.0,Hristo Stoichkov,1,0
+925,1998,24.0,Croacia,3743.0,Davor Suker,1,0
+926,1998,17.0,Chile,767.0,Nelson Tapia,1,0
+927,1998,60.0,Paises Bajos,6511.0,Pierre Van Hooijdonk,1,0
+928,1998,8.0,Austria,4659.0,Ivica Vastic,1,0
+929,1998,6.0,Argentina,5436.0,Juan Veron,1,0
+930,1998,13.0,Bélgica,6751.0,Gordan Vidovic,1,0
+931,1998,36.0,Francia,4068.0,Patrick Vieira,1,0
+932,1998,56.0,México,7894.0,German Villa,1,0
+933,1998,6.0,Argentina,5438.0,Nelson Vivas,1,0
+934,1998,14.0,Camerún,984.0,Pierre Wome,1,0
+935,1998,53.0,Japón,183.0,Motohiro Yamaguchi,1,0
+936,1998,17.0,Chile,793.0,Ivan Zamorano,1,0
+937,1998,48.0,Irán,4183.0,Javad Zarincheh,1,0
+938,1998,11.0,Brasil,1835.0,Ze Carlos Ii,1,0
+939,2002,77.0,Turquía,5478.0,Alpay Ozalan,2,1
+940,2002,62.0,Paraguay,4296.0,Roberto Acuña,1,1
+941,2002,65.0,Portugal,3202.0,Beto,1,1
+942,2002,70.0,Senegal,1025.0,Salif Diao,1,1
+943,2002,11.0,Brasil,1794.0,Ronaldinho,1,1
+944,2002,51.0,Italia,5779.0,Francesco Totti,1,1
+945,2002,6.0,Argentina,5208.0,Claudio Caniggia,0,1
+946,2002,33.0,Eslovenia,3778.0,Nastja Ceh,0,1
+947,2002,36.0,Francia,3937.0,Thierry Henry,0,1
+948,2002,65.0,Portugal,3250.0,Joao Pinto,0,1
+949,2002,56.0,México,7777.0,Rafael Marquez,0,1
+950,2002,62.0,Paraguay,4403.0,Carlos Paredes,0,1
+951,2002,1.0,Alemania,6253.0,Carsten Ramelow,0,1
+952,2002,18.0,China,5504.0,Jiayi Shao,0,1
+953,2002,14.0,Camerún,974.0,Patrick Suffo,0,1
+954,2002,77.0,Turquía,5490.0,Hakan Unsal,0,1
+955,2002,1.0,Alemania,6047.0,Michael Ballack,3,0
+956,2002,77.0,Turquía,5453.0,Emre Belozoglu,3,0
+957,2002,77.0,Turquía,5469.0,Tugay Kerimoglu,3,0
+958,2002,69.0,Rusia,249.0,Dmitry Alenichev,2,0
+959,2002,77.0,Turquía,5450.0,Emre Asik,2,0
+960,2002,34.0,España,4874.0,Ruben Baraja,2,0
+961,2002,35.0,Estados Unidos,2752.0,Gregg Berhalter,2,0
+962,2002,51.0,Italia,5568.0,Fabio Cannavaro,2,0
+963,2002,27.0,Ecuador,21.0,Clever Chala,2,0
+964,2002,70.0,Senegal,1016.0,Aliou Cisse,2,0
+965,2002,70.0,Senegal,1019.0,Ferdinand Coly,2,0
+966,2002,70.0,Senegal,1020.0,Omar Daf,2,0
+967,2002,70.0,Senegal,1035.0,Khalilou Fadiga,2,0
+968,2002,78.0,Túnez,7193.0,Hassan Gabsi,2,0
+969,2002,80.0,Uruguay,5877.0,Pablo Garcia,2,0
+970,2002,1.0,Alemania,6120.0,Didi Hamann,2,0
+971,2002,35.0,Estados Unidos,2814.0,Frankie Hejduk,2,0
+972,2002,65.0,Portugal,3252.0,Jorge Costa,2,0
+973,2002,33.0,Eslovenia,3791.0,Amir Karic,2,0
+974,2002,21.0,Corea del Sur,7022.0,Tae Young Kim,2,0
+975,2002,35.0,Estados Unidos,2841.0,Pablo Mastroeni,2,0
+976,2002,33.0,Eslovenia,3800.0,Zeljko Milinovic,2,0
+977,2002,72.0,Sudáfrica,8267.0,Aaron Mokoena,2,0
+978,2002,33.0,Eslovenia,3805.0,Miran Pavlin,2,0
+979,2002,36.0,Francia,4005.0,Emmanuel Petit,2,0
+980,2002,35.0,Estados Unidos,2864.0,Eddie Pope,2,0
+981,2002,26.0,Dinamarca,4267.0,Christian Poulsen,2,0
+982,2002,80.0,Uruguay,5984.0,Marcelo Romero,2,0
+983,2002,11.0,Brasil,1796.0,Roque Junior,2,0
+984,2002,77.0,Turquía,5485.0,Hasan Sas,2,0
+985,2002,69.0,Rusia,405.0,Andrei Solomatin,2,0
+986,2002,64.0,Polonia,3159.0,Piotr Swierczewski,2,0
+987,2002,53.0,Japón,175.0,Kazuyuki Toda,2,0
+988,2002,13.0,Bélgica,6734.0,Yves Vanderhaeghe,2,0
+989,2002,1.0,Alemania,6325.0,Christian Ziege,2,0
+990,2002,80.0,Uruguay,5800.0,Sebastian Abreu,1,0
+991,2002,35.0,Estados Unidos,2739.0,Jeff Agoos,1,0
+992,2002,21.0,Corea del Sur,6925.0,Jung Hwan Ahn,1,0
+993,2002,77.0,Turquía,5448.0,Fatih Akyel,1,0
+994,2002,4.0,Arabia Saudita,4786.0,Nawaf Al Temiyat,1,0
+995,2002,4.0,Arabia Saudita,4788.0,Al Hasan Al Yami,1,0
+996,2002,73.0,Suecia,3332.0,Niclas Alexandersson,1,0
+997,2002,73.0,Suecia,3333.0,Marcus Allback,1,0
+998,2002,6.0,Argentina,5156.0,Matias Almeyda,1,0
+999,2002,62.0,Paraguay,4307.0,Francisco Arce,1,0
+1000,2002,56.0,México,7647.0,Jesus Arellano,1,0
+1001,2002,78.0,Túnez,7151.0,Khaled Badra,1,0
+1002,2002,64.0,Polonia,3027.0,Arkadiusz Bak,1,0
+1003,2002,6.0,Argentina,5181.0,Gabriel Batistuta,1,0
+1004,2002,1.0,Alemania,6050.0,Frank Baumann,1,0
+1005,2002,35.0,Estados Unidos,2749.0,DaMarcus Beasley,1,0
+1006,2002,70.0,Senegal,1012.0,Habib Beye,1,0
+1007,2002,56.0,México,7660.0,Cuauhtemoc Blanco,1,0
+1008,2002,78.0,Túnez,7172.0,Riadh Bouazizi,1,0
+1009,2002,62.0,Paraguay,4333.0,Julio Cesar Caceres,1,0
+1010,2002,11.0,Brasil,1567.0,Cafu,1,0
+1011,2002,70.0,Senegal,1013.0,Henri Camara,1,0
+1012,2002,44.0,Inglaterra,1235.0,Sol Campbell,1,0
+1013,2002,62.0,Paraguay,4340.0,Denis Caniza,1,0
+1014,2002,62.0,Paraguay,4342.0,Jose Cardozo,1,0
+1015,2002,80.0,Uruguay,5836.0,Fabian Carini,1,0
+1016,2002,56.0,México,7678.0,Salvador Carmona,1,0
+1017,2002,72.0,Sudáfrica,8240.0,Bradley Carnell,1,0
+1018,2002,22.0,Costa Rica,1978.0,Carlos Castro,1,0
+1019,2002,33.0,Eslovenia,3777.0,Ales Ceh,1,0
+1020,2002,22.0,Costa Rica,1980.0,Walter Centeno,1,0
+1021,2002,27.0,Ecuador,20.0,Jose Cevallos,1,0
+1022,2002,21.0,Corea del Sur,6930.0,Du Ri Cha,1,0
+1023,2002,6.0,Argentina,5216.0,Jose Chamot,1,0
+1024,2002,21.0,Corea del Sur,6945.0,Jin Cheul Choi,1,0
+1025,2002,33.0,Eslovenia,3780.0,Sebastijan Cimirotic,1,0
+1026,2002,51.0,Italia,5589.0,Francesco Coco,1,0
+1027,2002,44.0,Inglaterra,1249.0,Ashley Cole,1,0
+1028,2002,27.0,Ecuador,23.0,Ulises De La Cruz,1,0
+1029,2002,34.0,España,4908.0,De Pedro,1,0
+1030,2002,27.0,Ecuador,24.0,Agustin Delgado,1,0
+1031,2002,11.0,Brasil,1593.0,Denilson,1,0
+1032,2002,70.0,Senegal,1031.0,Bouba Diop,1,0
+1033,2002,70.0,Senegal,1033.0,El Hadji Diouf,1,0
+1034,2002,36.0,Francia,3908.0,Christophe Dugarry,1,0
+1035,2002,44.0,Inglaterra,1270.0,Rio Ferdinand,1,0
+1036,2002,46.0,Irlanda,7453.0,Steve Finnan,1,0
+1037,2002,14.0,Camerún,900.0,Marc-Vivien Foe,1,0
+1038,2002,62.0,Paraguay,4365.0,Juan Carlos Franco,1,0
+1039,2002,65.0,Portugal,3237.0,Frechaut,1,0
+1040,2002,35.0,Estados Unidos,2800.0,Brad Friedel,1,0
+1041,2002,1.0,Alemania,6100.0,Torsten Frings,1,0
+1042,2002,56.0,México,7729.0,Alberto Garcia Aspe,1,0
+1043,2002,62.0,Paraguay,4369.0,Diego Gavilan,1,0
+1044,2002,14.0,Camerún,901.0,Geremi,1,0
+1045,2002,78.0,Túnez,7196.0,Kais Ghodhbane,1,0
+1046,2002,11.0,Brasil,1643.0,Gilberto Silva,1,0
+1047,2002,22.0,Costa Rica,2001.0,Ronald Gomez,1,0
+1048,2002,6.0,Argentina,5273.0,Cristian Gonzalez,1,0
+1049,2002,27.0,Ecuador,36.0,Raul Guerron,1,0
+1050,2002,64.0,Polonia,3075.0,Tomasz Hajto,1,0
+1051,2002,26.0,Dinamarca,4218.0,Jan Heintze,1,0
+1052,2002,26.0,Dinamarca,4219.0,Thomas Helveg,1,0
+1053,2002,56.0,México,7754.0,Luis Hernandez,1,0
+1054,2002,44.0,Inglaterra,1292.0,Emile Heskey,1,0
+1055,2002,34.0,España,4945.0,Fernando Hierro,1,0
+1056,2002,21.0,Corea del Sur,6972.0,Myung Bo Hong,1,0
+1057,2002,53.0,Japón,97.0,Junichi Inamoto,1,0
+1058,2002,72.0,Sudáfrica,8248.0,Pierre Issa,1,0
+1059,2002,73.0,Suecia,3415.0,Andreas Jakobsson,1,0
+1060,2002,1.0,Alemania,6156.0,Carsten Jancker,1,0
+1061,2002,78.0,Túnez,7208.0,Zied Jaziri,1,0
+1062,2002,26.0,Dinamarca,4228.0,Niclas Jensen,1,0
+1063,2002,1.0,Alemania,6159.0,Jens Jeremies,1,0
+1064,2002,34.0,España,4956.0,Juanfran,1,0
+1065,2002,1.0,Alemania,6161.0,Oliver Kahn,1,0
+1066,2002,14.0,Camerún,909.0,Raymond Kalla,1,0
+1067,2002,27.0,Ecuador,42.0,Ivan Kaviedes,1,0
+1068,2002,1.0,Alemania,6165.0,Sebastian Kehl,1,0
+1069,2002,69.0,Rusia,323.0,Dmitry Khokhlov,1,0
+1070,2002,21.0,Corea del Sur,7014.0,Nam Il Kim,1,0
+1071,2002,1.0,Alemania,6176.0,Miroslav Klose,1,0
+1072,2002,24.0,Croacia,1108.0,Robert Kovac,1,0
+1073,2002,64.0,Polonia,3099.0,Marek Kozminski,1,0
+1074,2002,64.0,Polonia,3102.0,Jacek Krzynowek,1,0
+1075,2002,64.0,Polonia,3104.0,Cezary Kucharski,1,0
+1076,2002,73.0,Suecia,3440.0,Henrik Larsson,1,0
+1077,2002,14.0,Camerún,916.0,Lauren,1,0
+1078,2002,26.0,Dinamarca,4245.0,Martin Laursen,1,0
+1079,2002,21.0,Corea del Sur,7036.0,Chun Soo Lee,1,0
+1080,2002,21.0,Corea del Sur,7039.0,Eul Yong Lee,1,0
+1081,2002,21.0,Corea del Sur,7048.0,Min Sung Lee,1,0
+1082,2002,35.0,Estados Unidos,2834.0,Eddie Lewis,1,0
+1083,2002,18.0,China,5497.0,Tie Li,1,0
+1084,2002,18.0,China,5498.0,Weifeng Li,1,0
+1085,2002,18.0,China,5499.0,Xiaopeng Li,1,0
+1086,2002,64.0,Polonia,3119.0,Radoslaw Majdan,1,0
+1087,2002,77.0,Turquía,5473.0,Ilhan Mansiz,1,0
+1088,2002,22.0,Costa Rica,4976.0,Luis Marin,1,0
+1089,2002,22.0,Costa Rica,2021.0,Gilberto Martinez,1,0
+1090,2002,46.0,Irlanda,7470.0,Jason Mcateer,1,0
+1091,2002,72.0,Sudáfrica,8261.0,Benni Mccarthy,1,0
+1092,2002,78.0,Túnez,7231.0,Mourad Melki,1,0
+1093,2002,80.0,Uruguay,5924.0,Gustavo Mendez,1,0
+1094,2002,44.0,Inglaterra,1344.0,Danny Mills,1,0
+1095,2002,53.0,Japón,126.0,Tsuneyasu Miyamoto,1,0
+1096,2002,73.0,Suecia,3465.0,Johan Mjallby,1,0
+1097,2002,72.0,Sudáfrica,8268.0,Teboho Mokoena,1,0
+1098,2002,51.0,Italia,5693.0,Vincenzo Montella,1,0
+1099,2002,80.0,Uruguay,5929.0,Paolo Montero,1,0
+1100,2002,34.0,España,4998.0,Fernando Morientes,1,0
+1101,2002,53.0,Japón,141.0,Koji Nakata,1,0
+1102,2002,53.0,Japón,142.0,Masashi Nakayama,1,0
+1103,2002,1.0,Alemania,6232.0,Oliver Neuville,1,0
+1104,2002,72.0,Sudáfrica,8277.0,Siyabonga Nomvethe,1,0
+1105,2002,4.0,Arabia Saudita,4837.0,Mohammed Noor,1,0
+1106,2002,72.0,Sudáfrica,8279.0,Cyril Nzama,1,0
+1107,2002,14.0,Camerún,959.0,Salomon Olembe,1,0
+1108,2002,64.0,Polonia,3134.0,Emmanuel Olisadebe,1,0
+1109,2002,51.0,Italia,5718.0,Christian Panucci,1,0
+1110,2002,21.0,Corea del Sur,7075.0,Ji Sung Park,1,0
+1111,2002,77.0,Turquía,5481.0,Ergun Penbe,1,0
+1112,2002,56.0,México,7823.0,Oscar Perez,1,0
+1113,2002,65.0,Portugal,3297.0,Petit,1,0
+1114,2002,69.0,Rusia,372.0,Ruslan Pimenov,1,0
+1115,2002,27.0,Ecuador,59.0,Augusto Poroso,1,0
+1116,2002,72.0,Sudáfrica,8284.0,Lucas Radebe,1,0
+1117,2002,77.0,Turquía,5482.0,Rustu Recber,1,0
+1118,2002,46.0,Irlanda,7482.0,Steven Reid,1,0
+1119,2002,35.0,Estados Unidos,2871.0,Claudio Reyna,1,0
+1120,2002,11.0,Brasil,1784.0,Roberto Carlos,1,0
+1121,2002,80.0,Uruguay,5979.0,Dario Rodriguez,1,0
+1122,2002,33.0,Eslovenia,3809.0,Mladen Rudonja,1,0
+1123,2002,65.0,Portugal,3309.0,Rui Costa,1,0
+1124,2002,6.0,Argentina,5396.0,Walter Samuel,1,0
+1125,2002,26.0,Dinamarca,4275.0,Ebbe Sand,1,0
+1126,2002,62.0,Paraguay,4419.0,Roque Santa Cruz,1,0
+1127,2002,1.0,Alemania,6273.0,Bernd Schneider,1,0
+1128,2002,44.0,Inglaterra,1384.0,Paul Scholes,1,0
+1129,2002,69.0,Rusia,392.0,Igor Semshov,1,0
+1130,2002,69.0,Rusia,393.0,Dmitri Sennikov,1,0
+1131,2002,21.0,Corea del Sur,7084.0,Ki Hyeon Seol,1,0
+1132,2002,80.0,Uruguay,5998.0,Dario Silva,1,0
+1133,2002,6.0,Argentina,5408.0,Diego Simeone,1,0
+1134,2002,24.0,Croacia,1145.0,Josip Simunic,1,0
+1135,2002,69.0,Rusia,402.0,Alexei Smertin,1,0
+1136,2002,57.0,Nigeria,4533.0,Efetobore Sodje,1,0
+1137,2002,22.0,Costa Rica,2049.0,Mauricio Solis,1,0
+1138,2002,14.0,Camerún,972.0,Rigobert Song,1,0
+1139,2002,21.0,Corea del Sur,7089.0,Chong Gug Song,1,0
+1140,2002,46.0,Irlanda,7487.0,Steve Staunton,1,0
+1141,2002,77.0,Turquía,5488.0,Hakan Sukur,1,0
+1142,2002,73.0,Suecia,3520.0,Magnus Svensson,1,0
+1143,2002,62.0,Paraguay,4427.0,Ricardo Tavarelli,1,0
+1144,2002,14.0,Camerún,977.0,Bill Tchato,1,0
+1145,2002,27.0,Ecuador,71.0,Carlos Tenorio,1,0
+1146,2002,70.0,Senegal,1073.0,Pape Thiaw,1,0
+1147,2002,26.0,Dinamarca,4287.0,Stig Tofting,1,0
+1148,2002,24.0,Croacia,1158.0,Stjepan Tomas,1,0
+1149,2002,26.0,Dinamarca,4288.0,Jon Dahl Tomasson,1,0
+1150,2002,51.0,Italia,5776.0,Damiano Tommasi,1,0
+1151,2002,56.0,México,7878.0,Gerardo Torrado,1,0
+1152,2002,78.0,Túnez,7256.0,Hatem Trabelsi,1,0
+1153,2002,34.0,España,5086.0,Juan Carlos Valeron,1,0
+1154,2002,13.0,Bélgica,6709.0,Daniel van Buyten,1,0
+1155,2002,13.0,Bélgica,6716.0,Peter Van Der Heyden,1,0
+1156,2002,13.0,Bélgica,6725.0,Eric Van Meir,1,0
+1157,2002,13.0,Bélgica,6739.0,Gert Verheyen,1,0
+1158,2002,56.0,México,7893.0,Manuel Vidrio,1,0
+1159,2002,51.0,Italia,5787.0,Christian Vieri,1,0
+1160,2002,33.0,Eslovenia,3817.0,Muamer Vugdalic,1,0
+1161,2002,57.0,Nigeria,4542.0,Taribo West,1,0
+1162,2002,35.0,Estados Unidos,2901.0,Josh Wolff,1,0
+1163,2002,14.0,Camerún,984.0,Pierre Wome,1,0
+1164,2002,18.0,China,5508.0,Yunlong Xu,1,0
+1165,2002,18.0,China,5510.0,Pu Yang,1,0
+1166,2002,21.0,Corea del Sur,7095.0,Sang Chul Yoo,1,0
+1167,2002,51.0,Italia,5794.0,Gianluca Zambrotta,1,0
+1168,2002,51.0,Italia,5795.0,Cristiano Zanetti,1,0
+1169,2002,24.0,Croacia,1169.0,Boris Zivkovic,1,0
+1170,2002,72.0,Sudáfrica,8292.0,Sibusiso Zuma,1,0
+1171,2006,36.0,Francia,4075.0,Zinedine Zidane,3,1
+1172,2006,65.0,Portugal,3214.0,Costinha,2,1
+1173,2006,38.0,Ghana,1474.0,Asamoah Gyan,2,1
+1174,2006,3.0,Angola,7922.0,Andre,1,1
+1175,2006,60.0,Paises Bajos,6371.0,Khalid Boulahrouz,1,1
+1176,2006,51.0,Italia,5605.0,Daniele De Rossi,1,1
+1177,2006,65.0,Portugal,3221.0,Deco,1,1
+1178,2006,7.0,Australia,7307.0,Brett Emerton,1,1
+1179,2006,78.0,Túnez,7208.0,Zied Jaziri,1,1
+1180,2006,73.0,Suecia,3456.0,Teddy Lucic,1,1
+1181,2006,91.0,Serbia y Montenegro,3673.0,Albert Nadj,1,1
+1182,2006,60.0,Paises Bajos,6498.0,Giovanni Van Bronckhorst,1,1
+1183,2006,75.0,Togo,6902.0,Jean-Paul Abalo,0,1
+1184,2006,6.0,Argentina,5229.0,Leandro Cufre,0,1
+1185,2006,23.0,Costa de Marfil,6773.0,Cyrille Domoraud,0,1
+1186,2006,76.0,Trinidad y Tobago,611.0,Avery John,0,1
+1187,2006,91.0,Serbia y Montenegro,3618.0,Mateja Kezman,0,1
+1188,2006,35.0,Estados Unidos,2841.0,Pablo Mastroeni,0,1
+1189,2006,51.0,Italia,5686.0,Marco Materazzi,0,1
+1190,2006,56.0,México,7821.0,Luis Perez,0,1
+1191,2006,67.0,República Checa,555.0,Jan Polak,0,1
+1192,2006,35.0,Estados Unidos,2864.0,Eddie Pope,0,1
+1193,2006,44.0,Inglaterra,1380.0,Wayne Rooney,0,1
+1194,2006,24.0,Croacia,1144.0,Dario Simic,0,1
+1195,2006,24.0,Croacia,1145.0,Josip Simunic,0,1
+1196,2006,64.0,Polonia,3157.0,Radoslaw Sobolewski,0,1
+1197,2006,67.0,República Checa,588.0,Tomas Ujfalusi,0,1
+1198,2006,79.0,Ucrania,7121.0,Vladyslav Vashchuk,0,1
+1199,2006,38.0,Ghana,1488.0,Sulley Muntari,3,0
+1200,2006,36.0,Francia,4031.0,Willy Sagnol,3,0
+1201,2006,51.0,Italia,5794.0,Gianluca Zambrotta,3,0
+1202,2006,36.0,Francia,3820.0,Eric Abidal,2,0
+1203,2006,73.0,Suecia,3333.0,Marcus Allback,2,0
+1204,2006,38.0,Ghana,1458.0,Stephen Appiah,2,0
+1205,2006,1.0,Alemania,6064.0,Tim Borowski,2,0
+1206,2006,64.0,Polonia,3036.0,Artur Boruc,2,0
+1207,2006,78.0,Túnez,7172.0,Riadh Bouazizi,2,0
+1208,2006,11.0,Brasil,1567.0,Cafu,2,0
+1209,2006,7.0,Australia,7294.0,Tim Cahill,2,0
+1210,2006,51.0,Italia,5565.0,Mauro Camoranesi,2,0
+1211,2006,27.0,Ecuador,23.0,Ulises De La Cruz,2,0
+1212,2006,23.0,Costa de Marfil,6775.0,Didier Drogba,2,0
+1213,2006,38.0,Ghana,1473.0,Michael Essien,2,0
+1214,2006,1.0,Alemania,6100.0,Torsten Frings,2,0
+1215,2006,51.0,Italia,5641.0,Gennaro Gattuso,2,0
+1216,2006,91.0,Serbia y Montenegro,3580.0,Goran Gavrancic,2,0
+1217,2006,7.0,Australia,7313.0,Vince Grella,2,0
+1218,2006,44.0,Inglaterra,1287.0,Owen Hargreaves,2,0
+1219,2006,6.0,Argentina,5279.0,Gabriel Heinze,2,0
+1220,2006,78.0,Túnez,7205.0,Radhi Jaidi,2,0
+1221,2006,11.0,Brasil,1673.0,Juan,2,0
+1222,2006,91.0,Serbia y Montenegro,3621.0,Ognjen Koroman,2,0
+1223,2006,24.0,Croacia,1108.0,Robert Kovac,2,0
+1224,2006,21.0,Corea del Sur,7036.0,Chun Soo Lee,2,0
+1225,2006,3.0,Angola,7933.0,Loco,2,0
+1226,2006,67.0,República Checa,520.0,Vratislav Lokvenc,2,0
+1227,2006,48.0,Irán,4139.0,Mehrzad Madanchi,2,0
+1228,2006,36.0,Francia,3982.0,Claude Makelele,2,0
+1229,2006,65.0,Portugal,3262.0,Maniche,2,0
+1230,2006,22.0,Costa Rica,4976.0,Luis Marin,2,0
+1231,2006,56.0,México,7777.0,Rafael Marquez,2,0
+1232,2006,6.0,Argentina,5314.0,Javier Mascherano,2,0
+1233,2006,1.0,Alemania,6215.0,Christoph Metzelder,2,0
+1234,2006,53.0,Japón,126.0,Tsuneyasu Miyamoto,2,0
+1235,2006,48.0,Irán,4154.0,Javad Nekounam,2,0
+1236,2006,65.0,Portugal,3280.0,Nuno Valente,2,0
+1237,2006,1.0,Alemania,6238.0,David Odonkor,2,0
+1238,2006,62.0,Paraguay,4403.0,Carlos Paredes,2,0
+1239,2006,65.0,Portugal,3297.0,Petit,2,0
+1240,2006,34.0,España,5028.0,Carles Puyol,2,0
+1241,2006,65.0,Portugal,3305.0,Ricardo Carvalho,2,0
+1242,2006,75.0,Togo,6919.0,Alaixys Romao,2,0
+1243,2006,11.0,Brasil,1795.0,Ronaldo,2,0
+1244,2006,79.0,Ucrania,7114.0,Andriy Rusol,2,0
+1245,2006,36.0,Francia,4032.0,Louis Saha,2,0
+1246,2006,75.0,Togo,6920.0,Moustapha Salifou,2,0
+1247,2006,6.0,Argentina,5411.0,Juan Sorin,2,0
+1248,2006,79.0,Ucrania,7119.0,Vyacheslav Sviderskyi,2,0
+1249,2006,44.0,Inglaterra,1411.0,John Terry,2,0
+1250,2006,56.0,México,7878.0,Gerardo Torrado,2,0
+1251,2006,24.0,Croacia,1159.0,Igor Tudor,2,0
+1252,2006,27.0,Ecuador,4746.0,Antonio Valencia,2,0
+1253,2006,60.0,Paises Bajos,6496.0,Mark Van Bommel,2,0
+1254,2006,76.0,Trinidad y Tobago,620.0,Aurtis Whitley,2,0
+1255,2006,3.0,Angola,7943.0,Ze Kalanga,2,0
+1256,2006,62.0,Paraguay,4296.0,Roberto Acuña,1,0
+1257,2006,38.0,Ghana,1443.0,Eric Addo,1,0
+1258,2006,38.0,Ghana,1444.0,Otto Addo,1,0
+1259,2006,75.0,Togo,6903.0,Emmanuel Adebayor,1,0
+1260,2006,11.0,Brasil,1522.0,Adriano,1,0
+1261,2006,21.0,Corea del Sur,6925.0,Jung Hwan Ahn,1,0
+1262,2006,4.0,Arabia Saudita,4759.0,Ahmed Al Dosari,1,0
+1263,2006,4.0,Arabia Saudita,4762.0,Omar Al Ghamdi,1,0
+1264,2006,4.0,Arabia Saudita,4768.0,Sami Al Jaber,1,0
+1265,2006,4.0,Arabia Saudita,4786.0,Nawaf Al Temiyat,1,0
+1266,2006,34.0,España,4851.0,David Albelda,1,0
+1267,2006,73.0,Suecia,3332.0,Niclas Alexandersson,1,0
+1268,2006,7.0,Australia,7283.0,John Aloisi,1,0
+1269,2006,78.0,Túnez,7150.0,Anis Ayari,1,0
+1270,2006,75.0,Togo,6909.0,Yao Aziawonou,1,0
+1271,2006,22.0,Costa Rica,1965.0,Gabriel Badilla,1,0
+1272,2006,64.0,Polonia,3028.0,Jacek Bak,1,0
+1273,2006,1.0,Alemania,6047.0,Michael Ballack,1,0
+1274,2006,74.0,Suiza,8047.0,Tranquillo Barnetta,1,0
+1275,2006,62.0,Paraguay,4316.0,Edgar Barreto,1,0
+1276,2006,64.0,Polonia,3030.0,Marcin Baszczynski,1,0
+1277,2006,65.0,Portugal,3203.0,Boa Morte,1,0
+1278,2006,38.0,Ghana,1465.0,Derek Boateng,1,0
+1279,2006,23.0,Costa de Marfil,6765.0,Arthur Boka,1,0
+1280,2006,74.0,Suiza,8064.0,Ricardo Cabanas,1,0
+1281,2006,6.0,Argentina,5205.0,Esteban Cambiasso,1,0
+1282,2006,62.0,Paraguay,4340.0,Denis Caniza,1,0
+1283,2006,44.0,Inglaterra,1236.0,Jamie Carragher,1,0
+1284,2006,27.0,Ecuador,19.0,Segundo Castillo,1,0
+1285,2006,56.0,México,7685.0,Jose Castro,1,0
+1286,2006,78.0,Túnez,7179.0,Adel Chedli,1,0
+1287,2006,78.0,Túnez,7182.0,Yassine Chikhaoui,1,0
+1288,2006,21.0,Corea del Sur,6945.0,Jin Cheul Choi,1,0
+1289,2006,65.0,Portugal,3213.0,Ricardo Costa,1,0
+1290,2006,6.0,Argentina,5225.0,Hernan Crespo,1,0
+1291,2006,44.0,Inglaterra,1255.0,Peter Crouch,1,0
+1292,2006,6.0,Argentina,5226.0,Julio Cruz,1,0
+1293,2006,7.0,Australia,7299.0,Jason Culina,1,0
+1294,2006,60.0,Paises Bajos,6383.0,Tim De Cler,1,0
+1295,2006,74.0,Suiza,8071.0,Philipp Degen,1,0
+1296,2006,3.0,Angola,7924.0,Delgado,1,0
+1297,2006,23.0,Costa de Marfil,6770.0,Aruna Dindane,1,0
+1298,2006,74.0,Suiza,8073.0,Johan Djourou,1,0
+1299,2006,62.0,Paraguay,4357.0,Julio Dos Santos,1,0
+1300,2006,91.0,Serbia y Montenegro,3569.0,Ivica Dragutinovic,1,0
+1301,2006,91.0,Serbia y Montenegro,3571.0,Milan Dudic,1,0
+1302,2006,91.0,Serbia y Montenegro,3572.0,Igor Duljaj,1,0
+1303,2006,23.0,Costa de Marfil,6776.0,Emmanuel Eboue,1,0
+1304,2006,11.0,Brasil,1619.0,Emerson,1,0
+1305,2006,34.0,España,4917.0,Cesc Fabregas,1,0
+1306,2006,65.0,Portugal,3235.0,Luis Figo,1,0
+1307,2006,22.0,Costa Rica,1995.0,Danny Fonseca,1,0
+1308,2006,56.0,México,7720.0,Jose Fonseca,1,0
+1309,2006,74.0,Suiza,8093.0,Alexander Frei,1,0
+1310,2006,1.0,Alemania,6099.0,Arne Friedrich,1,0
+1311,2006,44.0,Inglaterra,1282.0,Steven Gerrard,1,0
+1312,2006,11.0,Brasil,1642.0,Gilberto Melo,1,0
+1313,2006,48.0,Irán,4111.0,Yahya Golmohammadi,1,0
+1314,2006,22.0,Costa Rica,2001.0,Ronald Gomez,1,0
+1315,2006,6.0,Argentina,5274.0,Luis Gonzalez,1,0
+1316,2006,22.0,Costa Rica,2003.0,Leonardo Gonzalez,1,0
+1317,2006,76.0,Trinidad y Tobago,607.0,Cyd Gray,1,0
+1318,2006,51.0,Italia,5652.0,Fabio Grosso,1,0
+1319,2006,67.0,República Checa,468.0,Zdenek Grygera,1,0
+1320,2006,78.0,Túnez,7198.0,Haykel Guemamdia,1,0
+1321,2006,78.0,Túnez,7200.0,Karim Haggui,1,0
+1322,2006,60.0,Paises Bajos,6413.0,John Heitinga,1,0
+1323,2006,76.0,Trinidad y Tobago,608.0,Shaka Hislop,1,0
+1324,2006,27.0,Ecuador,38.0,Ivan Hurtado,1,0
+1325,2006,51.0,Italia,5656.0,Vincenzo Iaquinta,1,0
+1326,2006,3.0,Angola,7928.0,Jamba,1,0
+1327,2006,3.0,Angola,7929.0,Joao Ricardo,1,0
+1328,2006,76.0,Trinidad y Tobago,613.0,Kenwyne Jones,1,0
+1329,2006,73.0,Suecia,3425.0,Mattias Jonson,1,0
+1330,2006,48.0,Irán,4126.0,Hossein Kaabi,1,0
+1331,2006,53.0,Japón,107.0,Akira Kaji,1,0
+1332,2006,79.0,Ucrania,7107.0,Maksym Kalinichenko,1,0
+1333,2006,4.0,Arabia Saudita,4831.0,Saud Kariri,1,0
+1334,2006,53.0,Japón,110.0,Yoshikatsu Kawaguchi,1,0
+1335,2006,23.0,Costa de Marfil,6786.0,Kader Keita,1,0
+1336,2006,21.0,Corea del Sur,7025.0,Young Chul Kim,1,0
+1337,2006,21.0,Corea del Sur,7001.0,Dong Jin Kim,1,0
+1338,2006,21.0,Corea del Sur,7005.0,Jin Kyu Kim,1,0
+1339,2006,24.0,Croacia,1107.0,Niko Kovac,1,0
+1340,2006,91.0,Serbia y Montenegro,3631.0,Mladen Krstajic,1,0
+1341,2006,64.0,Polonia,3102.0,Jacek Krzynowek,1,0
+1342,2006,60.0,Paises Bajos,6437.0,Dirk Kuyt,1,0
+1343,2006,44.0,Inglaterra,1320.0,Frank Lampard,1,0
+1344,2006,73.0,Suecia,3440.0,Henrik Larsson,1,0
+1345,2006,21.0,Corea del Sur,7041.0,Ho Lee,1,0
+1346,2006,35.0,Estados Unidos,2834.0,Eddie Lewis,1,0
+1347,2006,73.0,Suecia,3451.0,Tobias Linderoth,1,0
+1348,2006,73.0,Suecia,3454.0,Fredrik Ljungberg,1,0
+1349,2006,11.0,Brasil,1693.0,Lucio,1,0
+1350,2006,74.0,Suiza,8145.0,Ludovic Magnin,1,0
+1351,2006,36.0,Francia,3983.0,Florent Malouda,1,0
+1352,2006,75.0,Togo,6914.0,Cherif Toure Mamam,1,0
+1353,2006,34.0,España,4982.0,Carlos Marchena,1,0
+1354,2006,60.0,Paises Bajos,6446.0,Joris Mathijsen,1,0
+1355,2006,27.0,Ecuador,47.0,Edison Mendez,1,0
+1356,2006,3.0,Angola,7940.0,Mendonca,1,0
+1357,2006,38.0,Ghana,1485.0,John Mensah,1,0
+1358,2006,65.0,Portugal,3269.0,Miguel,1,0
+1359,2006,78.0,Túnez,7237.0,Jaouhar Mnari,1,0
+1360,2006,38.0,Ghana,1487.0,Habib Mohamed,1,0
+1361,2006,53.0,Japón,127.0,Teruyuki Moniwa,1,0
+1362,2006,7.0,Australia,7346.0,Craig Moore,1,0
+1363,2006,27.0,Ecuador,51.0,Cristian Mora,1,0
+1364,2006,79.0,Ucrania,7110.0,Andriy Nesmachnyi,1,0
+1365,2006,62.0,Paraguay,4398.0,Jorge Núñez,1,0
+1366,2006,65.0,Portugal,3279.0,Nuno Gomes,1,0
+1367,2006,35.0,Estados Unidos,2859.0,Oguchi Onyewu,1,0
+1368,2006,60.0,Paises Bajos,6455.0,Andre Ooijer,1,0
+1369,2006,38.0,Ghana,1495.0,John Pantsil,1,0
+1370,2006,21.0,Corea del Sur,7072.0,Chu Young Park,1,0
+1371,2006,65.0,Portugal,3285.0,Pauleta,1,0
+1372,2006,65.0,Portugal,3287.0,Paulo Ferreira,1,0
+1373,2006,56.0,México,7824.0,Gonzalo Pineda,1,0
+1374,2006,24.0,Croacia,1133.0,Stipe Pletikosa,1,0
+1375,2006,1.0,Alemania,6248.0,Lukas Podolski,1,0
+1376,2006,64.0,Polonia,3146.0,Arkadiusz Radomski,1,0
+1377,2006,34.0,España,5043.0,Jose Antonio Reyes,1,0
+1378,2006,35.0,Estados Unidos,2871.0,Claudio Reyna,1,0
+1379,2006,36.0,Francia,4021.0,Franck Ribery,1,0
+1380,2006,65.0,Portugal,5044.0,Ricardo,1,0
+1381,2006,60.0,Paises Bajos,6471.0,Arjen Robben,1,0
+1382,2006,11.0,Brasil,1787.0,Robinho,1,0
+1383,2006,44.0,Inglaterra,1377.0,Paul Robinson,1,0
+1384,2006,6.0,Argentina,5381.0,Maxi Rodriguez,1,0
+1385,2006,56.0,México,7844.0,Francisco Rodriguez,1,0
+1386,2006,65.0,Portugal,3307.0,Cristiano Ronaldo,1,0
+1387,2006,67.0,República Checa,564.0,Tomas Rosicky,1,0
+1388,2006,67.0,República Checa,565.0,David Rozehnal,1,0
+1389,2006,56.0,México,7860.0,Carlos Salcido,1,0
+1390,2006,76.0,Trinidad y Tobago,617.0,Brent Sancho,1,0
+1391,2006,53.0,Japón,162.0,Alessandro Santos,1,0
+1392,2006,6.0,Argentina,5401.0,Javier Saviola,1,0
+1393,2006,1.0,Alemania,6280.0,Bastian Schweinsteiger,1,0
+1394,2006,74.0,Suiza,8188.0,Philippe Senderos,1,0
+1395,2006,79.0,Ucrania,7115.0,Oleg Shelayev,1,0
+1396,2006,38.0,Ghana,1506.0,Illiasu Shilla,1,0
+1397,2006,64.0,Polonia,3155.0,Ebi Smolarek,1,0
+1398,2006,60.0,Paises Bajos,6481.0,Wesley Sneijder,1,0
+1399,2006,22.0,Costa Rica,2049.0,Mauricio Solis,1,0
+1400,2006,74.0,Suiza,8196.0,Christoph Spycher,1,0
+1401,2006,24.0,Croacia,1148.0,Darijo Srna,1,0
+1402,2006,91.0,Serbia y Montenegro,3732.0,Dejan Stankovic,1,0
+1403,2006,74.0,Suiza,8202.0,Marco Streller,1,0
+1404,2006,53.0,Japón,170.0,Naohiro Takahara,1,0
+1405,2006,75.0,Togo,6923.0,Massamasso Tchangai,1,0
+1406,2006,27.0,Ecuador,71.0,Carlos Tenorio,1,0
+1407,2006,48.0,Irán,4180.0,Andranik Teymourian,1,0
+1408,2006,76.0,Trinidad y Tobago,619.0,Densill Theobald,1,0
+1409,2006,36.0,Francia,4051.0,Lilian Thuram,1,0
+1410,2006,51.0,Italia,5779.0,Francesco Totti,1,0
+1411,2006,78.0,Túnez,7256.0,Hatem Trabelsi,1,0
+1412,2006,79.0,Ucrania,7120.0,Anatoliy Tymoschuk,1,0
+1413,2006,22.0,Costa Rica,2053.0,Michael Umaña,1,0
+1414,2006,62.0,Paraguay,4432.0,Nelson Valdez,1,0
+1415,2006,60.0,Paises Bajos,6503.0,Rafael Van Der Vaart,1,0
+1416,2006,36.0,Francia,4068.0,Patrick Vieira,1,0
+1417,2006,74.0,Suiza,8212.0,Johann Vogel,1,0
+1418,2006,74.0,Suiza,8223.0,Raphael Wicky,1,0
+1419,2006,7.0,Australia,7383.0,Luke Wilkshire,1,0
+1420,2006,74.0,Suiza,8229.0,Hakan Yakin,1,0
+1421,2006,79.0,Ucrania,7124.0,Vladimir Yezerskyi,1,0
+1422,2006,76.0,Trinidad y Tobago,623.0,Dwight Yorke,1,0
+1423,2006,48.0,Irán,4182.0,Ferydoon Zandi,1,0
+1424,2006,64.0,Polonia,3183.0,Michal Zewlakow,1,0
+1425,2006,56.0,México,7898.0,Zinha,1,0
+1426,2006,23.0,Costa de Marfil,6805.0,Didier Zokora,1,0
+1427,2010,60.0,Paises Bajos,6413.0,John Heitinga,1,1
+1428,2010,11.0,Brasil,1684.0,Kaká,1,1
+1429,2010,71.0,Serbia,3641.0,Aleksandar Lukovic,1,1
+1430,2010,74.0,Suiza,8049.0,Valon Behrami,0,1
+1431,2010,7.0,Australia,7294.0,Tim Cahill,0,1
+1432,2010,65.0,Portugal,3213.0,Ricardo Costa,0,1
+1433,2010,17.0,Chile,667.0,Marco Estrada,0,1
+1434,2010,5.0,Argelia,6859.0,Abdelkader Ghezzal,0,1
+1435,2010,36.0,Francia,3928.0,Yoann Gourcuff,0,1
+1436,2010,57.0,Nigeria,4493.0,Sani Kaita,0,1
+1437,2010,7.0,Australia,7327.0,Harry Kewell,0,1
+1438,2010,72.0,Sudáfrica,8254.0,Itumeleng Khune,0,1
+1439,2010,1.0,Alemania,6176.0,Miroslav Klose,0,1
+1440,2010,80.0,Uruguay,5907.0,Nicolas Lodeiro,0,1
+1441,2010,80.0,Uruguay,6010.0,Luis Suarez,0,1
+1442,2010,5.0,Argelia,6897.0,Anther Yahia,0,1
+1443,2010,62.0,Paraguay,4334.0,Victor Caceres,3,0
+1444,2010,60.0,Paises Bajos,6389.0,Nigel De Jong,3,0
+1445,2010,60.0,Paises Bajos,6505.0,Gregory Van Der Wiel,3,0
+1446,2010,38.0,Ghana,1462.0,Andre Ayew,2,0
+1447,2010,1.0,Alemania,6075.0,Cacau,2,0
+1448,2010,17.0,Chile,644.0,Carlos Carmona,2,0
+1449,2010,44.0,Inglaterra,1236.0,Jamie Carragher,2,0
+1450,2010,35.0,Estados Unidos,2768.0,Steve Cherundolo,2,0
+1451,2010,72.0,Sudáfrica,8242.0,Kagisho Dikgacoi,2,0
+1452,2010,53.0,Japón,86.0,Yasuhito Endo,2,0
+1453,2010,17.0,Chile,671.0,Matias Fernandez,2,0
+1454,2010,35.0,Estados Unidos,2798.0,Robbie Findley,2,0
+1455,2010,1.0,Alemania,6099.0,Arne Friedrich,2,0
+1456,2010,80.0,Uruguay,5875.0,Jorge Fucile,2,0
+1457,2010,6.0,Argentina,5277.0,Jonas Gutierrez,2,0
+1458,2010,44.0,Inglaterra,1310.0,Glen Johnson,2,0
+1459,2010,33.0,Eslovenia,3790.0,Bojan Jokic,2,0
+1460,2010,56.0,México,7762.0,Efrain Juarez,2,0
+1461,2010,26.0,Dinamarca,4234.0,Simon Kjaer,2,0
+1462,2010,5.0,Argelia,6871.0,Medhi Lacen,2,0
+1463,2010,6.0,Argentina,5314.0,Javier Mascherano,2,0
+1464,2010,14.0,Camerún,929.0,Stephane Mbia,2,0
+1465,2010,17.0,Chile,704.0,Gary Medel,2,0
+1466,2010,38.0,Ghana,1485.0,John Mensah,2,0
+1467,2010,7.0,Australia,7346.0,Craig Moore,2,0
+1468,2010,1.0,Alemania,6226.0,Thomas Müller,2,0
+1469,2010,53.0,Japón,135.0,Yuto Nagatomo,2,0
+1470,2010,59.0,Nueva Zelanda,5130.0,Ryan Nelsen,2,0
+1471,2010,14.0,Camerún,954.0,Nicolas Nkoulou,2,0
+1472,2010,57.0,Nigeria,4513.0,Chinedu Ogbuke Obasi,2,0
+1473,2010,41.0,Honduras,233.0,Wilson Palacios,2,0
+1474,2010,80.0,Uruguay,5958.0,Diego Perez,2,0
+1475,2010,17.0,Chile,730.0,Waldo Ponce,2,0
+1476,2010,11.0,Brasil,1769.0,Ramires,2,0
+1477,2010,60.0,Paises Bajos,6471.0,Arjen Robben,2,0
+1478,2010,32.0,Eslovaquia,813.0,Zdenko Strba,2,0
+1479,2010,65.0,Portugal,3321.0,Tiago,2,0
+1480,2010,36.0,Francia,4055.0,Jeremy Toulalan,2,0
+1481,2010,60.0,Paises Bajos,6496.0,Mark Van Bommel,2,0
+1482,2010,60.0,Paises Bajos,6498.0,Giovanni Van Bronckhorst,2,0
+1483,2010,60.0,Paises Bajos,6518.0,Robin Van Persie,2,0
+1484,2010,5.0,Argelia,6898.0,Hassan Yebda,2,0
+1485,2010,53.0,Japón,79.0,Yuki Abe,1,0
+1486,2010,36.0,Francia,3820.0,Eric Abidal,1,0
+1487,2010,38.0,Ghana,1445.0,Lee Addy,1,0
+1488,2010,62.0,Paraguay,4302.0,Antolin Alcaraz,1,0
+1489,2010,65.0,Portugal,3193.0,Hugo Almeida,1,0
+1490,2010,34.0,España,4857.0,Xabi Alonso,1,0
+1491,2010,35.0,Estados Unidos,2741.0,Jozy Altidore,1,0
+1492,2010,38.0,Ghana,1457.0,Anthony Annan,1,0
+1493,2010,1.0,Alemania,6041.0,Dennis Aogo,1,0
+1494,2010,80.0,Uruguay,5812.0,Egidio Arevalo,1,0
+1495,2010,57.0,Nigeria,4459.0,Yussuf Ayila,1,0
+1496,2010,74.0,Suiza,8047.0,Tranquillo Barnetta,1,0
+1497,2010,14.0,Camerún,870.0,Sebastien Bassong,1,0
+1498,2010,35.0,Estados Unidos,2749.0,DaMarcus Beasley,1,0
+1499,2010,7.0,Australia,7288.0,Michael Beauchamp,1,0
+1500,2010,74.0,Suiza,8050.0,Diego Benaglio,1,0
+1501,2010,26.0,Dinamarca,4192.0,Nicklas Bendtner,1,0
+1502,2010,33.0,Eslovenia,3774.0,Valter Birsa,1,0
+1503,2010,35.0,Estados Unidos,2755.0,Carlos Bocanegra,1,0
+1504,2010,6.0,Argentina,5190.0,Mario Bolatti,1,0
+1505,2010,60.0,Paises Bajos,6371.0,Khalid Boulahrouz,1,0
+1506,2010,34.0,España,4879.0,Sergio Busquets,1,0
+1507,2010,80.0,Uruguay,5827.0,Martin Caceres,1,0
+1508,2010,51.0,Italia,5565.0,Mauro Camoranesi,1,0
+1509,2010,51.0,Italia,5568.0,Fabio Cannavaro,1,0
+1510,2010,34.0,España,4887.0,Joan Capdevila,1,0
+1511,2010,56.0,México,7683.0,Israel Castro,1,0
+1512,2010,33.0,Eslovenia,3779.0,Bostjan Cesar,1,0
+1513,2010,21.0,Corea del Sur,6930.0,Du Ri Cha,1,0
+1514,2010,41.0,Honduras,200.0,Osman Chavez,1,0
+1515,2010,51.0,Italia,5585.0,Giorgio Chiellini,1,0
+1516,2010,21.0,Corea del Sur,6938.0,Yong Hyung Cho,1,0
+1517,2010,35.0,Estados Unidos,2770.0,Ricardo Clark,1,0
+1518,2010,65.0,Portugal,3210.0,Fabio Coentrao,1,0
+1519,2010,33.0,Eslovenia,3782.0,Zlatko Dedic,1,0
+1520,2010,23.0,Costa de Marfil,6768.0,Guy Demel,1,0
+1521,2010,35.0,Estados Unidos,2782.0,Jay Demerit,1,0
+1522,2010,36.0,Francia,3898.0,Abou Diaby,1,0
+1523,2010,65.0,Portugal,3224.0,Duda,1,0
+1524,2010,32.0,Eslovaquia,795.0,Jan Durica,1,0
+1525,2010,7.0,Australia,7307.0,Brett Emerton,1,0
+1526,2010,57.0,Nigeria,4477.0,Vincent Enyeama,1,0
+1527,2010,36.0,Francia,3910.0,Patrice Evra,1,0
+1528,2010,59.0,Nueva Zelanda,5119.0,Rory Fallon,1,0
+1529,2010,11.0,Brasil,1625.0,Felipe Melo,1,0
+1530,2010,74.0,Suiza,8089.0,Gelson Fernandes,1,0
+1531,2010,56.0,México,7722.0,Guillermo Franco,1,0
+1532,2010,17.0,Chile,676.0,Ismael Fuentes,1,0
+1533,2010,44.0,Inglaterra,1282.0,Steven Gerrard,1,0
+1534,2010,74.0,Suiza,8108.0,Stephane Grichting,1,0
+1535,2010,57.0,Nigeria,4484.0,Lukman Haruna,1,0
+1536,2010,6.0,Argentina,5279.0,Gabriel Heinze,1,0
+1537,2010,56.0,México,7753.0,Javier Hernandez,1,0
+1538,2010,53.0,Japón,94.0,Keisuke Honda,1,0
+1539,2010,20.0,Corea del Norte,7973.0,Yong Jo Hong,1,0
+1540,2010,34.0,España,4948.0,Andrés Iniesta,1,0
+1541,2010,74.0,Suiza,8122.0,Gokhan Inler,1,0
+1542,2010,71.0,Serbia,3595.0,Branislav Ivanovic,1,0
+1543,2010,41.0,Honduras,218.0,Emilio Izaguirre,1,0
+1544,2010,11.0,Brasil,1673.0,Juan,1,0
+1545,2010,39.0,Grecia,2596.0,Konstantinos Katsouranis,1,0
+1546,2010,1.0,Alemania,6168.0,Sami Khedira,1,0
+1547,2010,21.0,Corea del Sur,7014.0,Nam Il Kim,1,0
+1548,2010,21.0,Corea del Sur,7010.0,Jung Woo Kim,1,0
+1549,2010,33.0,Eslovenia,3792.0,Andraz Kirm,1,0
+1550,2010,71.0,Serbia,3619.0,Aleksandar Kolarov,1,0
+1551,2010,33.0,Eslovenia,3794.0,Andrej Komac,1,0
+1552,2010,32.0,Eslovaquia,800.0,Kamil Kopunek,1,0
+1553,2010,26.0,Dinamarca,4239.0,Per Kroldrup,1,0
+1554,2010,32.0,Eslovaquia,803.0,Juraj Kucka,1,0
+1555,2010,60.0,Paises Bajos,6437.0,Dirk Kuyt,1,0
+1556,2010,71.0,Serbia,3633.0,Zdravko Kuzmanovic,1,0
+1557,2010,1.0,Alemania,6196.0,Philipp Lahm,1,0
+1558,2010,21.0,Corea del Sur,7037.0,Chung-yong Lee,1,0
+1559,2010,59.0,Nueva Zelanda,5123.0,Tony Lochhead,1,0
+1560,2010,80.0,Uruguay,5909.0,Diego Lugano,1,0
+1561,2010,11.0,Brasil,1694.0,Luis Fabiano,1,0
+1562,2010,56.0,México,7777.0,Rafael Marquez,1,0
+1563,2010,72.0,Sudáfrica,8259.0,Tsepo Masilela,1,0
+1564,2010,60.0,Paises Bajos,6446.0,Joris Mathijsen,1,0
+1565,2010,53.0,Japón,123.0,Daisuke Matsui,1,0
+1566,2010,38.0,Ghana,1486.0,Jonathan Mensah,1,0
+1567,2010,11.0,Brasil,1723.0,Michel Bastos,1,0
+1568,2010,17.0,Chile,706.0,Rodrigo Millar,1,0
+1569,2010,44.0,Inglaterra,1346.0,James Milner,1,0
+1570,2010,62.0,Paraguay,4395.0,Claudio Morel,1,0
+1571,2010,56.0,México,7793.0,Hector Moreno,1,0
+1572,2010,32.0,Eslovaquia,804.0,Jan Mucha,1,0
+1573,2010,7.0,Australia,7349.0,Lucas Neill,1,0
+1574,2010,71.0,Serbia,3676.0,Milos Ninkovic,1,0
+1575,2010,74.0,Suiza,8157.0,Blaise Nkufo,1,0
+1576,2010,60.0,Paises Bajos,6455.0,Andre Ooijer,1,0
+1577,2010,6.0,Argentina,5339.0,Nicolas Otamendi,1,0
+1578,2010,1.0,Alemania,6240.0,Mesut Ozil,1,0
+1579,2010,20.0,Corea del Norte,7996.0,Chol Jin Pak,1,0
+1580,2010,38.0,Ghana,1495.0,John Pantsil,1,0
+1581,2010,39.0,Grecia,2614.0,Sokratis Papastathopoulos,1,0
+1582,2010,65.0,Portugal,3291.0,Pedro Mendes,1,0
+1583,2010,32.0,Eslovaquia,805.0,Peter Pekarik,1,0
+1584,2010,51.0,Italia,5725.0,Simone Pepe,1,0
+1585,2010,65.0,Portugal,3292.0,Pepe,1,0
+1586,2010,80.0,Uruguay,5956.0,Maximiliano Pereira,1,0
+1587,2010,72.0,Sudáfrica,8282.0,Steven Pienaar,1,0
+1588,2010,34.0,España,5022.0,Gerard Piqué,1,0
+1589,2010,26.0,Dinamarca,4267.0,Christian Poulsen,1,0
+1590,2010,34.0,España,5028.0,Carles Puyol,1,0
+1591,2010,51.0,Italia,5741.0,Fabio Quagliarella,1,0
+1592,2010,33.0,Eslovenia,3808.0,Aleksandar Radosavljevic,1,0
+1593,2010,34.0,España,5035.0,Sergio Ramos,1,0
+1594,2010,59.0,Nueva Zelanda,5133.0,Winston Reid,1,0
+1595,2010,36.0,Francia,4021.0,Franck Ribery,1,0
+1596,2010,62.0,Paraguay,4411.0,Cristian Riveros,1,0
+1597,2010,56.0,México,7844.0,Francisco Rodriguez,1,0
+1598,2010,65.0,Portugal,3307.0,Cristiano Ronaldo,1,0
+1599,2010,39.0,Grecia,2618.0,Georgios Samaras,1,0
+1600,2010,62.0,Paraguay,4419.0,Roque Santa Cruz,1,0
+1601,2010,62.0,Paraguay,4420.0,Jonathan Santana,1,0
+1602,2010,38.0,Ghana,1503.0,Hans Sarpei,1,0
+1603,2010,1.0,Alemania,6280.0,Bastian Schweinsteiger,1,0
+1604,2010,32.0,Eslovaquia,810.0,Stanislav Sestak,1,0
+1605,2010,32.0,Eslovaquia,811.0,Martin Skrtel,1,0
+1606,2010,59.0,Nueva Zelanda,5138.0,Tommy Smith,1,0
+1607,2010,60.0,Paises Bajos,6481.0,Wesley Sneijder,1,0
+1608,2010,26.0,Dinamarca,4285.0,Thomas Sorensen,1,0
+1609,2010,60.0,Paises Bajos,6484.0,Maarten Stekelenburg,1,0
+1610,2010,17.0,Chile,765.0,Humberto Suazo,1,0
+1611,2010,41.0,Honduras,237.0,David Suazo,1,0
+1612,2010,71.0,Serbia,3742.0,Neven Subotic,1,0
+1613,2010,33.0,Eslovenia,3814.0,Marko Suler,1,0
+1614,2010,38.0,Ghana,1511.0,Prince Tagoe,1,0
+1615,2010,41.0,Honduras,238.0,Hendry Thomas,1,0
+1616,2010,39.0,Grecia,2625.0,Vasileios Torosidis,1,0
+1617,2010,56.0,México,7878.0,Gerardo Torrado,1,0
+1618,2010,41.0,Honduras,240.0,Danilo Turcios,1,0
+1619,2010,39.0,Grecia,2629.0,Alexandros Tziolis,1,0
+1620,2010,17.0,Chile,778.0,Jorge Valdivia,1,0
+1621,2010,7.0,Australia,7376.0,Carl Valeri,1,0
+1622,2010,60.0,Paises Bajos,6503.0,Rafael Van Der Vaart,1,0
+1623,2010,62.0,Paraguay,4435.0,Enrique Vera,1,0
+1624,2010,80.0,Uruguay,6028.0,Mauricio Victorino,1,0
+1625,2010,17.0,Chile,785.0,Arturo Vidal,1,0
+1626,2010,71.0,Serbia,3757.0,Nemanja Vidic,1,0
+1627,2010,32.0,Eslovaquia,814.0,Robert Vittek,1,0
+1628,2010,38.0,Ghana,1512.0,Isaac Vorsah,1,0
+1629,2010,32.0,Eslovaquia,815.0,Vladimir Weiss,1,0
+1630,2010,7.0,Australia,7383.0,Luke Wilkshire,1,0
+1631,2010,34.0,España,5095.0,Xavi,1,0
+1632,2010,74.0,Suiza,8229.0,Hakan Yakin,1,0
+1633,2010,21.0,Corea del Sur,7093.0,Ki Hun Yeom,1,0
+1634,2010,74.0,Suiza,8231.0,Reto Ziegler,1,0
+1635,2010,71.0,Serbia,3769.0,Nikola Zigic,1,0
+1636,2010,23.0,Costa de Marfil,6805.0,Didier Zokora,1,0
+1637,2014,27.0,Ecuador,4746.0,Antonio Valencia,1,1
+1638,2014,13.0,Bélgica,6602.0,Steven Defour,0,1
+1639,2014,22.0,Costa Rica,1993.0,Óscar Duarte,0,1
+1640,2014,39.0,Grecia,2596.0,Konstantinos Katsouranis,0,1
+1641,2014,51.0,Italia,5679.0,Claudio Marchisio,0,1
+1642,2014,41.0,Honduras,233.0,Wilson Palacios,0,1
+1643,2014,65.0,Portugal,3292.0,Pepe,0,1
+1644,2014,80.0,Uruguay,5956.0,Maximiliano Pereira,0,1
+1645,2014,24.0,Croacia,1139.0,Ante Rebic,0,1
+1646,2014,14.0,Camerún,971.0,Alexandre Song,0,1
+1647,2014,11.0,Brasil,1804.0,Thiago Silva,3,0
+1648,2014,56.0,México,7635.0,Paul Aguilar,2,0
+1649,2014,13.0,Bélgica,6544.0,Toby Alderweireld,2,0
+1650,2014,51.0,Italia,5535.0,Mario Balotelli,2,0
+1651,2014,36.0,Francia,3859.0,Yohan Cabaye,2,0
+1652,2014,7.0,Australia,7294.0,Tim Cahill,2,0
+1653,2014,60.0,Paises Bajos,6385.0,Jonathan de Guzmán,2,0
+1654,2014,22.0,Costa Rica,2002.0,Giancarlo Gonzalez,2,0
+1655,2014,1.0,Alemania,6148.0,Benedikt Höwedes,2,0
+1656,2014,60.0,Paises Bajos,6418.0,Klaas Jan Huntelaar,2,0
+1657,2014,7.0,Australia,7320.0,Mile Jedinak,2,0
+1658,2014,80.0,Uruguay,5909.0,Diego Lugano,2,0
+1659,2014,11.0,Brasil,1698.0,Luiz Gustavo,2,0
+1660,2014,56.0,México,7777.0,Rafael Marquez,2,0
+1661,2014,60.0,Paises Bajos,6445.0,Bruno Martins Indi,2,0
+1662,2014,17.0,Chile,705.0,Eugenio Mena,2,0
+1663,2014,38.0,Ghana,1488.0,Sulley Muntari,2,0
+1664,2014,6.0,Argentina,5383.0,Marcos Rojo,2,0
+1665,2014,1.0,Alemania,6280.0,Bastian Schweinsteiger,2,0
+1666,2014,17.0,Chile,762.0,Francisco Silva,2,0
+1667,2014,60.0,Paises Bajos,6518.0,Robin Van Persie,2,0
+1668,2014,56.0,México,7888.0,José Juan Vázquez,2,0
+1669,2014,23.0,Costa de Marfil,6805.0,Didier Zokora,2,0
+1670,2014,22.0,Costa Rica,1960.0,Johnny Acosta,1,0
+1671,2014,38.0,Ghana,1449.0,Harrison Afful,1,0
+1672,2014,6.0,Argentina,5151.0,Sergio Agüero,1,0
+1673,2014,34.0,España,4857.0,Xabi Alonso,1,0
+1674,2014,11.0,Brasil,1533.0,Dani Alves,1,0
+1675,2014,48.0,Irán,4083.0,Karim Ansarifard,1,0
+1676,2014,17.0,Chile,629.0,Charles Aránguiz,1,0
+1677,2014,80.0,Uruguay,5812.0,Egidio Arevalo,1,0
+1678,2014,19.0,Colombia,2641.0,Pablo Armero,1,0
+1679,2014,38.0,Ghana,1464.0,Jordan Ayew,1,0
+1680,2014,23.0,Costa de Marfil,6763.0,Souleymane Bamba,1,0
+1681,2014,44.0,Inglaterra,1209.0,Ross Barkley,1,0
+1682,2014,35.0,Estados Unidos,2750.0,Kyle Beckerman,1,0
+1683,2014,41.0,Honduras,192.0,Jerry Bengtson,1,0
+1684,2014,5.0,Argelia,6841.0,Nabil Bentaleb,1,0
+1685,2014,41.0,Honduras,193.0,Victor Bernardez,1,0
+1686,2014,10.0,Bosnia-Herzegovina,8012.0,Muhamed Besic,1,0
+1687,2014,6.0,Argentina,5187.0,Lucas Biglia,1,0
+1688,2014,60.0,Paises Bajos,6365.0,Daley Blind,1,0
+1689,2014,5.0,Argelia,6843.0,Madjid Bougherra,1,0
+1690,2014,80.0,Uruguay,5827.0,Martin Caceres,1,0
+1691,2014,5.0,Argelia,6846.0,Liassine Cadamuro,1,0
+1692,2014,35.0,Estados Unidos,2765.0,Geoff Cameron,1,0
+1693,2014,34.0,España,4892.0,Iker Casillas,1,0
+1694,2014,24.0,Croacia,1090.0,Vedran Corluka,1,0
+1695,2014,22.0,Costa Rica,1989.0,José Cubero,1,0
+1696,2014,11.0,Brasil,1589.0,Dante,1,0
+1697,2014,51.0,Italia,5607.0,Mattia De Sciglio,1,0
+1698,2014,60.0,Paises Bajos,6393.0,Stefan de Vrij,1,0
+1699,2014,13.0,Bélgica,6604.0,Mousa Dembélé,1,0
+1700,2014,6.0,Argentina,5236.0,Martin Demichelis,1,0
+1701,2014,6.0,Argentina,5238.0,Angel Di Maria,1,0
+1702,2014,22.0,Costa Rica,1991.0,Júnior Díaz,1,0
+1703,2014,23.0,Costa de Marfil,6769.0,Serey Die,1,0
+1704,2014,74.0,Suiza,8073.0,Johan Djourou,1,0
+1705,2014,23.0,Costa de Marfil,6775.0,Didier Drogba,1,0
+1706,2014,24.0,Croacia,3226.0,Eduardo,1,0
+1707,2014,14.0,Camerún,890.0,Eyong Enoh,1,0
+1708,2014,27.0,Ecuador,26.0,Frickson Erazo,1,0
+1709,2014,36.0,Francia,3910.0,Patrice Evra,1,0
+1710,2014,74.0,Suiza,8089.0,Gelson Fernandes,1,0
+1711,2014,11.0,Brasil,1627.0,Fernandinho,1,0
+1712,2014,6.0,Argentina,5265.0,Ezequiel Garay,1,0
+1713,2014,41.0,Honduras,213.0,Oscar Boniek Garcia,1,0
+1714,2014,80.0,Uruguay,5878.0,Walter Gargano,1,0
+1715,2014,41.0,Honduras,214.0,Luis Garrido,1,0
+1716,2014,44.0,Inglaterra,1282.0,Steven Gerrard,1,0
+1717,2014,5.0,Argelia,6860.0,Nabil Ghilas,1,0
+1718,2014,80.0,Uruguay,5882.0,José María Giménez,1,0
+1719,2014,69.0,Rusia,301.0,Denis Glushakov,1,0
+1720,2014,80.0,Uruguay,5883.0,Diego Godin,1,0
+1721,2014,35.0,Estados Unidos,2807.0,Omar González,1,0
+1722,2014,22.0,Costa Rica,2005.0,Esteban Granados,1,0
+1723,2014,56.0,México,7739.0,Andres Guardado,1,0
+1724,2014,19.0,Colombia,2674.0,Fredy Guarín,1,0
+1725,2014,5.0,Argelia,6864.0,Rafik Halliche,1,0
+1726,2014,21.0,Corea del Sur,6968.0,Kook-Young Han,1,0
+1727,2014,53.0,Japón,90.0,Makoto Hasebe,1,0
+1728,2014,13.0,Bélgica,6628.0,Eden Hazard,1,0
+1729,2014,21.0,Corea del Sur,6971.0,Jeong-Ho Hong,1,0
+1730,2014,11.0,Brasil,1655.0,Hulk,1,0
+1731,2014,11.0,Brasil,1666.0,Jo,1,0
+1732,2014,35.0,Estados Unidos,2825.0,Jermaine Jones,1,0
+1733,2014,11.0,Brasil,1676.0,Julio Cesar,1,0
+1734,2014,23.0,Costa de Marfil,6785.0,Salomon Kalou,1,0
+1735,2014,1.0,Alemania,6168.0,Sami Khedira,1,0
+1736,2014,21.0,Corea del Sur,6994.0,Sung-yueng Ki,1,0
+1737,2014,69.0,Rusia,328.0,Dmitri Kombarov,1,0
+1738,2014,13.0,Bélgica,6643.0,Vincent Kompany,1,0
+1739,2014,53.0,Japón,115.0,Yasuyuki Konno,1,0
+1740,2014,21.0,Corea del Sur,7031.0,Ja-Cheol Koo,1,0
+1741,2014,69.0,Rusia,333.0,Aleksei Kozlov,1,0
+1742,2014,1.0,Alemania,6196.0,Philipp Lahm,1,0
+1743,2014,44.0,Inglaterra,1318.0,Adam Lallana,1,0
+1744,2014,21.0,Corea del Sur,7056.0,Yong Lee,1,0
+1745,2014,24.0,Croacia,1119.0,Dejan Lovren,1,0
+1746,2014,39.0,Grecia,2604.0,Kostas Manolas,1,0
+1747,2014,6.0,Argentina,5314.0,Javier Mascherano,1,0
+1748,2014,36.0,Francia,3990.0,Blaise Matuidi,1,0
+1749,2014,14.0,Camerún,929.0,Stephane Mbia,1,0
+1750,2014,10.0,Bosnia-Herzegovina,8022.0,Haris Medunjanin,1,0
+1751,2014,5.0,Argelia,6887.0,Djamel Mesbah,1,0
+1752,2014,7.0,Australia,7345.0,Mark Milligan,1,0
+1753,2014,27.0,Ecuador,50.0,Jefferson Montero,1,0
+1754,2014,56.0,México,7793.0,Hector Moreno,1,0
+1755,2014,53.0,Japón,130.0,Masato Morishige,1,0
+1756,2014,65.0,Portugal,3273.0,João Moutinho,1,0
+1757,2014,80.0,Uruguay,5938.0,Fernando Muslera,1,0
+1758,2014,22.0,Costa Rica,2031.0,Keylor Navas,1,0
+1759,2014,48.0,Irán,4154.0,Javad Nekounam,1,0
+1760,2014,11.0,Brasil,1735.0,Neymar Jr.,1,0
+1761,2014,14.0,Camerún,955.0,Dany Nounkeu,1,0
+1762,2014,57.0,Nigeria,4505.0,John Obi Mikel,1,0
+1763,2014,57.0,Nigeria,4523.0,Kenneth Omeruo,1,0
+1764,2014,11.0,Brasil,1744.0,Oscar,1,0
+1765,2014,57.0,Nigeria,4528.0,Juwon Oshaniwa,1,0
+1766,2014,41.0,Honduras,231.0,Jerry Palacios,1,0
+1767,2014,39.0,Grecia,2614.0,Sokratis Papastathopoulos,1,0
+1768,2014,27.0,Ecuador,56.0,Juan Carlos Paredes,1,0
+1769,2014,65.0,Portugal,3294.0,João Pereira,1,0
+1770,2014,17.0,Chile,727.0,Mauricio Pinilla,1,0
+1771,2014,36.0,Francia,4013.0,Paul Pogba,1,0
+1772,2014,38.0,Ghana,1500.0,Mohammed Rabiu,1,0
+1773,2014,24.0,Croacia,1137.0,Ivan Rakitic,1,0
+1774,2014,11.0,Brasil,1769.0,Ramires,1,0
+1775,2014,34.0,España,5035.0,Sergio Ramos,1,0
+1776,2014,60.0,Paises Bajos,6471.0,Arjen Robben,1,0
+1777,2014,19.0,Colombia,2715.0,James Rodríguez,1,0
+1778,2014,22.0,Costa Rica,2042.0,Bryan Ruiz,1,0
+1779,2014,14.0,Camerún,969.0,Edgar Salli,1,0
+1780,2014,39.0,Grecia,2617.0,Dimitrios Salpingidis,1,0
+1781,2014,39.0,Grecia,2618.0,Georgios Samaras,1,0
+1782,2014,39.0,Grecia,2619.0,Andreas Samaris,1,0
+1783,2014,19.0,Colombia,5988.0,Carlos Sánchez,1,0
+1784,2014,69.0,Rusia,396.0,Oleg Shatov,1,0
+1785,2014,48.0,Irán,4176.0,Masoud Shojaei,1,0
+1786,2014,21.0,Corea del Sur,7086.0,Heung-Min Son,1,0
+1787,2014,10.0,Bosnia-Herzegovina,8027.0,Emir Spahic,1,0
+1788,2014,7.0,Australia,7369.0,Matthew Spiranovic,1,0
+1789,2014,44.0,Inglaterra,1401.0,Raheem Sterling,1,0
+1790,2014,22.0,Costa Rica,2051.0,Yeltsin Tejeda,1,0
+1791,2014,48.0,Irán,4180.0,Andranik Teymourian,1,0
+1792,2014,23.0,Costa de Marfil,6796.0,Ismael Tiote,1,0
+1793,2014,39.0,Grecia,2625.0,Vasileios Torosidis,1,0
+1794,2014,22.0,Costa Rica,2053.0,Michael Umaña,1,0
+1795,2014,27.0,Ecuador,76.0,Enner Valencia,1,0
+1796,2014,13.0,Bélgica,6748.0,Jan Vertonghen,1,0
+1797,2014,17.0,Chile,785.0,Arturo Vidal,1,0
+1798,2014,38.0,Ghana,1514.0,Majeed Waris,1,0
+1799,2014,13.0,Bélgica,6758.0,Axel Witsel,1,0
+1800,2014,74.0,Suiza,8228.0,Granit Xhaka,1,0
+1801,2014,19.0,Colombia,2732.0,Mario Yepes,1,0
+1802,2014,53.0,Japón,187.0,Maya Yoshida,1,0
+1803,2018,19.0,Colombia,5988.0,Carlos Sánchez,1,1
+1804,2018,1.0,Alemania,6060.0,Jérôme Boateng,0,1
+1805,2018,74.0,Suiza,8135.0,Michael Lang,0,1
+1806,2018,69.0,Rusia,403.0,Igor Smolnikov,0,1
+1807,2018,73.0,Suecia,3443.0,Sebastian Larsson,3,0
+1808,2018,13.0,Bélgica,6544.0,Toby Alderweireld,2,0
+1809,2018,61.0,Panamá,8411.0,Michael Amir Murillo,2,0
+1810,2018,6.0,Argentina,5175.0,Ever Banega,2,0
+1811,2018,19.0,Colombia,2644.0,Wílmar Barrios,2,0
+1812,2018,74.0,Suiza,8049.0,Valon Behrami,2,0
+1813,2018,80.0,Uruguay,5818.0,Rodrigo Bentancur,2,0
+1814,2018,11.0,Brasil,1576.0,Casemiro,2,0
+1815,2018,61.0,Panamá,8417.0,Armando Cooper,2,0
+1816,2018,55.0,Marruecos,8340.0,Karim El Ahmadi,2,0
+1817,2018,69.0,Rusia,299.0,Yury Gazinsky,2,0
+1818,2018,36.0,Francia,3940.0,Lucas Hernandez,2,0
+1819,2018,56.0,México,7755.0,Héctor Herrera,2,0
+1820,2018,21.0,Corea del Sur,6990.0,Woo-young Jung,2,0
+1821,2018,26.0,Dinamarca,4230.0,Mathias Jørgensen,2,0
+1822,2018,36.0,Francia,3948.0,N'Golo Kanté,2,0
+1823,2018,74.0,Suiza,8140.0,Stephan Lichtsteiner,2,0
+1824,2018,73.0,Suecia,3457.0,Mikael Lustig,2,0
+1825,2018,44.0,Inglaterra,1330.0,Harry Maguire,2,0
+1826,2018,24.0,Croacia,1122.0,Mario Mandzukic,2,0
+1827,2018,6.0,Argentina,5314.0,Javier Mascherano,2,0
+1828,2018,71.0,Serbia,3647.0,Nemanja Matić,2,0
+1829,2018,36.0,Francia,3990.0,Blaise Matuidi,2,0
+1830,2018,36.0,Francia,3992.0,Kylian Mbappé,2,0
+1831,2018,13.0,Bélgica,6656.0,Thomas Meunier,2,0
+1832,2018,71.0,Serbia,3666.0,Aleksandar Mitrović,2,0
+1833,2018,56.0,México,7793.0,Hector Moreno,2,0
+1834,2018,70.0,Senegal,1064.0,M'Baye Niang,2,0
+1835,2018,6.0,Argentina,5339.0,Nicolas Otamendi,2,0
+1836,2018,24.0,Croacia,1139.0,Ante Rebic,2,0
+1837,2018,65.0,Portugal,3307.0,Cristiano Ronaldo,2,0
+1838,2018,78.0,Túnez,7248.0,Ferjani Sassi,2,0
+1839,2018,74.0,Suiza,8182.0,Fabian Schär,2,0
+1840,2018,13.0,Bélgica,6748.0,Jan Vertonghen,2,0
+1841,2018,24.0,Croacia,1165.0,Sime Vrsaljko,2,0
+1842,2018,44.0,Inglaterra,1420.0,Kyle Walker,2,0
+1843,2018,26.0,Dinamarca,4293.0,Yussuf Yurary Poulsen,2,0
+1844,2018,22.0,Costa Rica,1960.0,Johnny Acosta,1,0
+1845,2018,6.0,Argentina,5150.0,Marcos Acuña,1,0
+1846,2018,4.0,Arabia Saudita,4802.0,Taisir Al-Jassim,1,0
+1847,2018,56.0,México,7639.0,Edson Álvarez,1,0
+1848,2018,48.0,Irán,4082.0,Vahid Amiri,1,0
+1849,2018,55.0,Marruecos,8301.0,Nordin Amrabat,1,0
+1850,2018,48.0,Irán,4083.0,Karim Ansarifard,1,0
+1851,2018,63.0,Perú,2129.0,Pedro Aquino,1,0
+1852,2018,19.0,Colombia,2639.0,Santiago Arias,1,0
+1853,2018,7.0,Australia,7285.0,Daniel Arzani,1,0
+1854,2018,61.0,Panamá,8413.0,Ricardo Ávila,1,0
+1855,2018,48.0,Irán,4085.0,Sardar Azmoun,1,0
+1856,2018,19.0,Colombia,2643.0,Carlos Bacca,1,0
+1857,2018,78.0,Túnez,7152.0,Anice Badri,1,0
+1858,2018,57.0,Nigeria,4464.0,Leon Balogun,1,0
+1859,2018,61.0,Panamá,8415.0,Édgar Joel  Bárcenas,1,0
+1860,2018,64.0,Polonia,3031.0,Jan Bednarek,1,0
+1861,2018,7.0,Australia,7289.0,Aziz Behich,1,0
+1862,2018,55.0,Marruecos,8313.0,Medhi Benatia,1,0
+1863,2018,55.0,Marruecos,8321.0,Mbark Boussoufa,1,0
+1864,2018,24.0,Croacia,1086.0,Marcelo Brozovic,1,0
+1865,2018,34.0,España,4879.0,Sergio Busquets,1,0
+1866,2018,22.0,Costa Rica,1975.0,Francisco Calvo,1,0
+1867,2018,22.0,Costa Rica,1977.0,Joel Campbell,1,0
+1868,2018,78.0,Túnez,7177.0,Ghailene Chaalali,1,0
+1869,2018,73.0,Suecia,3369.0,Viktor Claesson,1,0
+1870,2018,24.0,Croacia,1090.0,Vedran Corluka,1,0
+1871,2018,19.0,Colombia,2658.0,Juan Guillermo Cuadrado,1,0
+1872,2018,55.0,Marruecos,8332.0,Manuel da Costa,1,0
+1873,2018,61.0,Panamá,8419.0,Erick Davis,1,0
+1874,2018,13.0,Bélgica,6588.0,Kevin De Bruyne,1,0
+1875,2018,26.0,Dinamarca,4206.0,Thomas Delaney,1,0
+1876,2018,13.0,Bélgica,6606.0,Leander Dendoncker,1,0
+1877,2018,48.0,Irán,4100.0,Omid Ebrahimi,1,0
+1878,2018,73.0,Suecia,3377.0,Albin Ekdal,1,0
+1879,2018,55.0,Marruecos,8351.0,Munir El Kajoui,1,0
+1880,2018,61.0,Panamá,8421.0,Fidel Escobar,1,0
+1881,2018,11.0,Brasil,1622.0,Fagner,1,0
+1882,2018,19.0,Colombia,2667.0,Radamel Falcao,1,0
+1883,2018,28.0,Egipto,2083.0,Ahmed Fathy,1,0
+1884,2018,65.0,Portugal,3230.0,Bruno Fernandes,1,0
+1885,2018,11.0,Brasil,1627.0,Fernandinho,1,0
+1886,2018,11.0,Brasil,1630.0,Filipe Luís,1,0
+1887,2018,49.0,Islandia,7129.0,Alfred Finnbogason,1,0
+1888,2018,28.0,Egipto,2086.0,Ali Gabr,1,0
+1889,2018,56.0,México,7726.0,Jesús Gallardo,1,0
+1890,2018,22.0,Costa Rica,1999.0,Cristian Gamboa,1,0
+1891,2018,36.0,Francia,3923.0,Olivier Giroud,1,0
+1892,2018,61.0,Panamá,8422.0,Aníbal Godoy,1,0
+1893,2018,69.0,Rusia,302.0,Aleksandr Golovin,1,0
+1894,2018,61.0,Panamá,8423.0,Gabriel Enrique  Gómez,1,0
+1895,2018,64.0,Polonia,3068.0,Jacek Góralski,1,0
+1896,2018,56.0,México,7739.0,Andres Guardado,1,0
+1897,2018,65.0,Portugal,3243.0,Raphaël Guerreiro,1,0
+1898,2018,63.0,Perú,2172.0,Paolo Guerrero,1,0
+1899,2018,70.0,Senegal,1039.0,Idrissa Gana Gueye,1,0
+1900,2018,73.0,Suecia,3397.0,John Guidetti,1,0
+1901,2018,22.0,Costa Rica,2008.0,David Guzmán,1,0
+1902,2018,48.0,Irán,4115.0,Ehsan Hajsafi,1,0
+1903,2018,55.0,Marruecos,8364.0,Achraf Hakimi,1,0
+1904,2018,49.0,Islandia,7136.0,Emil Hallfredsson,1,0
+1905,2018,53.0,Japón,90.0,Makoto Hasebe,1,0
+1906,2018,13.0,Bélgica,6628.0,Eden Hazard,1,0
+1907,2018,28.0,Egipto,2091.0,Ahmed Hegazi,1,0
+1908,2018,44.0,Inglaterra,1291.0,Jordan Henderson,1,0
+1909,2018,1.0,Alemania,6150.0,Mats Hummels,1,0
+1910,2018,63.0,Perú,2174.0,Paolo Hurtado,1,0
+1911,2018,21.0,Corea del Sur,6975.0,Hee-chan Hwang,1,0
+1912,2018,57.0,Nigeria,4486.0,Brian Idowu,1,0
+1913,2018,53.0,Japón,99.0,Takashi Inui,1,0
+1914,2018,71.0,Serbia,3595.0,Branislav Ivanovic,1,0
+1915,2018,48.0,Irán,4123.0,Alireza Jahanbakhsh,1,0
+1916,2018,7.0,Australia,7320.0,Mile Jedinak,1,0
+1917,2018,24.0,Croacia,1099.0,Tin Jedvaj,1,0
+1918,2018,53.0,Japón,111.0,Eiji Kawashima,1,0
+1919,2018,21.0,Corea del Sur,7021.0,Shin-Wook Kim,1,0
+1920,2018,21.0,Corea del Sur,7028.0,Young-Gwon Kim,1,0
+1921,2018,64.0,Polonia,3100.0,Grzegorz Krychowiak,1,0
+1922,2018,69.0,Rusia,337.0,Ilya Kutepov,1,0
+1923,2018,56.0,México,7766.0,Miguel Layún,1,0
+1924,2018,7.0,Australia,7333.0,Mathew Leckie,1,0
+1925,2018,21.0,Corea del Sur,7056.0,Yong Lee,1,0
+1926,2018,21.0,Corea del Sur,7042.0,Jae-sung Lee,1,0
+1927,2018,21.0,Corea del Sur,7053.0,Seung-woo Lee,1,0
+1928,2018,44.0,Inglaterra,1326.0,Jesse Lingard,1,0
+1929,2018,71.0,Serbia,3638.0,Adem Ljajić,1,0
+1930,2018,44.0,Inglaterra,1328.0,Ruben Loftus-Cheek,1,0
+1931,2018,24.0,Croacia,1119.0,Dejan Lovren,1,0
+1932,2018,53.0,Japón,121.0,Tomoaki Makino,1,0
+1933,2018,6.0,Argentina,5317.0,Gabriel Mercado,1,0
+1934,2018,6.0,Argentina,5318.0,Lionel Messi,1,0
+1935,2018,71.0,Serbia,3657.0,Sergej Milinković-Savić,1,0
+1936,2018,71.0,Serbia,3659.0,Luka Milivojević,1,0
+1937,2018,7.0,Australia,7345.0,Mark Milligan,1,0
+1938,2018,19.0,Colombia,2692.0,Johan Mojica,1,0
+1939,2018,21.0,Corea del Sur,7063.0,Seon-min Moon,1,0
+1940,2018,28.0,Egipto,2103.0,Sam Morsy,1,0
+1941,2018,1.0,Alemania,6226.0,Thomas Müller,1,0
+1942,2018,70.0,Senegal,1057.0,Cheikh N'Doye,1,0
+1943,2018,11.0,Brasil,1735.0,Neymar Jr.,1,0
+1944,2018,57.0,Nigeria,4505.0,John Obi Mikel,1,0
+1945,2018,36.0,Francia,4003.0,Benjamin Pavard,1,0
+1946,2018,11.0,Brasil,1762.0,Philippe Coutinho,1,0
+1947,2018,34.0,España,5022.0,Gerard Piqué,1,0
+1948,2018,24.0,Croacia,1131.0,Josip Pivarić,1,0
+1949,2018,24.0,Croacia,1132.0,Marko Pjaca,1,0
+1950,2018,36.0,Francia,4013.0,Paul Pogba,1,0
+1951,2018,71.0,Serbia,3704.0,Aleksandar Prijović,1,0
+1952,2018,65.0,Portugal,3299.0,Ricardo Quaresma,1,0
+1953,2018,24.0,Croacia,1137.0,Ivan Rakitic,1,0
+1954,2018,7.0,Australia,7357.0,Josh Risdon,1,0
+1955,2018,19.0,Colombia,2715.0,James Rodríguez,1,0
+1956,2018,80.0,Uruguay,5978.0,Cristian Rodríguez,1,0
+1957,2018,7.0,Australia,7358.0,Tom Rogic,1,0
+1958,2018,6.0,Argentina,5383.0,Marcos Rojo,1,0
+1959,2018,70.0,Senegal,1065.0,Youssouf Sabaly,1,0
+1960,2018,49.0,Islandia,7140.0,Birkir Már Saevarsson,1,0
+1961,2018,56.0,México,7859.0,Carlos Salcedo,1,0
+1962,2018,70.0,Senegal,1067.0,Salif Sané,1,0
+1963,2018,74.0,Suiza,8190.0,Xherdan Shaqiri,1,0
+1964,2018,53.0,Japón,164.0,Gaku Shibasaki,1,0
+1965,2018,48.0,Irán,4176.0,Masoud Shojaei,1,0
+1966,2018,65.0,Portugal,3313.0,Adrien Silva,1,0
+1967,2018,26.0,Dinamarca,4281.0,Pione Sisto,1,0
+1968,2018,69.0,Rusia,404.0,Fyodor Smolov,1,0
+1969,2018,65.0,Portugal,3319.0,Cédric Soares,1,0
+1970,2018,21.0,Corea del Sur,7086.0,Heung-Min Son,1,0
+1971,2018,44.0,Inglaterra,1406.0,John Stones,1,0
+1972,2018,24.0,Croacia,1152.0,Ivan Strinić,1,0
+1973,2018,6.0,Argentina,5417.0,Nicolas Tagliafico,1,0
+1974,2018,63.0,Perú,2217.0,Renato Tapia,1,0
+1975,2018,61.0,Panamá,8431.0,Luis Tejada,1,0
+1976,2018,13.0,Bélgica,6704.0,Youri Tielemans,1,0
+1977,2018,36.0,Francia,4054.0,Corentin Tolisso,1,0
+1978,2018,28.0,Egipto,2122.0,Trézéguet,1,0
+1979,2018,57.0,Nigeria,4535.0,William Troost-Ekong,1,0
+1980,2018,24.0,Croacia,1161.0,Domagoj Vida,1,0
+1981,2018,22.0,Costa Rica,2061.0,Kendall Waston,1,0
+1982,2018,13.0,Bélgica,6758.0,Axel Witsel,1,0
+1983,2018,74.0,Suiza,8228.0,Granit Xhaka,1,0
+1984,2018,63.0,Perú,2224.0,Yoshimar Yotún,1,0
+1985,2018,74.0,Suiza,8230.0,Denis Zakaria,1,0
+1986,2018,69.0,Rusia,430.0,Roman Zobnin,1,0
+1987,2022,14.0,Camerún,861.0,Vincent Aboubakar,0,1
+1988,2022,55.0,Marruecos,8328.0,Walid Cheddira,0,1
+1989,2022,60.0,Paises Bajos,6400.0,Denzel Dumfries,0,1
+1990,2022,37.0,Gales,2545.0,Wayne Heennesey,0,1
+1991,2022,6.0,Argentina,5150.0,Marcos Acuña,3,0
+1992,2022,6.0,Argentina,5324.0,Gonzalo Montiel,3,0
+1993,2022,4.0,Arabia Saudita,4791.0,Abdulelah Al-Amri,2,0
+1994,2022,4.0,Arabia Saudita,4805.0,Abdulelah Al-Malki,2,0
+1995,2022,22.0,Costa Rica,1975.0,Francisco Calvo,2,0
+1996,2022,64.0,Polonia,3043.0,Matty Cash,2,0
+1997,2022,7.0,Australia,7303.0,Milos Degenek,2,0
+1998,2022,14.0,Camerún,896.0,Collins Faï,2,0
+1999,2022,71.0,Serbia,3584.0,Nemanja Gudelj,2,0
+2000,2022,70.0,Senegal,1039.0,Idrissa Gana Gueye,2,0
+2001,2022,7.0,Australia,7319.0,Jackson Irvine,2,0
+2002,2022,53.0,Japón,100.0,Ko Itakura,2,0
+2003,2022,48.0,Irán,4123.0,Alireza Jahanbakhsh,2,0
+2004,2022,21.0,Corea del Sur,6990.0,Woo-young Jung,2,0
+2005,2022,24.0,Croacia,1109.0,Mateo Kovacic,2,0
+2006,2022,71.0,Serbia,3640.0,Sasa Lukic,2,0
+2007,2022,27.0,Ecuador,48.0,Jhegson Méndez,2,0
+2008,2022,71.0,Serbia,3655.0,Nikola Milenković,2,0
+2009,2022,13.0,Bélgica,6670.0,Amadou Onana,2,0
+2010,2022,6.0,Argentina,5339.0,Nicolas Otamendi,2,0
+2011,2022,6.0,Argentina,5348.0,Leandro Paredes,2,0
+2012,2022,71.0,Serbia,3692.0,Strahinja Pavlovic,2,0
+2013,2022,6.0,Argentina,5385.0,Cristian Romero,2,0
+2014,2022,74.0,Suiza,8182.0,Fabian Schär,2,0
+2015,2022,38.0,Ghana,1504.0,Alidu Seidu,2,0
+2016,2022,78.0,Túnez,7148.0,Ali Abdi,1,0
+2017,2022,4.0,Arabia Saudita,4748.0,Saud Abdulhamid,1,0
+2018,2022,35.0,Estados Unidos,2737.0,Kellyn Acosta,1,0
+2019,2022,35.0,Estados Unidos,2738.0,Tyler Adams,1,0
+2020,2022,15.0,Canadá,2456.0,Sam Adekugbe,1,0
+2021,2022,16.0,Catar,6329.0,Akram Afif,1,0
+2022,2022,16.0,Catar,6330.0,Homam Ahmed,1,0
+2023,2022,74.0,Suiza,8037.0,Manuel Akanji,1,0
+2024,2022,60.0,Paises Bajos,6356.0,Nathan Aké,1,0
+2025,2022,16.0,Catar,6331.0,Saad Al Sheeb,1,0
+2026,2022,4.0,Arabia Saudita,4789.0,Nawaf Al-Abed,1,0
+2027,2022,4.0,Arabia Saudita,4794.0,Ali Al-Bulaihi,1,0
+2028,2022,4.0,Arabia Saudita,4797.0,Salem Al-Dawsari,1,0
+2029,2022,4.0,Arabia Saudita,4801.0,Ali Al-Hassan,1,0
+2030,2022,4.0,Arabia Saudita,4811.0,Mohammed Al-Owais,1,0
+2031,2022,4.0,Arabia Saudita,4814.0,Saleh Al-Shehri,1,0
+2032,2022,16.0,Catar,6337.0,Almoez Ali,1,0
+2033,2022,56.0,México,7638.0,Roberto Alvarado,1,0
+2034,2022,56.0,México,7639.0,Edson Álvarez,1,0
+2035,2022,55.0,Marruecos,8299.0,Selim Amallah,1,0
+2036,2022,38.0,Ghana,1455.0,Daniel Amartey,1,0
+2037,2022,55.0,Marruecos,8302.0,Sofyan Amrabat,1,0
+2038,2022,56.0,México,7646.0,Néstor Araujo,1,0
+2039,2022,38.0,Ghana,1462.0,Andre Ayew,1,0
+2040,2022,4.0,Arabia Saudita,4823.0,Hattan Bahebri,1,0
+2041,2022,37.0,Gales,2532.0,Gareth Bale,1,0
+2042,2022,24.0,Croacia,1080.0,Borna Barisic,1,0
+2043,2022,14.0,Camerún,869.0,Christian Bassogog,1,0
+2044,2022,7.0,Australia,7289.0,Aziz Behich,1,0
+2045,2022,80.0,Uruguay,5818.0,Rodrigo Bentancur,1,0
+2046,2022,64.0,Polonia,3032.0,Bartosz Bereszyński,1,0
+2047,2022,60.0,Paises Bajos,6361.0,Steven Berghuis,1,0
+2048,2022,60.0,Paises Bajos,6363.0,Steven Bergwijn,1,0
+2049,2022,22.0,Costa Rica,1971.0,Celso Borges,1,0
+2050,2022,16.0,Catar,6340.0,Karim Boudiaf,1,0
+2051,2022,55.0,Marruecos,8318.0,Sofiane Boufal,1,0
+2052,2022,24.0,Croacia,1086.0,Marcelo Brozovic,1,0
+2053,2022,15.0,Canadá,2459.0,Tajon Buchanan,1,0
+2054,2022,34.0,España,4879.0,Sergio Busquets,1,0
+2055,2022,80.0,Uruguay,5827.0,Martin Caceres,1,0
+2056,2022,27.0,Ecuador,18.0,Moisés Caicedo,1,0
+2057,2022,22.0,Costa Rica,1977.0,Joel Campbell,1,0
+2058,2022,13.0,Bélgica,6565.0,Yannick Carrasco,1,0
+2059,2022,11.0,Brasil,1576.0,Casemiro,1,0
+2060,2022,80.0,Uruguay,5841.0,Edinson Cavani,1,0
+2061,2022,21.0,Corea del Sur,6932.0,Gue-sung Cho,1,0
+2062,2022,26.0,Dinamarca,4198.0,Andreas Christensen,1,0
+2063,2022,70.0,Senegal,1015.0,Pathé Ciss,1,0
+2064,2022,80.0,Uruguay,5843.0,Sebastián Coates,1,0
+2065,2022,74.0,Suiza,8068.0,Eray Cömert,1,0
+2066,2022,22.0,Costa Rica,1987.0,Anthony Contreras,1,0
+2067,2022,26.0,Dinamarca,4203.0,Andreas Cornelius,1,0
+2068,2022,11.0,Brasil,1587.0,Danilo,1,0
+2069,2022,55.0,Marruecos,8335.0,Achraf Dari,1,0
+2070,2022,15.0,Canadá,2463.0,Alphonso Davies,1,0
+2071,2022,60.0,Paises Bajos,6387.0,Frenkie de Jong,1,0
+2072,2022,60.0,Paises Bajos,6391.0,Matthijs De Ligt,1,0
+2073,2022,36.0,Francia,3892.0,Ousmane Dembélé,1,0
+2074,2022,13.0,Bélgica,6606.0,Leander Dendoncker,1,0
+2075,2022,60.0,Paises Bajos,6397.0,Memphis Depay,1,0
+2076,2022,35.0,Estados Unidos,2784.0,Sergiño Dest,1,0
+2077,2022,70.0,Senegal,1021.0,Boulaye Dia,1,0
+2078,2022,65.0,Portugal,3223.0,Rúben Dias,1,0
+2079,2022,22.0,Costa Rica,1993.0,Óscar Duarte,1,0
+2080,2022,7.0,Australia,7306.0,Mitchell Duke,1,0
+2081,2022,74.0,Suiza,8083.0,Nico Elvedi,1,0
+2082,2022,53.0,Japón,85.0,Wataru Endo,1,0
+2083,2022,65.0,Portugal,3229.0,João Félix,1,0
+2084,2022,65.0,Portugal,3230.0,Bruno Fernandes,1,0
+2085,2022,6.0,Argentina,5251.0,Enzo Fernandez,1,0
+2086,2022,64.0,Polonia,3058.0,Przemyslaw Frankowski,1,0
+2087,2022,11.0,Brasil,1634.0,Fred,1,0
+2088,2022,80.0,Uruguay,5882.0,José María Giménez,1,0
+2089,2022,36.0,Francia,3923.0,Olivier Giroud,1,0
+2090,2022,1.0,Alemania,6110.0,Leon Goretzka,1,0
+2091,2022,36.0,Francia,3930.0,Antoine Griezmann,1,0
+2092,2022,11.0,Brasil,1650.0,Bruno Guimaraes,1,0
+2093,2022,56.0,México,7742.0,Érick Gutiérrez,1,0
+2094,2022,36.0,Francia,3941.0,Théo Hernandez,1,0
+2095,2022,56.0,México,7755.0,Héctor Herrera,1,0
+2096,2022,15.0,Canadá,2470.0,Junior Hoilett,1,0
+2097,2022,48.0,Irán,4122.0,Majid Hosseini,1,0
+2098,2022,21.0,Corea del Sur,6975.0,Hee-chan Hwang,1,0
+2099,2022,70.0,Senegal,1042.0,Ismail Jakobs,1,0
+2100,2022,48.0,Irán,4125.0,Abolfazl Jalali,1,0
+2101,2022,37.0,Gales,2548.0,Dan James,1,0
+2102,2022,26.0,Dinamarca,4227.0,Mathias Jensen,1,0
+2103,2022,15.0,Canadá,2474.0,Alistair Johnston,1,0
+2104,2022,71.0,Serbia,3609.0,Luka Jović,1,0
+2105,2022,48.0,Irán,4127.0,Hossein Kanaani,1,0
+2106,2022,78.0,Túnez,7216.0,Wajdi Kechrida,1,0
+2107,2022,1.0,Alemania,6166.0,Thilo Kehrer,1,0
+2108,2022,78.0,Túnez,7221.0,Taha Yassine Khenissi,1,0
+2109,2022,21.0,Corea del Sur,7028.0,Young-Gwon Kim,1,0
+2110,2022,1.0,Alemania,6170.0,Joshua Kimmich,1,0
+2111,2022,64.0,Polonia,3091.0,Jakub Kiwior,1,0
+2112,2022,60.0,Paises Bajos,6433.0,Teun Koopmeiners,1,0
+2113,2022,70.0,Senegal,1044.0,Kalidou Koulibaly,1,0
+2114,2022,36.0,Francia,3957.0,Jules Koundé,1,0
+2115,2022,26.0,Dinamarca,4236.0,Rasmus Kristensen,1,0
+2116,2022,64.0,Polonia,3100.0,Grzegorz Krychowiak,1,0
+2117,2022,38.0,Ghana,1479.0,Mohammed Kudus,1,0
+2118,2022,14.0,Camerún,915.0,Pierre Kunde,1,0
+2119,2022,78.0,Túnez,7224.0,Aissa Laidouni,1,0
+2120,2022,38.0,Ghana,1483.0,Tariq Lamptey,1,0
+2121,2022,60.0,Paises Bajos,6439.0,Noa Lang,1,0
+2122,2022,34.0,España,4966.0,Aymeric Laporte,1,0
+2123,2022,21.0,Corea del Sur,7045.0,Kang-in Lee,1,0
+2124,2022,24.0,Croacia,1118.0,Dominik Livaković,1,0
+2125,2022,24.0,Croacia,1119.0,Dejan Lovren,1,0
+2126,2022,16.0,Catar,6347.0,Assim Madibo,1,0
+2127,2022,4.0,Arabia Saudita,4835.0,Abdullah Madu,1,0
+2128,2022,44.0,Inglaterra,1330.0,Harry Maguire,1,0
+2129,2022,11.0,Brasil,1713.0,Marquinhos,1,0
+2130,2022,6.0,Argentina,5311.0,Lisandro Martinez,1,0
+2131,2022,35.0,Estados Unidos,2846.0,Weston McKennie,1,0
+2132,2022,70.0,Senegal,1052.0,Nampalys Mendy,1,0
+2133,2022,37.0,Gales,2557.0,Chris Mepham,1,0
+2134,2022,6.0,Argentina,5318.0,Lionel Messi,1,0
+2135,2022,13.0,Bélgica,6656.0,Thomas Meunier,1,0
+2136,2022,64.0,Polonia,3127.0,Arkadiusz Milik,1,0
+2137,2022,71.0,Serbia,3657.0,Sergej Milinković-Savić,1,0
+2138,2022,11.0,Brasil,1724.0,Eder Militao,1,0
+2139,2022,15.0,Canadá,2484.0,Kamal Miller,1,0
+2140,2022,71.0,Serbia,3666.0,Aleksandar Mitrović,1,0
+2141,2022,24.0,Croacia,1124.0,Luka Modric,1,0
+2142,2022,16.0,Catar,6349.0,Ismaeel Mohammad,1,0
+2143,2022,7.0,Australia,7347.0,Aaron Mooy,1,0
+2144,2022,56.0,México,7793.0,Hector Moreno,1,0
+2145,2022,65.0,Portugal,3277.0,Rúben Neves,1,0
+2146,2022,14.0,Camerún,954.0,Nicolas Nkoulou,1,0
+2147,2022,80.0,Uruguay,5941.0,Darwin Núñez,1,0
+2148,2022,80.0,Uruguay,5943.0,Mathías Olivera,1,0
+2149,2022,15.0,Canadá,2488.0,Jonathan Osorio,1,0
+2150,2022,55.0,Marruecos,8391.0,Azzedine Ounahi,1,0
+2151,2022,65.0,Portugal,3293.0,Danilo Pereira,1,0
+2152,2022,24.0,Croacia,1130.0,Bruno Petkovic,1,0
+2153,2022,6.0,Argentina,5364.0,German Pezzella,1,0
+2154,2022,48.0,Irán,4164.0,Morteza Pouraliganji,1,0
+2155,2022,36.0,Francia,4015.0,Adrien Rabiot,1,0
+2156,2022,71.0,Serbia,3713.0,Predrag Rajković,1,0
+2157,2022,37.0,Gales,2560.0,Aaron Ramsey,1,0
+2158,2022,35.0,Estados Unidos,2869.0,Tim Ream,1,0
+2159,2022,48.0,Irán,4167.0,Ramin Rezaeian,1,0
+2160,2022,74.0,Suiza,8176.0,Fabian Rieder,1,0
+2161,2022,37.0,Gales,2562.0,Joe Rodon,1,0
+2162,2022,55.0,Marruecos,8397.0,Abdelhamid Sabiri,1,0
+2163,2022,55.0,Marruecos,8400.0,Romain Saïss,1,0
+2164,2022,56.0,México,7866.0,Jorge Sánchez,1,0
+2165,2022,78.0,Túnez,7248.0,Ferjani Sassi,1,0
+2166,2022,26.0,Dinamarca,4283.0,Robert Skov,1,0
+2167,2022,80.0,Uruguay,6010.0,Luis Suarez,1,0
+2168,2022,38.0,Ghana,1508.0,Kamaldeen Sulemana,1,0
+2169,2022,4.0,Arabia Saudita,4841.0,Hassan Tambakti,1,0
+2170,2022,53.0,Japón,174.0,Shogo Taniguchi,1,0
+2171,2022,36.0,Francia,4048.0,Aurélien Tchouaméni,1,0
+2172,2022,36.0,Francia,4052.0,Marcus Thuram,1,0
+2173,2022,60.0,Paises Bajos,6489.0,Jurrïen Timber,1,0
+2174,2022,14.0,Camerún,981.0,Nouhou Tolo,1,0
+2175,2022,74.0,Suiza,8210.0,Rubén Vargas,1,0
+2176,2022,65.0,Portugal,3327.0,Vitinha,1,0
+2177,2022,15.0,Canadá,2499.0,Steven Vitoria,1,0
+2178,2022,60.0,Paises Bajos,6533.0,Wout Weghorst,1,0
+2179,2022,74.0,Suiza,8224.0,Silvan Widmer,1,0
+2180,2022,38.0,Ghana,1515.0,Inaki Williams,1,0
+2181,2022,74.0,Suiza,8228.0,Granit Xhaka,1,0
+2182,2022,53.0,Japón,184.0,Miki Yamane,1,0
+2183,2022,53.0,Japón,187.0,Maya Yoshida,1,0

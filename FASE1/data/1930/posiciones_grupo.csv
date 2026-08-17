@@ -1,0 +1,14 @@
+anio,id_grupo,seleccion,pts,pj,pg,pe,pp,gf,gc,diferencia,clasificado
+1930,1,Argentina,6,3,3,0,0,10,4,6,Si
+1930,1,Chile,4,3,2,0,1,5,3,2,No
+1930,1,Francia,2,3,1,0,2,4,3,1,No
+1930,1,México,0,3,0,0,3,4,13,-9,No
+1930,2,Yugoslavia,4,2,2,0,0,6,1,5,Si
+1930,2,Brasil,2,2,1,0,1,5,2,3,No
+1930,2,Bolivia,0,2,0,0,2,0,8,-8,No
+1930,3,Uruguay,4,2,2,0,0,5,0,5,Si
+1930,3,Rumania,2,2,1,0,1,3,5,-2,No
+1930,3,Perú,0,2,0,0,2,1,4,-3,No
+1930,4,Estados Unidos,4,2,2,0,0,6,0,6,Si
+1930,4,Paraguay,2,2,1,0,1,1,3,-2,No
+1930,4,Bélgica,0,2,0,0,2,0,4,-4,No

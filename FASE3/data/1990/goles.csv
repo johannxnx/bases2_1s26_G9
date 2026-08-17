@@ -1,0 +1,116 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1990,1990_gA_1,Italia,Salvatore Schillaci,78,NO,NO
+1990,1990_gA_2,Estados Unidos,Paul Caligiuri,60,NO,NO
+1990,1990_gA_2,Checoslovaquia,Tomas Skuhravy,26,NO,NO
+1990,1990_gA_2,Checoslovaquia,Michal Bilek,40,SI,NO
+1990,1990_gA_2,Checoslovaquia,Ivan Hasek,50,NO,NO
+1990,1990_gA_2,Checoslovaquia,Tomas Skuhravy,78,NO,NO
+1990,1990_gA_2,Checoslovaquia,Milan Luhovy,90,NO,NO
+1990,1990_gA_3,Italia,Giuseppe Giannini,11,NO,NO
+1990,1990_gA_4,Checoslovaquia,Michal Bilek,31,SI,NO
+1990,1990_gA_5,Italia,Salvatore Schillaci,9,NO,NO
+1990,1990_gA_5,Italia,Roberto Baggio,78,NO,NO
+1990,1990_gA_6,Austria,Andeas Ogris,49,NO,NO
+1990,1990_gA_6,Austria,Gerhard Rodax,63,NO,NO
+1990,1990_gA_6,Estados Unidos,Bruce Murray,83,NO,NO
+1990,1990_gB_1,Camerún,Francois Omam-Biyik,67,NO,NO
+1990,1990_gB_2,Rumania,Marius Lacatus,41,NO,NO
+1990,1990_gB_2,Rumania,Marius Lacatus,55,SI,NO
+1990,1990_gB_3,Argentina,Pedro Troglio,27,NO,NO
+1990,1990_gB_3,Argentina,Jorge Burruchaga,79,NO,NO
+1990,1990_gB_4,Camerún,Roger Milla,76,NO,NO
+1990,1990_gB_4,Camerún,Roger Milla,86,NO,NO
+1990,1990_gB_4,Rumania,Gavril Balint,88,NO,NO
+1990,1990_gB_5,Argentina,Pedro Monzon,62,NO,NO
+1990,1990_gB_5,Rumania,Gavril Balint,68,NO,NO
+1990,1990_gB_6,URSS,Oleg Protasov,20,NO,NO
+1990,1990_gB_6,URSS,Andrei Zygmantovich,29,NO,NO
+1990,1990_gB_6,URSS,Aleksandr Zavarov,52,NO,NO
+1990,1990_gB_6,URSS,Igor Dobrovolskyi,63,NO,NO
+1990,1990_gC_1,Brasil,Careca,40,NO,NO
+1990,1990_gC_1,Brasil,Careca,63,NO,NO
+1990,1990_gC_1,Suecia,Tomas Brolin,79,NO,NO
+1990,1990_gC_2,Costa Rica,Juan Cayasso,49,NO,NO
+1990,1990_gC_3,Brasil,Muller,33,NO,NO
+1990,1990_gC_4,Suecia,Glenn Stromberg,86,NO,NO
+1990,1990_gC_4,Escocia,Stuart Mccall,11,NO,NO
+1990,1990_gC_4,Escocia,Mo Johnston,81,SI,NO
+1990,1990_gC_5,Brasil,Muller,81,NO,NO
+1990,1990_gC_6,Suecia,Johnny Ekstrom,32,NO,NO
+1990,1990_gC_6,Costa Rica,Roger Flores,75,NO,NO
+1990,1990_gC_6,Costa Rica,Hernan Medford,87,NO,NO
+1990,1990_gD_1,Colombia,Bernardo Redin,50,NO,NO
+1990,1990_gD_1,Colombia,Carlos Valderrama,85,NO,NO
+1990,1990_gD_2,Alemania Occidental,Lothar Matthaeus,28,NO,NO
+1990,1990_gD_2,Alemania Occidental,Juergen Klinsmann,39,NO,NO
+1990,1990_gD_2,Alemania Occidental,Lothar Matthaeus,64,NO,NO
+1990,1990_gD_2,Alemania Occidental,Rudi Voeller,70,NO,NO
+1990,1990_gD_2,Yugoslavia,Davor Jozic,55,NO,NO
+1990,1990_gD_3,Yugoslavia,Davor Jozic,75,NO,NO
+1990,1990_gD_4,Alemania Occidental,Rudi Voeller,35,NO,NO
+1990,1990_gD_4,Alemania Occidental,Juergen Klinsmann,37,NO,NO
+1990,1990_gD_4,Alemania Occidental,Lothar Matthaeus,47,NO,NO
+1990,1990_gD_4,Alemania Occidental,Uwe Bein,58,NO,NO
+1990,1990_gD_4,Alemania Occidental,Rudi Voeller,75,NO,NO
+1990,1990_gD_4,Emiratos Arabes,Khalid Ismail,46,NO,NO
+1990,1990_gD_5,Alemania Occidental,Pierre Littbarski,88,NO,NO
+1990,1990_gD_5,Colombia,Freddy Rincon,90,NO,NO
+1990,1990_gD_6,Yugoslavia,Safet Susic,5,NO,NO
+1990,1990_gD_6,Yugoslavia,Darko Pancev,9,NO,NO
+1990,1990_gD_6,Yugoslavia,Darko Pancev,46,NO,NO
+1990,1990_gD_6,Yugoslavia,Robert Prosinecki,90,NO,NO
+1990,1990_gD_6,Emiratos Arabes,Ali Thani Jumaa,22,NO,NO
+1990,1990_gE_1,Bélgica,Marc De Grijse,53,NO,NO
+1990,1990_gE_1,Bélgica,Michel De Wolf,64,NO,NO
+1990,1990_gE_3,Bélgica,Leo Clijsters,15,NO,NO
+1990,1990_gE_3,Bélgica,Enzo Scifo,24,NO,NO
+1990,1990_gE_3,Bélgica,Jan Ceulemans,47,NO,NO
+1990,1990_gE_3,Uruguay,Pablo Bengoechea,73,NO,NO
+1990,1990_gE_4,Corea del Sur,Bo Kwan Hwang,43,NO,NO
+1990,1990_gE_4,España,Michel,23,NO,NO
+1990,1990_gE_4,España,Michel,61,NO,NO
+1990,1990_gE_4,España,Michel,81,NO,NO
+1990,1990_gE_5,Bélgica,Patrick Vervoort,29,NO,NO
+1990,1990_gE_5,España,Michel,26,SI,NO
+1990,1990_gE_5,España,Alberto Gorriz,38,NO,NO
+1990,1990_gE_6,Uruguay,Daniel Fonseca,90,NO,NO
+1990,1990_gF_1,Inglaterra,Gary Lineker,9,NO,NO
+1990,1990_gF_1,Irlanda,Kevin Sheedy,73,NO,NO
+1990,1990_gF_2,Paises Bajos,Wim Kieft,58,NO,NO
+1990,1990_gF_2,Egipto,Magdy Abedelghani,83,SI,NO
+1990,1990_gF_5,Inglaterra,Mark Wright,58,NO,NO
+1990,1990_gF_6,Irlanda,Niall Quinn,71,NO,NO
+1990,1990_gF_6,Paises Bajos,Ruud Gullit,11,NO,NO
+1990,1990_r_37,Camerún,Roger Milla,106,NO,NO
+1990,1990_r_37,Camerún,Roger Milla,109,NO,NO
+1990,1990_r_37,Colombia,Bernardo Redin,115,NO,NO
+1990,1990_r_38,Checoslovaquia,Tomas Skuhravy,12,NO,NO
+1990,1990_r_38,Checoslovaquia,Tomas Skuhravy,63,NO,NO
+1990,1990_r_38,Checoslovaquia,Lubos Kubik,75,NO,NO
+1990,1990_r_38,Checoslovaquia,Tomas Skuhravy,82,NO,NO
+1990,1990_r_38,Costa Rica,Ronald Gonzalez,54,NO,NO
+1990,1990_r_39,Argentina,Claudio Caniggia,80,NO,NO
+1990,1990_r_40,Alemania Occidental,Juergen Klinsmann,51,NO,NO
+1990,1990_r_40,Alemania Occidental,Andreas Brehme,82,NO,NO
+1990,1990_r_40,Paises Bajos,Ronald Koeman,89,SI,NO
+1990,1990_r_42,Italia,Salvatore Schillaci,65,NO,NO
+1990,1990_r_42,Italia,Aldo Serena,85,NO,NO
+1990,1990_r_43,España,Julio Salinas,83,NO,NO
+1990,1990_r_43,Yugoslavia,Dragan Stojkovic,78,NO,NO
+1990,1990_r_43,Yugoslavia,Dragan Stojkovic,92,NO,NO
+1990,1990_r_44,Inglaterra,David Platt,119,NO,NO
+1990,1990_r_46,Italia,Salvatore Schillaci,38,NO,NO
+1990,1990_r_47,Alemania Occidental,Lothar Matthaeus,25,SI,NO
+1990,1990_r_48,Camerún,Emmanuel Kunde,61,SI,NO
+1990,1990_r_48,Camerún,Eugene Ekeke,65,NO,NO
+1990,1990_r_48,Inglaterra,David Platt,25,NO,NO
+1990,1990_r_48,Inglaterra,Gary Lineker,83,SI,NO
+1990,1990_r_48,Inglaterra,Gary Lineker,105,SI,NO
+1990,1990_r_49,Italia,Salvatore Schillaci,17,NO,NO
+1990,1990_r_49,Argentina,Claudio Caniggia,67,NO,NO
+1990,1990_r_50,Inglaterra,Gary Lineker,80,NO,NO
+1990,1990_r_50,Alemania Occidental,Andreas Brehme,60,NO,NO
+1990,1990_r_51,Italia,Roberto Baggio,71,NO,NO
+1990,1990_r_51,Italia,Salvatore Schillaci,86,SI,NO
+1990,1990_r_51,Inglaterra,David Platt,81,NO,NO
+1990,1990_r_52,Alemania Occidental,Andreas Brehme,85,SI,NO

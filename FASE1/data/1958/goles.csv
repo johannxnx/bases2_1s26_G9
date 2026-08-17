@@ -1,0 +1,127 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1958,1958_g1_1,Argentina,Omar Oreste Corbatta,2,NO,NO
+1958,1958_g1_1,Alemania Occidental,Helmut Rahn,32,NO,NO
+1958,1958_g1_1,Alemania Occidental,Uwe Seeler,40,NO,NO
+1958,1958_g1_1,Alemania Occidental,Helmut Rahn,79,NO,NO
+1958,1958_g1_2,Irlanda del Norte,Wilbur Cush,20,NO,NO
+1958,1958_g1_3,Alemania Occidental,Hans Schaefer,59,NO,NO
+1958,1958_g1_3,Alemania Occidental,Helmut Rahn,70,NO,NO
+1958,1958_g1_3,Checoslovaquia,Milan Dvorak,24,SI,NO
+1958,1958_g1_3,Checoslovaquia,Zdenek Zikan,43,NO,NO
+1958,1958_g1_4,Argentina,Omar Oreste Corbatta,38,SI,NO
+1958,1958_g1_4,Argentina,Norberto Menendez,55,NO,NO
+1958,1958_g1_4,Argentina,Ludovico Avio,59,NO,NO
+1958,1958_g1_4,Irlanda del Norte,Peter Mcparland,3,NO,NO
+1958,1958_g1_5,Alemania Occidental,Helmut Rahn,20,NO,NO
+1958,1958_g1_5,Alemania Occidental,Uwe Seeler,79,NO,NO
+1958,1958_g1_5,Irlanda del Norte,Peter Mcparland,19,NO,NO
+1958,1958_g1_5,Irlanda del Norte,Peter Mcparland,60,NO,NO
+1958,1958_g1_6,Checoslovaquia,Milan Dvorak,8,NO,NO
+1958,1958_g1_6,Checoslovaquia,Zdenek Zikan,17,NO,NO
+1958,1958_g1_6,Checoslovaquia,Vaclav Hovorka,40,NO,NO
+1958,1958_g1_6,Checoslovaquia,Jiri Feureisl,69,NO,NO
+1958,1958_g1_6,Checoslovaquia,Zdenek Zikan,82,NO,NO
+1958,1958_g1_6,Checoslovaquia,Vaclav Hovorka,89,NO,NO
+1958,1958_g1_6,Argentina,Omar Oreste Corbatta,65,SI,NO
+1958,1958_g1_7,Irlanda del Norte,Peter Mcparland,44,NO,NO
+1958,1958_g1_7,Irlanda del Norte,Peter Mcparland,99,NO,NO
+1958,1958_g1_7,Checoslovaquia,Zdenek Zikan,19,NO,NO
+1958,1958_g2_1,Francia,Just Fontaine,24,NO,NO
+1958,1958_g2_1,Francia,Just Fontaine,30,NO,NO
+1958,1958_g2_1,Francia,Roger Piantoni,52,NO,NO
+1958,1958_g2_1,Francia,Maryan Wisnieski,61,NO,NO
+1958,1958_g2_1,Francia,Just Fontaine,67,NO,NO
+1958,1958_g2_1,Francia,Raymond Kopa,70,NO,NO
+1958,1958_g2_1,Francia,Jean Vincent,83,NO,NO
+1958,1958_g2_1,Paraguay,Florencio Amarilla,20,NO,NO
+1958,1958_g2_1,Paraguay,Florencio Amarilla,44,SI,NO
+1958,1958_g2_1,Paraguay,Jorge Romero,50,NO,NO
+1958,1958_g2_2,Yugoslavia,Aleksandar Petakovic,6,NO,NO
+1958,1958_g2_2,Escocia,Jimmy Murray,49,NO,NO
+1958,1958_g2_3,Paraguay,Juan Aguero,4,NO,NO
+1958,1958_g2_3,Paraguay,Cayetano Re,45,NO,NO
+1958,1958_g2_3,Paraguay,Jose Parodi,73,NO,NO
+1958,1958_g2_3,Escocia,Jackie Mudie,24,NO,NO
+1958,1958_g2_3,Escocia,Bobby Collins,76,NO,NO
+1958,1958_g2_4,Yugoslavia,Aleksandar Petakovic,16,NO,NO
+1958,1958_g2_4,Yugoslavia,Toza Veselinovic,63,NO,NO
+1958,1958_g2_4,Yugoslavia,Toza Veselinovic,88,NO,NO
+1958,1958_g2_4,Francia,Just Fontaine,4,NO,NO
+1958,1958_g2_4,Francia,Just Fontaine,85,NO,NO
+1958,1958_g2_5,Francia,Raymond Kopa,22,NO,NO
+1958,1958_g2_5,Francia,Just Fontaine,44,NO,NO
+1958,1958_g2_5,Escocia,Sammy Baird,66,NO,NO
+1958,1958_g2_6,Paraguay,Jose Parodi,20,NO,NO
+1958,1958_g2_6,Paraguay,Juan Aguero,49,NO,NO
+1958,1958_g2_6,Paraguay,Jorge Romero,80,NO,NO
+1958,1958_g2_6,Yugoslavia,Radivoje Ognjanovic,12,NO,NO
+1958,1958_g2_6,Yugoslavia,Toza Veselinovic,29,NO,NO
+1958,1958_g2_6,Yugoslavia,Zdravko Rajkov,73,NO,NO
+1958,1958_g3_1,Hungría,Jozsef Bozsik,5,NO,NO
+1958,1958_g3_1,Gales,John Charles,27,NO,NO
+1958,1958_g3_2,Suecia,Agne Simonsson,17,NO,NO
+1958,1958_g3_2,Suecia,Nils Liedholm,57,SI,NO
+1958,1958_g3_2,Suecia,Agne Simonsson,64,NO,NO
+1958,1958_g3_3,México,Jaime Belmonte,89,NO,NO
+1958,1958_g3_3,Gales,Ivor Allchurch,32,NO,NO
+1958,1958_g3_4,Suecia,Kurt Hamrin,34,NO,NO
+1958,1958_g3_4,Suecia,Kurt Hamrin,55,NO,NO
+1958,1958_g3_4,Hungría,Lajos Tichy,77,NO,NO
+1958,1958_g3_5,Hungría,Lajos Tichy,19,NO,NO
+1958,1958_g3_5,Hungría,Lajos Tichy,46,NO,NO
+1958,1958_g3_5,Hungría,Karoly Sandor,54,NO,NO
+1958,1958_g3_5,Hungría,Jozsef Bencsis,69,NO,NO
+1958,1958_g3_7,Gales,Ivor Allchurch,35,NO,NO
+1958,1958_g3_7,Gales,Terry Medwin,76,NO,NO
+1958,1958_g3_7,Hungría,Lajos Tichy,33,NO,NO
+1958,1958_g4_1,Brasil,Jose Altafini,38,NO,NO
+1958,1958_g4_1,Brasil,Nilton Santos,49,NO,NO
+1958,1958_g4_1,Brasil,Jose Altafini,89,NO,NO
+1958,1958_g4_2,URSS,Nikita Simonyan,13,NO,NO
+1958,1958_g4_2,URSS,Aleksandr Ivanov,55,NO,NO
+1958,1958_g4_2,Inglaterra,Derek Kevan,66,NO,NO
+1958,1958_g4_2,Inglaterra,Tom Finney,85,SI,NO
+1958,1958_g4_4,URSS,Anatoli Ilyin,15,NO,NO
+1958,1958_g4_4,URSS,Valentin Ivanov,63,NO,NO
+1958,1958_g4_5,Brasil,Vava,3,NO,NO
+1958,1958_g4_5,Brasil,Vava,77,NO,NO
+1958,1958_g4_6,Inglaterra,John Haynes,56,NO,NO
+1958,1958_g4_6,Inglaterra,Derek Kevan,73,NO,NO
+1958,1958_g4_6,Austria,Karl Koller,16,NO,NO
+1958,1958_g4_6,Austria,Alfred Koerner,70,NO,NO
+1958,1958_g4_7,URSS,Anatoli Ilyin,68,NO,NO
+1958,1958_r_,Alemania Occidental,Helmut Rahn,12,NO,NO
+1958,1958_r_,Brasil,Pelé,66,NO,NO
+1958,1958_r_,Francia,Maryan Wisnieski,22,NO,NO
+1958,1958_r_,Francia,Just Fontaine,55,NO,NO
+1958,1958_r_,Francia,Just Fontaine,63,NO,NO
+1958,1958_r_,Francia,Roger Piantoni,68,NO,NO
+1958,1958_r_,Suecia,Kurt Hamrin,49,NO,NO
+1958,1958_r_,Suecia,Agne Simonsson,88,NO,NO
+1958,1958_r_,Alemania Occidental,Hans Schaefer,24,NO,NO
+1958,1958_r_,Suecia,Lennart Skoglund,32,NO,NO
+1958,1958_r_,Suecia,Gunnar Gren,81,NO,NO
+1958,1958_r_,Suecia,Kurt Hamrin,88,NO,NO
+1958,1958_r_,Francia,Just Fontaine,9,NO,NO
+1958,1958_r_,Francia,Roger Piantoni,83,NO,NO
+1958,1958_r_,Brasil,Vava,2,NO,NO
+1958,1958_r_,Brasil,Didi,39,NO,NO
+1958,1958_r_,Brasil,Pelé,52,NO,NO
+1958,1958_r_,Brasil,Pelé,64,NO,NO
+1958,1958_r_,Brasil,Pelé,75,NO,NO
+1958,1958_r_,Alemania Occidental,Hans Ciesclarczyk,18,NO,NO
+1958,1958_r_,Alemania Occidental,Helmut Rahn,52,NO,NO
+1958,1958_r_,Alemania Occidental,Hans Schaefer,84,NO,NO
+1958,1958_r_,Francia,Just Fontaine,16,NO,NO
+1958,1958_r_,Francia,Raymond Kopa,27,SI,NO
+1958,1958_r_,Francia,Just Fontaine,36,NO,NO
+1958,1958_r_,Francia,Yvon Douis,50,NO,NO
+1958,1958_r_,Francia,Just Fontaine,78,NO,NO
+1958,1958_r_,Francia,Just Fontaine,89,NO,NO
+1958,1958_r_,Suecia,Nils Liedholm,4,NO,NO
+1958,1958_r_,Suecia,Agne Simonsson,80,NO,NO
+1958,1958_r_,Brasil,Vava,9,NO,NO
+1958,1958_r_,Brasil,Vava,32,NO,NO
+1958,1958_r_,Brasil,Pelé,55,NO,NO
+1958,1958_r_,Brasil,Zagallo,68,NO,NO
+1958,1958_r_,Brasil,Pelé,90,NO,NO

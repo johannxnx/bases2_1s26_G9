@@ -1,0 +1,111 @@
+anio,jugador,seleccion,goles,partidos,promedio
+2018,Harry Kane,Inglaterra,6,6,1.00
+2018,Denis Cheryshev,Rusia,4,5,0.80
+2018,Antoine Griezmann,Francia,4,7,0.57
+2018,Romelu Lukaku,Bélgica,4,6,0.67
+2018,Kylian Mbappé,Francia,4,7,0.57
+2018,Cristiano Ronaldo,Portugal,4,4,1.00
+2018,Edinson Cavani,Uruguay,3,4,0.75
+2018,Diego Costa,España,3,4,0.75
+2018,Artem Dzyuba,Rusia,3,5,0.60
+2018,Eden Hazard,Bélgica,3,6,0.50
+2018,Mario Mandzukic,Croacia,3,6,0.50
+2018,Yerry Mina,Colombia,3,3,1.00
+2018,Ivan Perisic,Croacia,3,7,0.43
+2018,Sergio Agüero,Argentina,2,4,0.50
+2018,Andreas Granqvist,Suecia,2,5,0.40
+2018,Takashi Inui,Japón,2,4,0.50
+2018,Mile Jedinak,Australia,2,3,0.67
+2018,Wahbi Khazri,Túnez,2,3,0.67
+2018,Luka Modric,Croacia,2,7,0.29
+2018,Ahmed Musa,Nigeria,2,3,0.67
+2018,Neymar Jr.,Brasil,2,5,0.40
+2018,Philippe Coutinho,Brasil,2,5,0.40
+2018,Mohamed Salah,Egipto,2,2,1.00
+2018,Heung-Min Son,Corea del Sur,2,3,0.67
+2018,John Stones,Inglaterra,2,7,0.29
+2018,Luis Suarez,Uruguay,2,5,0.40
+2018,Salem Al-Dawsari,Arabia Saudita,1,3,0.33
+2018,Salman Al-Faraj,Arabia Saudita,1,3,0.33
+2018,Dele Alli,Inglaterra,1,5,0.20
+2018,Karim Ansarifard,Irán,1,3,0.33
+2018,Iago Aspas,España,1,3,0.33
+2018,Ludwig Augustinsson,Suecia,1,5,0.20
+2018,Milan Badelj,Croacia,1,3,0.33
+2018,Felipe Baloy,Panamá,1,1,1.00
+2018,Michy Batshuayi,Bélgica,1,3,0.33
+2018,Jan Bednarek,Polonia,1,3,0.33
+2018,Fakhreddine Ben Youssef,Túnez,1,3,0.33
+2018,Khalid Boutaïb,Marruecos,1,2,0.50
+2018,Dylan Bronn,Túnez,1,2,0.50
+2018,André Carrillo,Perú,1,3,0.33
+2018,Nacer Chadli,Bélgica,1,6,0.17
+2018,Juan Guillermo Cuadrado,Colombia,1,4,0.25
+2018,Kevin De Bruyne,Bélgica,1,6,0.17
+2018,Angel Di Maria,Argentina,1,3,0.33
+2018,Josip Drmic,Suiza,1,3,0.33
+2018,Blerim Dzemaili,Suiza,1,4,0.25
+2018,Youssef En-Nesyri,Marruecos,1,1,1.00
+2018,Christian Eriksen,Dinamarca,1,4,0.25
+2018,Radamel Falcao,Colombia,1,4,0.25
+2018,Marouane Fellaini,Bélgica,1,5,0.20
+2018,Mário Fernandes,Rusia,1,5,0.20
+2018,Alfred Finnbogason,Islandia,1,3,0.33
+2018,Emil Forsberg,Suecia,1,5,0.20
+2018,Yury Gazinsky,Rusia,1,4,0.25
+2018,José María Giménez,Uruguay,1,4,0.25
+2018,Aleksandr Golovin,Rusia,1,4,0.25
+2018,Paolo Guerrero,Perú,1,3,0.33
+2018,Genki Haraguchi,Japón,1,3,0.33
+2018,Javier Hernandez,México,1,4,0.25
+2018,Keisuke Honda,Japón,1,3,0.33
+2018,Isco,España,1,4,0.25
+2018,Adnan Januzaj,Bélgica,1,1,1.00
+2018,Mathias Jørgensen,Dinamarca,1,3,0.33
+2018,Shinji Kagawa,Japón,1,3,0.33
+2018,Young-Gwon Kim,Corea del Sur,1,3,0.33
+2018,Aleksandar Kolarov,Serbia,1,3,0.33
+2018,Andrej Kramarić,Croacia,1,7,0.14
+2018,Toni Kroos,Alemania,1,3,0.33
+2018,Grzegorz Krychowiak,Polonia,1,3,0.33
+2018,Jesse Lingard,Inglaterra,1,6,0.17
+2018,Hirving Lozano,México,1,4,0.25
+2018,Harry Maguire,Inglaterra,1,7,0.14
+2018,Sadio Mané,Senegal,1,3,0.33
+2018,Gabriel Mercado,Argentina,1,3,0.33
+2018,Dries Mertens,Bélgica,1,6,0.17
+2018,Lionel Messi,Argentina,1,4,0.25
+2018,Thomas Meunier,Bélgica,1,5,0.20
+2018,Aleksandar Mitrović,Serbia,1,3,0.33
+2018,Victor Moses,Nigeria,1,3,0.33
+2018,Nacho,España,1,2,0.50
+2018,M'Baye Niang,Senegal,1,3,0.33
+2018,Yuya Osako,Japón,1,4,0.25
+2018,Paulinho,Brasil,1,5,0.20
+2018,Benjamin Pavard,Francia,1,6,0.17
+2018,Pepe,Portugal,1,4,0.25
+2018,Paul Pogba,Francia,1,6,0.17
+2018,Ricardo Quaresma,Portugal,1,3,0.33
+2018,Juan Quintero,Colombia,1,4,0.25
+2018,Ivan Rakitic,Croacia,1,7,0.14
+2018,Ante Rebic,Croacia,1,6,0.17
+2018,Renato Augusto,Brasil,1,3,0.33
+2018,Marco Reus,Alemania,1,3,0.33
+2018,Roberto Firmino,Brasil,1,4,0.25
+2018,Marcos Rojo,Argentina,1,3,0.33
+2018,Ferjani Sassi,Túnez,1,3,0.33
+2018,Xherdan Shaqiri,Suiza,1,4,0.25
+2018,Gylfi Sigurdsson,Islandia,1,3,0.33
+2018,Thiago Silva,Brasil,1,5,0.20
+2018,Ola Toivonen,Suecia,1,5,0.20
+2018,Kieran Trippier,Inglaterra,1,6,0.17
+2018,Samuel Umtiti,Francia,1,6,0.17
+2018,Raphael Varane,Francia,1,7,0.14
+2018,Carlos Vela,México,1,4,0.25
+2018,Jan Vertonghen,Bélgica,1,6,0.17
+2018,Domagoj Vida,Croacia,1,6,0.17
+2018,Moussa Wagué,Senegal,1,3,0.33
+2018,Kendall Waston,Costa Rica,1,1,1.00
+2018,Granit Xhaka,Suiza,1,4,0.25
+2018,Yussuf Yurary Poulsen,Dinamarca,1,3,0.33
+2018,Steven Zuber,Suiza,1,3,0.33

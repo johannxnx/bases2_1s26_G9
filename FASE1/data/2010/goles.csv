@@ -1,0 +1,146 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+2010,2010_gA_1,Sudáfrica,Siphiwe Tshabalala,55,NO,NO
+2010,2010_gA_1,México,Rafael Marquez,79,NO,NO
+2010,2010_gA_3,Uruguay,Diego Forlan,24,NO,NO
+2010,2010_gA_3,Uruguay,Diego Forlan,80,SI,NO
+2010,2010_gA_3,Uruguay,Alvaro Pereira,90,NO,NO
+2010,2010_gA_4,México,Javier Hernandez,64,NO,NO
+2010,2010_gA_4,México,Cuauhtemoc Blanco,79,SI,NO
+2010,2010_gA_5,Uruguay,Luis Suarez,43,NO,NO
+2010,2010_gA_6,Francia,Florent Malouda,70,NO,NO
+2010,2010_gA_6,Sudáfrica,Bongani Khumalo,20,NO,NO
+2010,2010_gA_6,Sudáfrica,Katlego Mphela,37,NO,NO
+2010,2010_gB_1,Argentina,Gabriel Heinze,6,NO,NO
+2010,2010_gB_2,Corea del Sur,Jung Soo Lee,7,NO,NO
+2010,2010_gB_2,Corea del Sur,Ji Sung Park,52,NO,NO
+2010,2010_gB_3,Grecia,Dimitrios Salpingidis,44,NO,NO
+2010,2010_gB_3,Grecia,Vasileios Torosidis,71,NO,NO
+2010,2010_gB_3,Nigeria,Kalu Uche,16,NO,NO
+2010,2010_gB_4,Argentina,Chu Young Park,17,NO,SI
+2010,2010_gB_4,Argentina,Gonzalo Higuain,33,NO,NO
+2010,2010_gB_4,Argentina,Gonzalo Higuain,76,NO,NO
+2010,2010_gB_4,Argentina,Gonzalo Higuain,80,NO,NO
+2010,2010_gB_4,Corea del Sur,Chung-yong Lee,45,NO,NO
+2010,2010_gB_5,Nigeria,Kalu Uche,12,NO,NO
+2010,2010_gB_5,Nigeria,Yakubu Aiyegbeni,69,SI,NO
+2010,2010_gB_5,Corea del Sur,Jung Soo Lee,38,NO,NO
+2010,2010_gB_5,Corea del Sur,Chu Young Park,49,NO,NO
+2010,2010_gB_6,Argentina,Martin Demichelis,77,NO,NO
+2010,2010_gB_6,Argentina,Martin Palermo,89,NO,NO
+2010,2010_gC_1,Inglaterra,Steven Gerrard,4,NO,NO
+2010,2010_gC_1,Estados Unidos,Clint Dempsey,40,NO,NO
+2010,2010_gC_2,Eslovenia,Robert Koren,79,NO,NO
+2010,2010_gC_3,Eslovenia,Valter Birsa,13,NO,NO
+2010,2010_gC_3,Eslovenia,Zlatan Ljubijankic,42,NO,NO
+2010,2010_gC_3,Estados Unidos,Landon Donovan,48,NO,NO
+2010,2010_gC_3,Estados Unidos,Michael Bradley,82,NO,NO
+2010,2010_gC_5,Inglaterra,Jermain Defoe,23,NO,NO
+2010,2010_gC_6,Estados Unidos,Landon Donovan,90,NO,NO
+2010,2010_gD_1,Alemania,Lukas Podolski,8,NO,NO
+2010,2010_gD_1,Alemania,Miroslav Klose,26,NO,NO
+2010,2010_gD_1,Alemania,Thomas Müller,68,NO,NO
+2010,2010_gD_1,Alemania,Cacau,70,NO,NO
+2010,2010_gD_2,Ghana,Asamoah Gyan,85,SI,NO
+2010,2010_gD_3,Serbia,Milan Jovanovic,38,NO,NO
+2010,2010_gD_4,Ghana,Asamoah Gyan,25,SI,NO
+2010,2010_gD_4,Australia,Brett Holman,11,NO,NO
+2010,2010_gD_5,Alemania,Mesut Ozil,60,NO,NO
+2010,2010_gD_6,Australia,Tim Cahill,69,NO,NO
+2010,2010_gD_6,Australia,Brett Holman,73,NO,NO
+2010,2010_gD_6,Serbia,Marko Pantelic,84,NO,NO
+2010,2010_gE_1,Paises Bajos,Daniel Agger,46,NO,SI
+2010,2010_gE_1,Paises Bajos,Dirk Kuyt,85,NO,NO
+2010,2010_gE_2,Japón,Keisuke Honda,39,NO,NO
+2010,2010_gE_3,Paises Bajos,Wesley Sneijder,53,NO,NO
+2010,2010_gE_4,Camerún,Samuel Eto'o,10,NO,NO
+2010,2010_gE_4,Dinamarca,Nicklas Bendtner,33,NO,NO
+2010,2010_gE_4,Dinamarca,Dennis Rommedahl,61,NO,NO
+2010,2010_gE_5,Dinamarca,Jon Dahl Tomasson,81,NO,NO
+2010,2010_gE_5,Japón,Keisuke Honda,17,NO,NO
+2010,2010_gE_5,Japón,Yasuhito Endo,30,NO,NO
+2010,2010_gE_5,Japón,Shinji Okazaki,87,NO,NO
+2010,2010_gE_6,Camerún,Samuel Eto'o,65,SI,NO
+2010,2010_gE_6,Paises Bajos,Robin Van Persie,36,NO,NO
+2010,2010_gE_6,Paises Bajos,Klaas Jan Huntelaar,83,NO,NO
+2010,2010_gF_1,Italia,Daniele De Rossi,63,NO,NO
+2010,2010_gF_1,Paraguay,Antolin Alcaraz,39,NO,NO
+2010,2010_gF_2,Nueva Zelanda,Winston Reid,90,NO,NO
+2010,2010_gF_2,Eslovaquia,Robert Vittek,50,NO,NO
+2010,2010_gF_3,Paraguay,Enrique Vera,27,NO,NO
+2010,2010_gF_3,Paraguay,Cristian Riveros,86,NO,NO
+2010,2010_gF_4,Italia,Vincenzo Iaquinta,29,SI,NO
+2010,2010_gF_4,Nueva Zelanda,Shane Smeltz,7,NO,NO
+2010,2010_gF_5,Eslovaquia,Robert Vittek,25,NO,NO
+2010,2010_gF_5,Eslovaquia,Robert Vittek,73,NO,NO
+2010,2010_gF_5,Eslovaquia,Kamil Kopunek,89,NO,NO
+2010,2010_gF_5,Italia,Antonio Di Natale,81,NO,NO
+2010,2010_gF_5,Italia,Fabio Quagliarella,90,NO,NO
+2010,2010_gG_2,Brasil,Maicon,55,NO,NO
+2010,2010_gG_2,Brasil,Elano,72,NO,NO
+2010,2010_gG_2,Corea del Norte,Yun Nam Ji,89,NO,NO
+2010,2010_gG_3,Brasil,Luis Fabiano,25,NO,NO
+2010,2010_gG_3,Brasil,Luis Fabiano,50,NO,NO
+2010,2010_gG_3,Brasil,Elano,62,NO,NO
+2010,2010_gG_3,Costa de Marfil,Didier Drogba,79,NO,NO
+2010,2010_gG_4,Portugal,Raul Meireles,29,NO,NO
+2010,2010_gG_4,Portugal,Simao,53,NO,NO
+2010,2010_gG_4,Portugal,Hugo Almeida,56,NO,NO
+2010,2010_gG_4,Portugal,Tiago,60,NO,NO
+2010,2010_gG_4,Portugal,Liedson,81,NO,NO
+2010,2010_gG_4,Portugal,Cristiano Ronaldo,87,NO,NO
+2010,2010_gG_4,Portugal,Tiago,89,NO,NO
+2010,2010_gG_6,Costa de Marfil,Yaya Toure,14,NO,NO
+2010,2010_gG_6,Costa de Marfil,Romaric,20,NO,NO
+2010,2010_gG_6,Costa de Marfil,Salomon Kalou,82,NO,NO
+2010,2010_gH_1,Chile,Jean Beausejour,34,NO,NO
+2010,2010_gH_2,Suiza,Gelson Fernandes,52,NO,NO
+2010,2010_gH_3,Chile,Mark Gonzalez,75,NO,NO
+2010,2010_gH_4,España,David Villa,17,NO,NO
+2010,2010_gH_4,España,David Villa,51,NO,NO
+2010,2010_gH_5,Chile,Rodrigo Millar,47,NO,NO
+2010,2010_gH_5,España,David Villa,24,NO,NO
+2010,2010_gH_5,España,Andrés Iniesta,37,NO,NO
+2010,2010_r_49,Uruguay,Luis Suarez,8,NO,NO
+2010,2010_r_49,Uruguay,Luis Suarez,80,NO,NO
+2010,2010_r_49,Corea del Sur,Chung-yong Lee,68,NO,NO
+2010,2010_r_50,Estados Unidos,Landon Donovan,62,NO,NO
+2010,2010_r_50,Ghana,Kevin Prince Boateng,5,NO,NO
+2010,2010_r_50,Ghana,Asamoah Gyan,93,NO,NO
+2010,2010_r_51,Alemania,Miroslav Klose,20,NO,NO
+2010,2010_r_51,Alemania,Lukas Podolski,32,NO,NO
+2010,2010_r_51,Alemania,Thomas Müller,67,NO,NO
+2010,2010_r_51,Alemania,Thomas Müller,70,NO,NO
+2010,2010_r_51,Inglaterra,Matt Upson,37,NO,NO
+2010,2010_r_52,Argentina,Carlos Tevez,26,NO,NO
+2010,2010_r_52,Argentina,Gonzalo Higuain,33,NO,NO
+2010,2010_r_52,Argentina,Carlos Tevez,52,NO,NO
+2010,2010_r_52,México,Javier Hernandez,71,NO,NO
+2010,2010_r_53,Paises Bajos,Arjen Robben,18,NO,NO
+2010,2010_r_53,Paises Bajos,Wesley Sneijder,84,NO,NO
+2010,2010_r_53,Eslovaquia,Robert Vittek,90,SI,NO
+2010,2010_r_54,Brasil,Juan,35,NO,NO
+2010,2010_r_54,Brasil,Luis Fabiano,38,NO,NO
+2010,2010_r_54,Brasil,Robinho,59,NO,NO
+2010,2010_r_56,España,David Villa,63,NO,NO
+2010,2010_r_57,Paises Bajos,Wesley Sneijder,53,NO,NO
+2010,2010_r_57,Paises Bajos,Wesley Sneijder,68,NO,NO
+2010,2010_r_57,Brasil,Robinho,10,NO,NO
+2010,2010_r_58,Uruguay,Diego Forlan,55,NO,NO
+2010,2010_r_58,Ghana,Sulley Muntari,45,NO,NO
+2010,2010_r_59,Alemania,Thomas Müller,3,NO,NO
+2010,2010_r_59,Alemania,Miroslav Klose,68,NO,NO
+2010,2010_r_59,Alemania,Arne Friedrich,74,NO,NO
+2010,2010_r_59,Alemania,Miroslav Klose,89,NO,NO
+2010,2010_r_60,España,David Villa,83,NO,NO
+2010,2010_r_61,Uruguay,Diego Forlan,41,NO,NO
+2010,2010_r_61,Uruguay,Maximiliano Pereira,90,NO,NO
+2010,2010_r_61,Paises Bajos,Giovanni Van Bronckhorst,18,NO,NO
+2010,2010_r_61,Paises Bajos,Wesley Sneijder,70,NO,NO
+2010,2010_r_61,Paises Bajos,Arjen Robben,73,NO,NO
+2010,2010_r_62,España,Carles Puyol,73,NO,NO
+2010,2010_r_63,Uruguay,Edinson Cavani,28,NO,NO
+2010,2010_r_63,Uruguay,Diego Forlan,51,NO,NO
+2010,2010_r_63,Alemania,Thomas Müller,19,NO,NO
+2010,2010_r_63,Alemania,Marcell Jansen,56,NO,NO
+2010,2010_r_63,Alemania,Sami Khedira,82,NO,NO
+2010,2010_r_64,España,Andrés Iniesta,116,NO,NO

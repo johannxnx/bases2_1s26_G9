@@ -1,0 +1,33 @@
+anio,id_grupo,seleccion,pts,pj,pg,pe,pp,gf,gc,diferencia,clasificado
+2002,A,Dinamarca,7,3,2,1,0,5,2,3,Si
+2002,A,Senegal,5,3,1,2,0,5,4,1,Si
+2002,A,Uruguay,2,3,0,2,1,4,5,-1,No
+2002,A,Francia,1,3,0,1,2,0,3,-3,No
+2002,B,España,9,3,3,0,0,9,4,5,Si
+2002,B,Paraguay,4,3,1,1,1,6,6,0,Si
+2002,B,Sudáfrica,4,3,1,1,1,5,5,0,No
+2002,B,Eslovenia,0,3,0,0,3,2,7,-5,No
+2002,C,Brasil,9,3,3,0,0,11,3,8,Si
+2002,C,Turquía,4,3,1,1,1,5,3,2,Si
+2002,C,Costa Rica,4,3,1,1,1,5,6,-1,No
+2002,C,China,0,3,0,0,3,0,9,-9,No
+2002,D,Corea del Sur,7,3,2,1,0,4,1,3,Si
+2002,D,Estados Unidos,4,3,1,1,1,5,6,-1,Si
+2002,D,Portugal,3,3,1,0,2,6,4,2,No
+2002,D,Polonia,3,3,1,0,2,3,7,-4,No
+2002,E,Alemania,7,3,2,1,0,11,1,10,Si
+2002,E,Irlanda,5,3,1,2,0,5,2,3,Si
+2002,E,Camerún,4,3,1,1,1,2,3,-1,No
+2002,E,Arabia Saudita,0,3,0,0,3,0,12,-12,No
+2002,F,Suecia,5,3,1,2,0,4,3,1,Si
+2002,F,Inglaterra,5,3,1,2,0,2,1,1,Si
+2002,F,Argentina,4,3,1,1,1,2,2,0,No
+2002,F,Nigeria,1,3,0,1,2,1,3,-2,No
+2002,G,México,7,3,2,1,0,4,2,2,Si
+2002,G,Italia,4,3,1,1,1,4,3,1,Si
+2002,G,Croacia,3,3,1,0,2,2,3,-1,No
+2002,G,Ecuador,3,3,1,0,2,2,4,-2,No
+2002,H,Japón,7,3,2,1,0,5,2,3,Si
+2002,H,Bélgica,5,3,1,2,0,6,5,1,Si
+2002,H,Rusia,3,3,1,0,2,4,4,0,No
+2002,H,Túnez,1,3,0,1,2,1,5,-4,No

@@ -1,0 +1,85 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1938,1938_r_,Suiza,Andre Abegglen,43,NO,NO
+1938,1938_r_,Alemania,Josef Gauchel,29,NO,NO
+1938,1938_r_,Francia,Emile Veinante,1,NO,NO
+1938,1938_r_,Francia,Jean Nicolas,16,NO,NO
+1938,1938_r_,Francia,Jean Nicolas,69,NO,NO
+1938,1938_r_,Bélgica,Henri Isemborghs,38,NO,NO
+1938,1938_r_,Italia,Pietro Ferraris,2,NO,NO
+1938,1938_r_,Italia,Silvio Piola,94,NO,NO
+1938,1938_r_,Noruega,Arne Brustad,83,NO,NO
+1938,1938_r_,Brasil,Leonidas,18,NO,NO
+1938,1938_r_,Brasil,Romeu,25,NO,NO
+1938,1938_r_,Brasil,Peracio,44,NO,NO
+1938,1938_r_,Brasil,Peracio,71,NO,NO
+1938,1938_r_,Brasil,Leonidas,93,NO,NO
+1938,1938_r_,Brasil,Leonidas,104,NO,NO
+1938,1938_r_,Polonia,Fryedryk Szerfke,23,SI,NO
+1938,1938_r_,Polonia,Ernest Wilimowski,53,NO,NO
+1938,1938_r_,Polonia,Ernest Wilimowski,59,NO,NO
+1938,1938_r_,Polonia,Ernest Wilimowski,89,NO,NO
+1938,1938_r_,Polonia,Ernest Wilimowski,118,NO,NO
+1938,1938_r_,Hungría,Vilmos Kohut,13,NO,NO
+1938,1938_r_,Hungría,Geza Toldi,15,NO,NO
+1938,1938_r_,Hungría,Gyorgy Sarosi,28,NO,NO
+1938,1938_r_,Hungría,Gyula Zsengeller,35,NO,NO
+1938,1938_r_,Hungría,Gyula Zsengeller,76,NO,NO
+1938,1938_r_,Hungría,Gyorgy Sarosi,89,NO,NO
+1938,1938_r_,Checoslovaquia,Josef Kostalek,93,NO,NO
+1938,1938_r_,Checoslovaquia,Oldrich Nejedly,111,NO,NO
+1938,1938_r_,Checoslovaquia,Josef Zeman,118,NO,NO
+1938,1938_r_,Cuba,Hector Socorro,44,NO,NO
+1938,1938_r_,Cuba,Jose Magrina,69,NO,NO
+1938,1938_r_,Cuba,Hector Socorro,103,NO,NO
+1938,1938_r_,Rumania,Silviu Bindea,35,NO,NO
+1938,1938_r_,Rumania,Iuliu Baratky,88,NO,NO
+1938,1938_r_,Rumania,Stefan Dobay,105,NO,NO
+1938,1938_r_,Suiza,Eugen Walachek,42,NO,NO
+1938,1938_r_,Suiza,Fredy Bickel,64,NO,NO
+1938,1938_r_,Suiza,Andre Abegglen,75,NO,NO
+1938,1938_r_,Suiza,Andre Abegglen,78,NO,NO
+1938,1938_r_,Alemania,Wilhelm Hahnemann,8,NO,NO
+1938,1938_r_,Alemania,Ernst Loertscher,22,NO,SI
+1938,1938_r_,Cuba,Hector Socorro,51,NO,NO
+1938,1938_r_,Cuba,Tomas Fernandez,53,NO,NO
+1938,1938_r_,Rumania,Stefan Dobay,28,NO,NO
+1938,1938_r_,Suecia,Tore Keller,9,NO,NO
+1938,1938_r_,Suecia,Gustav Wetterstrom,32,NO,NO
+1938,1938_r_,Suecia,Gustav Wetterstrom,37,NO,NO
+1938,1938_r_,Suecia,Gustav Wetterstrom,44,NO,NO
+1938,1938_r_,Suecia,Tore Keller,80,NO,NO
+1938,1938_r_,Suecia,Tore Keller,81,NO,NO
+1938,1938_r_,Suecia,Arne Nyberg,84,NO,NO
+1938,1938_r_,Suecia,Harry Andersson,90,NO,NO
+1938,1938_r_,Italia,Gino Colaussi,9,NO,NO
+1938,1938_r_,Italia,Silvio Piola,51,NO,NO
+1938,1938_r_,Italia,Silvio Piola,72,NO,NO
+1938,1938_r_,Francia,Oscar Heisserer,10,NO,NO
+1938,1938_r_,Hungría,Gyorgy Sarosi,40,NO,NO
+1938,1938_r_,Hungría,Gyula Zsengeller,89,NO,NO
+1938,1938_r_,Brasil,Leonidas,30,NO,NO
+1938,1938_r_,Checoslovaquia,Oldrich Nejedly,65,SI,NO
+1938,1938_r_,Brasil,Leonidas,57,NO,NO
+1938,1938_r_,Brasil,Roberto,63,NO,NO
+1938,1938_r_,Checoslovaquia,Vlastimil Kopecky,25,NO,NO
+1938,1938_r_,Hungría,Sven Jacobsson,19,NO,SI
+1938,1938_r_,Hungría,Ferenc Sas,37,NO,NO
+1938,1938_r_,Hungría,Gyula Zsengeller,39,NO,NO
+1938,1938_r_,Hungría,Gyorgy Sarosi,65,NO,NO
+1938,1938_r_,Hungría,Gyula Zsengeller,85,NO,NO
+1938,1938_r_,Suecia,Arne Nyberg,1,NO,NO
+1938,1938_r_,Brasil,Romeu,87,NO,NO
+1938,1938_r_,Italia,Gino Colaussi,51,NO,NO
+1938,1938_r_,Italia,Giuseppe Meazza,60,SI,NO
+1938,1938_r_,Brasil,Romeu,44,NO,NO
+1938,1938_r_,Brasil,Leonidas,63,NO,NO
+1938,1938_r_,Brasil,Leonidas,74,NO,NO
+1938,1938_r_,Brasil,Peracio,80,NO,NO
+1938,1938_r_,Suecia,Sven Jonasson,28,NO,NO
+1938,1938_r_,Suecia,Arne Nyberg,38,NO,NO
+1938,1938_r_,Italia,Gino Colaussi,6,NO,NO
+1938,1938_r_,Italia,Silvio Piola,16,NO,NO
+1938,1938_r_,Italia,Gino Colaussi,35,NO,NO
+1938,1938_r_,Italia,Silvio Piola,82,NO,NO
+1938,1938_r_,Hungría,Pal Titkos,8,NO,NO
+1938,1938_r_,Hungría,Gyorgy Sarosi,70,NO,NO

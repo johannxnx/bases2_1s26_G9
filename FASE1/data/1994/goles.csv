@@ -1,0 +1,142 @@
+anio,id_partido_str,equipo,jugador,minuto,es_penal,es_autogol
+1994,1994_gA_1,Estados Unidos,Eric Wynalda,44,NO,NO
+1994,1994_gA_1,Suiza,Georges Bregy,39,NO,NO
+1994,1994_gA_2,Colombia,Adolfo Valencia,43,NO,NO
+1994,1994_gA_2,Rumania,Florin Raducioiu,15,NO,NO
+1994,1994_gA_2,Rumania,Gheorghe Hagi,34,NO,NO
+1994,1994_gA_2,Rumania,Florin Raducioiu,89,NO,NO
+1994,1994_gA_3,Rumania,Gheorghe Hagi,35,NO,NO
+1994,1994_gA_3,Suiza,Alain Sutter,16,NO,NO
+1994,1994_gA_3,Suiza,Stephane Chapuisat,52,NO,NO
+1994,1994_gA_3,Suiza,Adrian Knup,65,NO,NO
+1994,1994_gA_3,Suiza,Adrian Knup,72,NO,NO
+1994,1994_gA_4,Estados Unidos,Andres Escobar,35,NO,SI
+1994,1994_gA_4,Estados Unidos,Earnie Stewart,52,NO,NO
+1994,1994_gA_4,Colombia,Adolfo Valencia,90,NO,NO
+1994,1994_gA_5,Rumania,Dan Petrescu,18,NO,NO
+1994,1994_gA_6,Colombia,Herman Gaviria,44,NO,NO
+1994,1994_gA_6,Colombia,John Lozano,90,NO,NO
+1994,1994_gB_1,Camerún,David Embe,31,NO,NO
+1994,1994_gB_1,Camerún,Francois Omam-Biyik,47,NO,NO
+1994,1994_gB_1,Suecia,Roger Ljung,8,NO,NO
+1994,1994_gB_1,Suecia,Martin Dahlin,75,NO,NO
+1994,1994_gB_2,Brasil,Romario,26,NO,NO
+1994,1994_gB_2,Brasil,Rai,52,SI,NO
+1994,1994_gB_3,Brasil,Romario,39,NO,NO
+1994,1994_gB_3,Brasil,Marcio Santos,66,NO,NO
+1994,1994_gB_3,Brasil,Bebeto,73,NO,NO
+1994,1994_gB_4,Suecia,Tomas Brolin,37,SI,NO
+1994,1994_gB_4,Suecia,Martin Dahlin,59,NO,NO
+1994,1994_gB_4,Suecia,Martin Dahlin,81,NO,NO
+1994,1994_gB_4,Rusia,Oleg Salenko,4,SI,NO
+1994,1994_gB_5,Rusia,Oleg Salenko,15,NO,NO
+1994,1994_gB_5,Rusia,Oleg Salenko,41,NO,NO
+1994,1994_gB_5,Rusia,Oleg Salenko,44,SI,NO
+1994,1994_gB_5,Rusia,Oleg Salenko,72,NO,NO
+1994,1994_gB_5,Rusia,Oleg Salenko,75,NO,NO
+1994,1994_gB_5,Rusia,Dmitri Radchenko,81,NO,NO
+1994,1994_gB_5,Camerún,Roger Milla,46,NO,NO
+1994,1994_gB_6,Brasil,Romario,46,NO,NO
+1994,1994_gB_6,Suecia,Kennet Andersson,23,NO,NO
+1994,1994_gC_1,Alemania,Juergen Klinsmann,61,NO,NO
+1994,1994_gC_2,España,Julio Salinas,51,NO,NO
+1994,1994_gC_2,España,Goikoetxea,55,NO,NO
+1994,1994_gC_2,Corea del Sur,Myung Bo Hong,85,NO,NO
+1994,1994_gC_2,Corea del Sur,Jung Won Seo,90,NO,NO
+1994,1994_gC_3,Alemania,Juergen Klinsmann,48,NO,NO
+1994,1994_gC_3,España,Goikoetxea,14,NO,NO
+1994,1994_gC_5,Bolivia,Erwin Sanchez,67,NO,NO
+1994,1994_gC_5,España,Pep Guardiola,19,SI,NO
+1994,1994_gC_5,España,Jose Luis Caminero,66,NO,NO
+1994,1994_gC_5,España,Jose Luis Caminero,70,NO,NO
+1994,1994_gC_6,Alemania,Juergen Klinsmann,12,NO,NO
+1994,1994_gC_6,Alemania,Karlheinz Riedle,20,NO,NO
+1994,1994_gC_6,Alemania,Juergen Klinsmann,37,NO,NO
+1994,1994_gC_6,Corea del Sur,Sun Hong Hwang,52,NO,NO
+1994,1994_gC_6,Corea del Sur,Myung Bo Hong,63,NO,NO
+1994,1994_gD_1,Argentina,Gabriel Batistuta,2,NO,NO
+1994,1994_gD_1,Argentina,Gabriel Batistuta,44,NO,NO
+1994,1994_gD_1,Argentina,Diego Maradona,60,NO,NO
+1994,1994_gD_1,Argentina,Gabriel Batistuta,90,SI,NO
+1994,1994_gD_2,Nigeria,Rasheed Yekini,21,NO,NO
+1994,1994_gD_2,Nigeria,Daniel Amokachi,43,NO,NO
+1994,1994_gD_2,Nigeria,Emmanuel Amunike,55,NO,NO
+1994,1994_gD_3,Argentina,Claudio Caniggia,21,NO,NO
+1994,1994_gD_3,Argentina,Claudio Caniggia,28,NO,NO
+1994,1994_gD_3,Nigeria,Samson Siasia,8,NO,NO
+1994,1994_gD_4,Bulgaria,Hristo Stoichkov,5,SI,NO
+1994,1994_gD_4,Bulgaria,Hristo Stoichkov,55,SI,NO
+1994,1994_gD_4,Bulgaria,Iordan Letchkov,65,NO,NO
+1994,1994_gD_4,Bulgaria,Daniel Borimirov,90,NO,NO
+1994,1994_gD_5,Nigeria,Finidi George,45,NO,NO
+1994,1994_gD_5,Nigeria,Daniel Amokachi,90,NO,NO
+1994,1994_gD_6,Bulgaria,Hristo Stoichkov,61,NO,NO
+1994,1994_gD_6,Bulgaria,Nasko Sirakov,90,NO,NO
+1994,1994_gE_1,Irlanda,Ray Houghton,11,NO,NO
+1994,1994_gE_2,Noruega,Kjetil Rekdal,84,NO,NO
+1994,1994_gE_3,Italia,Dino Baggio,69,NO,NO
+1994,1994_gE_4,México,Luis Garcia,42,NO,NO
+1994,1994_gE_4,México,Luis Garcia,65,NO,NO
+1994,1994_gE_4,Irlanda,John Aldridge,84,NO,NO
+1994,1994_gE_6,Italia,Daniele Massaro,48,NO,NO
+1994,1994_gE_6,México,Marcelino Bernal,57,NO,NO
+1994,1994_gF_1,Bélgica,Marc De Grijse,11,NO,NO
+1994,1994_gF_2,Paises Bajos,Wim Jonk,50,NO,NO
+1994,1994_gF_2,Paises Bajos,Gaston Taument,86,NO,NO
+1994,1994_gF_2,Arabia Saudita,Fuad Amin,18,NO,NO
+1994,1994_gF_3,Bélgica,Philippe Albert,65,NO,NO
+1994,1994_gF_4,Arabia Saudita,Sami Al Jaber,7,SI,NO
+1994,1994_gF_4,Arabia Saudita,Fuad Amin,45,NO,NO
+1994,1994_gF_4,Marruecos,Mohammed Chaouch,26,NO,NO
+1994,1994_gF_5,Marruecos,Hassan Nader,47,NO,NO
+1994,1994_gF_5,Paises Bajos,Dennis Bergkamp,43,NO,NO
+1994,1994_gF_5,Paises Bajos,Bryan Roy,77,NO,NO
+1994,1994_gF_6,Arabia Saudita,Said Al Owayran,5,NO,NO
+1994,1994_r_37,Alemania,Rudi Voeller,6,NO,NO
+1994,1994_r_37,Alemania,Juergen Klinsmann,11,NO,NO
+1994,1994_r_37,Alemania,Rudi Voeller,40,NO,NO
+1994,1994_r_37,Bélgica,Georges Grun,8,NO,NO
+1994,1994_r_37,Bélgica,Philippe Albert,90,NO,NO
+1994,1994_r_38,España,Fernando Hierro,15,NO,NO
+1994,1994_r_38,España,Luis Enrique,74,NO,NO
+1994,1994_r_38,España,Txiki Beguiristain,86,SI,NO
+1994,1994_r_39,Arabia Saudita,Fahad Al Ghesheyan,85,NO,NO
+1994,1994_r_39,Suecia,Martin Dahlin,6,NO,NO
+1994,1994_r_39,Suecia,Kennet Andersson,51,NO,NO
+1994,1994_r_39,Suecia,Kennet Andersson,88,NO,NO
+1994,1994_r_40,Rumania,Ilie Dumitrescu,11,NO,NO
+1994,1994_r_40,Rumania,Ilie Dumitrescu,18,NO,NO
+1994,1994_r_40,Rumania,Gheorghe Hagi,58,NO,NO
+1994,1994_r_40,Argentina,Gabriel Batistuta,16,SI,NO
+1994,1994_r_40,Argentina,Abel Balbo,75,NO,NO
+1994,1994_r_41,Paises Bajos,Dennis Bergkamp,11,NO,NO
+1994,1994_r_41,Paises Bajos,Wim Jonk,41,NO,NO
+1994,1994_r_42,Brasil,Bebeto,72,NO,NO
+1994,1994_r_43,Nigeria,Emmanuel Amunike,25,NO,NO
+1994,1994_r_43,Italia,Roberto Baggio,89,NO,NO
+1994,1994_r_43,Italia,Roberto Baggio,100,SI,NO
+1994,1994_r_44,México,Alberto Garcia Aspe,18,SI,NO
+1994,1994_r_44,Bulgaria,Hristo Stoichkov,6,NO,NO
+1994,1994_r_45,Italia,Dino Baggio,25,NO,NO
+1994,1994_r_45,Italia,Roberto Baggio,87,NO,NO
+1994,1994_r_45,España,Jose Luis Caminero,58,NO,NO
+1994,1994_r_46,Paises Bajos,Dennis Bergkamp,64,NO,NO
+1994,1994_r_46,Paises Bajos,Aron Winter,76,NO,NO
+1994,1994_r_46,Brasil,Romario,53,NO,NO
+1994,1994_r_46,Brasil,Bebeto,63,NO,NO
+1994,1994_r_46,Brasil,Branco,81,NO,NO
+1994,1994_r_47,Bulgaria,Hristo Stoichkov,75,NO,NO
+1994,1994_r_47,Bulgaria,Iordan Letchkov,78,NO,NO
+1994,1994_r_47,Alemania,Lothar Matthaeus,47,SI,NO
+1994,1994_r_48,Rumania,Florin Raducioiu,88,NO,NO
+1994,1994_r_48,Rumania,Florin Raducioiu,101,NO,NO
+1994,1994_r_48,Suecia,Tomas Brolin,78,NO,NO
+1994,1994_r_48,Suecia,Kennet Andersson,115,NO,NO
+1994,1994_r_49,Bulgaria,Hristo Stoichkov,44,SI,NO
+1994,1994_r_49,Italia,Roberto Baggio,20,NO,NO
+1994,1994_r_49,Italia,Roberto Baggio,25,NO,NO
+1994,1994_r_50,Brasil,Romario,80,NO,NO
+1994,1994_r_51,Suecia,Tomas Brolin,8,NO,NO
+1994,1994_r_51,Suecia,Hakan Mild,30,NO,NO
+1994,1994_r_51,Suecia,Henrik Larsson,37,NO,NO
+1994,1994_r_51,Suecia,Kennet Andersson,40,NO,NO
